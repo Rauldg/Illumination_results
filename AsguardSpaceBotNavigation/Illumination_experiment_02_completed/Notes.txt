@@ -1,0 +1,12 @@
+Notes.txt
+
+:Author: rdominguez
+:Email: rdominguez@RDOMINGUEZ
+:Date: 2017-03-23 09:37
+
+The logs of the experiments are stored in:
+~/Research/projects/ongoing/Entern_16223/documentation/experiments/20170322-23_Illumination_asguard_logs_Raul
+
+Initial population size: 100
+Number of mutations: 100
+

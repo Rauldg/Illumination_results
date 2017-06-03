@@ -1,0 +1,188 @@
+---
+bpm:
+- - performance: 0.35458048093738476
+    id: 1
+  - performance: 0.158975775921663
+    id: 17
+  - performance: 0.0
+    id: ''
+  - performance: 0.08355418088987503
+    id: 46
+  - performance: 0.0
+    id: ''
+  - performance: 0.08345510346506353
+    id: 10
+  - performance: 0.08359289150997944
+    id: 65
+  - performance: 0.08349023492216141
+    id: 34
+  - performance: 0.08348868719648676
+    id: 8
+  - performance: 0.24220517442444445
+    id: 9
+- - performance: 0.23332101464757116
+    id: 21
+  - performance: 0.08344476688152029
+    id: 68
+  - performance: 0.2195227884155556
+    id: 52
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.33443713785194495
+    id: 48
+  - performance: 0.08343401153116252
+    id: 69
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.24227727474222224
+    id: 62
+  - performance: 0.47565759053926926
+    id: 27
+  - performance: 0.42516801972565677
+    id: 20
+  - performance: 0.0
+    id: ''
+  - performance: 0.28583414245446703
+    id: 4
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.3016341957274565
+    id: 66
+  - performance: 0.0
+    id: ''
+  - performance: 0.15123486612
+    id: 15
+- - performance: 0.24227744587555555
+    id: 79
+  - performance: 0.0
+    id: ''
+  - performance: 0.26504112705555555
+    id: 31
+  - performance: 0.19675279349555555
+    id: 55
+  - performance: 0.2195141015911111
+    id: 51
+  - performance: 0.3249361285237143
+    id: 59
+  - performance: 0.3935700660920428
+    id: 81
+  - performance: 0.0
+    id: ''
+  - performance: 0.225769243578405
+    id: 75
+  - performance: 0.0
+    id: ''
+- - performance: 0.27696773570298405
+    id: 58
+  - performance: 0.2856625969487399
+    id: 0
+  - performance: 0.15952345208001165
+    id: 19
+  - performance: 0.0
+    id: ''
+  - performance: 0.15737596919845123
+    id: 25
+  - performance: 0.2994200374848601
+    id: 64
+  - performance: 0.0
+    id: ''
+  - performance: 0.1588615606793904
+    id: 11
+  - performance: 0.19675442023333334
+    id: 56
+  - performance: 0.26503798786666666
+    id: 63
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.31036403049571626
+    id: 70
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.24228123439999996
+    id: 22
+  - performance: 0.24744160165430962
+    id: 40
+  - performance: 0.08294703358666666
+    id: 76
+  - performance: 0.23457005826419303
+    id: 73
+  - performance: 0.2422817997511111
+    id: 42
+- - performance: 0.14228152488578374
+    id: 33
+  - performance: 0.0
+    id: ''
+  - performance: 0.19675661157555555
+    id: 74
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.2833847504298329
+    id: 13
+  - performance: 0.3021560009020936
+    id: 6
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.16059490733870607
+    id: 12
+  - performance: 0.0
+    id: ''
+  - performance: 0.17399003938666668
+    id: 53
+  - performance: 0.0
+    id: ''
+  - performance: 0.21943629420222224
+    id: 2
+  - performance: 0.4456222252341659
+    id: 80
+  - performance: 0.0
+    id: ''
+  - performance: 0.23397690737743676
+    id: 29
+  - performance: 0.0
+    id: ''
+  - performance: 0.3194352528899663
+    id: 28
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope
