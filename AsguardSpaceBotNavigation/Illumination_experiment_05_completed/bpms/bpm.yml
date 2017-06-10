@@ -1,0 +1,188 @@
+---
+bpm:
+- - performance: 0.0
+    id: ''
+  - performance: 0.5564333054194257
+    id: 314
+  - performance: 0.5671881672167072
+    id: 310
+  - performance: 0.5261950856621057
+    id: 286
+  - performance: 0.0
+    id: ''
+  - performance: 0.5218912050361375
+    id: 150
+  - performance: 0.0
+    id: ''
+  - performance: 0.4940044813519208
+    id: 365
+  - performance: 0.5814705715611134
+    id: 330
+  - performance: 0.5535972562290111
+    id: 304
+- - performance: 0.5227038546144979
+    id: 12
+  - performance: 0.0
+    id: ''
+  - performance: 0.5911750803116835
+    id: 376
+  - performance: 0.6316368375891375
+    id: 197
+  - performance: 0.5568271948615232
+    id: 51
+  - performance: 0.5738767017944976
+    id: 172
+  - performance: 0.5532740914035447
+    id: 53
+  - performance: 0.7627152652794444
+    id: 364
+  - performance: 0.7359088680183332
+    id: 265
+  - performance: 0.6828052511154011
+    id: 385
+- - performance: 0.5208538429824054
+    id: 98
+  - performance: 0.5172235860282015
+    id: 55
+  - performance: 0.6017621866979435
+    id: 237
+  - performance: 0.5078161918726383
+    id: 331
+  - performance: 0.5612029279546561
+    id: 94
+  - performance: 0.773773883435
+    id: 129
+  - performance: 0.5842069568478064
+    id: 277
+  - performance: 0.5079601541376229
+    id: 372
+  - performance: 0.5974378107671636
+    id: 309
+  - performance: 0.7013575780746482
+    id: 140
+- - performance: 0.5195994486338191
+    id: 80
+  - performance: 0.5537387721298894
+    id: 378
+  - performance: 0.5919595892357867
+    id: 154
+  - performance: 0.45142772967228517
+    id: 249
+  - performance: 0.0
+    id: ''
+  - performance: 0.5473178464564853
+    id: 349
+  - performance: 0.44997112149720053
+    id: 132
+  - performance: 0.5894348249749501
+    id: 211
+  - performance: 0.537919542115676
+    id: 323
+  - performance: 0.5805672924413388
+    id: 391
+- - performance: 0.4391995636280282
+    id: 243
+  - performance: 0.6153274836456972
+    id: 184
+  - performance: 0.46436985422850346
+    id: 369
+  - performance: 0.48876019318215747
+    id: 318
+  - performance: 0.5846798782331479
+    id: 394
+  - performance: 0.5333697921296946
+    id: 344
+  - performance: 0.502536786942604
+    id: 143
+  - performance: 0.5865408633284164
+    id: 161
+  - performance: 0.4996902640177433
+    id: 7
+  - performance: 0.5743162620647562
+    id: 384
+- - performance: 0.5062952945360276
+    id: 127
+  - performance: 0.43305372085512805
+    id: 121
+  - performance: 0.0
+    id: ''
+  - performance: 0.5304989801850664
+    id: 185
+  - performance: 0.4779889580877127
+    id: 223
+  - performance: 0.0
+    id: ''
+  - performance: 0.545264131713014
+    id: 194
+  - performance: 0.0
+    id: ''
+  - performance: 0.4434621909025068
+    id: 145
+  - performance: 0.0
+    id: ''
+- - performance: 0.4217582010731159
+    id: 252
+  - performance: 0.3622177668346988
+    id: 333
+  - performance: 0.0
+    id: ''
+  - performance: 0.371205982405934
+    id: 359
+  - performance: 0.39277126838775567
+    id: 229
+  - performance: 0.5513509293478915
+    id: 353
+  - performance: 0.3200033157478084
+    id: 303
+  - performance: 0.0
+    id: ''
+  - performance: 0.4394125762490182
+    id: 191
+  - performance: 0.4618385626556596
+    id: 138
+- - performance: 0.4335702071771522
+    id: 388
+  - performance: 0.4070966260092198
+    id: 239
+  - performance: 0.478619234978512
+    id: 283
+  - performance: 0.4142698543679758
+    id: 67
+  - performance: 0.4275475276052554
+    id: 316
+  - performance: 0.0
+    id: ''
+  - performance: 0.37207447529644877
+    id: 82
+  - performance: 0.49997688748859087
+    id: 387
+  - performance: 0.4387038712559477
+    id: 42
+  - performance: 0.4156196143979804
+    id: 357
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope
