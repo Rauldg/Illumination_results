@@ -1,0 +1,5902 @@
+---
+5:
+  id: 5
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: false
+    mReplanMinDistStartGoal: 1.0
+    mSpeedForward: 0.9
+    mSpeedTurn: 0.6
+    mSpeedPointTurn: 0.4
+    mNumIntermediatePoints: 9
+    planning_time_sec: 9.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.065
+    pointTurnSpeed: 0.08
+  traversability:
+    maximum_slope: 0.7000000000000001
+    min_width: 0.1
+    ground_clearance: 0.65
+  results:
+    '0':
+      no_obstacles:
+        time: 20180122-0619
+        configuration_id: '5'
+        dist_to_goal: '5.730093284792522'
+        achieved: 'false'
+        time_spent: '78.392620973'
+      up_the_crater:
+        time: 20180122-0944
+        configuration_id: '5'
+        dist_to_goal: '10.720010558470083'
+        achieved: 'false'
+        time_spent: '346.825474157'
+      with_obstacles:
+        time: 20180122-0730
+        configuration_id: '5'
+        dist_to_goal: '16.93110900754424'
+        achieved: 'false'
+        time_spent: '185.861911998'
+    '1':
+      with_obstacles:
+        time: 20180122-0736
+        configuration_id: '5'
+        dist_to_goal: '16.987389260209103'
+        achieved: 'false'
+        time_spent: '155.389084527'
+      up_the_crater:
+        time: 20180122-0952
+        configuration_id: '5'
+        dist_to_goal: '69631.10059752126'
+        achieved: 'false'
+        time_spent: '421.501453226'
+      no_obstacles:
+        time: 20180122-0621
+        configuration_id: '5'
+        dist_to_goal: '4.638839345059134'
+        achieved: 'false'
+        time_spent: '78.392689738'
+    '2':
+      up_the_crater:
+        time: 20180122-1000
+        configuration_id: '5'
+        dist_to_goal: '89400.04751846049'
+        achieved: 'false'
+        time_spent: '305.371878692'
+      with_obstacles:
+        time: 20180122-0740
+        configuration_id: '5'
+        dist_to_goal: '16.56681928538128'
+        achieved: 'false'
+        time_spent: '161.739491675'
+      no_obstacles:
+        time: 20180122-0624
+        configuration_id: '5'
+        dist_to_goal: '32.371400813697406'
+        achieved: 'false'
+        time_spent: '78.394007635'
+    '3':
+      up_the_crater:
+        time: 20180122-1009
+        configuration_id: '5'
+        dist_to_goal: '9.301907677110792'
+        achieved: 'false'
+        time_spent: '300.571203485'
+      with_obstacles:
+        time: 20180122-0746
+        configuration_id: '5'
+        dist_to_goal: '16.905011297730578'
+        achieved: 'false'
+        time_spent: '166.815000437'
+      no_obstacles:
+        time: 20180122-0626
+        configuration_id: '5'
+        dist_to_goal: '31.021681014343354'
+        achieved: 'false'
+        time_spent: '78.391321401'
+    '4':
+      with_obstacles:
+        time: 20180122-0750
+        configuration_id: '5'
+        dist_to_goal: '16.796049065165164'
+        achieved: 'false'
+        time_spent: '180.810125741'
+      no_obstacles:
+        time: 20180122-0628
+        configuration_id: '5'
+        dist_to_goal: '39.00003582049986'
+        achieved: 'false'
+        time_spent: '78.395955049'
+      up_the_crater:
+        time: 20180122-1015
+        configuration_id: '5'
+        dist_to_goal: '405605.04331273807'
+        achieved: 'false'
+        time_spent: '633.587117779'
+    '5':
+      no_obstacles:
+        time: 20180122-0631
+        configuration_id: '5'
+        dist_to_goal: '30.545052946343354'
+        achieved: 'false'
+        time_spent: '78.393037555'
+      with_obstacles:
+        time: 20180122-0754
+        configuration_id: '5'
+        dist_to_goal: '16.80355505568515'
+        achieved: 'false'
+        time_spent: '178.096098431'
+      up_the_crater:
+        time: 20180122-1029
+        configuration_id: '5'
+        dist_to_goal: '71801.43570298428'
+        achieved: 'false'
+        time_spent: '401.021603185'
+    '6':
+      up_the_crater:
+        time: 20180122-1037
+        configuration_id: '5'
+        dist_to_goal: '19.737848090277875'
+        achieved: 'false'
+        time_spent: '302.22679809'
+      with_obstacles:
+        time: 20180122-0759
+        configuration_id: '5'
+        dist_to_goal: '16.886571481967344'
+        achieved: 'false'
+        time_spent: '184.331646261'
+      no_obstacles:
+        time: 20180122-0633
+        configuration_id: '5'
+        dist_to_goal: '28.053004064497447'
+        achieved: 'false'
+        time_spent: '78.394516009'
+    '7':
+      no_obstacles:
+        time: 20180122-0636
+        configuration_id: '5'
+        dist_to_goal: '0.5871147780953848'
+        achieved: 'false'
+        time_spent: '78.393296159'
+      with_obstacles:
+        time: 20180122-0803
+        configuration_id: '5'
+        dist_to_goal: '16.62663496781039'
+        achieved: 'false'
+        time_spent: '223.162865721'
+      up_the_crater:
+        time: 20180122-1044
+        configuration_id: '5'
+        dist_to_goal: '10.530511850734706'
+        achieved: 'false'
+        time_spent: '326.26019227'
+    '8':
+      up_the_crater:
+        time: 20180122-1050
+        configuration_id: '5'
+        dist_to_goal: '35.70314932498915'
+        achieved: 'false'
+        time_spent: '340.60646004'
+      no_obstacles:
+        time: 20180122-0638
+        configuration_id: '5'
+        dist_to_goal: '29.750874876867588'
+        achieved: 'false'
+        time_spent: '78.276614687'
+      with_obstacles:
+        time: 20180122-0809
+        configuration_id: '5'
+        dist_to_goal: '17.086386746254664'
+        achieved: 'false'
+        time_spent: '230.540120141'
+    '9':
+      with_obstacles:
+        time: 20180122-0816
+        configuration_id: '5'
+        dist_to_goal: '16.798700163232905'
+        achieved: 'false'
+        time_spent: '177.639447419'
+      no_obstacles:
+        time: 20180122-0640
+        configuration_id: '5'
+        dist_to_goal: '10.755258001234594'
+        achieved: 'false'
+        time_spent: '78.392831019'
+      up_the_crater:
+        time: 20180122-1057
+        configuration_id: '5'
+        dist_to_goal: '11.071223995969255'
+        achieved: 'false'
+        time_spent: '325.813456048'
+    '10':
+      up_the_crater:
+        time: 20180122-1105
+        configuration_id: '5'
+        dist_to_goal: '23809.475393880046'
+        achieved: 'false'
+        time_spent: '313.72044989'
+      no_obstacles:
+        time: 20180122-0643
+        configuration_id: '5'
+        dist_to_goal: '25.797867697050755'
+        achieved: 'false'
+        time_spent: '78.392575674'
+      with_obstacles:
+        time: 20180122-0820
+        configuration_id: '5'
+        dist_to_goal: '16.88466956508678'
+        achieved: 'false'
+        time_spent: '237.886285222'
+    '11':
+      no_obstacles:
+        time: 20180122-0645
+        configuration_id: '5'
+        dist_to_goal: '22.017080755350438'
+        achieved: 'false'
+        time_spent: '78.395731408'
+      with_obstacles:
+        time: 20180122-0825
+        configuration_id: '5'
+        dist_to_goal: '16.82228687645238'
+        achieved: 'false'
+        time_spent: '184.89982039'
+      up_the_crater:
+        time: 20180122-1112
+        configuration_id: '5'
+        dist_to_goal: '10.9207535007197'
+        achieved: 'false'
+        time_spent: '312.728628703'
+    '12':
+      with_obstacles:
+        time: 20180122-0830
+        configuration_id: '5'
+        dist_to_goal: '9.583036225107533'
+        achieved: 'false'
+        time_spent: '187.053634965'
+      up_the_crater:
+        time: 20180122-1120
+        configuration_id: '5'
+        dist_to_goal: '10.794983938047539'
+        achieved: 'false'
+        time_spent: '314.894748958'
+      no_obstacles:
+        time: 20180122-0647
+        configuration_id: '5'
+        dist_to_goal: '4.902796878835385'
+        achieved: 'false'
+        time_spent: '78.393453612'
+    '13':
+      up_the_crater:
+        time: 20180122-1127
+        configuration_id: '5'
+        dist_to_goal: '12.339905835890422'
+        achieved: 'false'
+        time_spent: '636.821218055'
+      with_obstacles:
+        time: 20180122-0835
+        configuration_id: '5'
+        dist_to_goal: '5.255941800420334'
+        achieved: 'false'
+        time_spent: '156.403387129'
+      no_obstacles:
+        time: 20180122-0650
+        configuration_id: '5'
+        dist_to_goal: '28.8342908473787'
+        achieved: 'false'
+        time_spent: '78.274565736'
+    '14':
+      with_obstacles:
+        time: 20180122-0838
+        configuration_id: '5'
+        dist_to_goal: '15.849380783174725'
+        achieved: 'false'
+        time_spent: '164.495432211'
+      up_the_crater:
+        time: 20180122-1141
+        configuration_id: '5'
+        dist_to_goal: '11.93979779602151'
+        achieved: 'false'
+        time_spent: '307.161137953'
+      no_obstacles:
+        time: 20180122-0652
+        configuration_id: '5'
+        dist_to_goal: '4.699693566167364'
+        achieved: 'false'
+        time_spent: '78.392885973'
+    '15':
+      up_the_crater:
+        time: 20180122-1148
+        configuration_id: '5'
+        dist_to_goal: '10.662485184829391'
+        achieved: 'false'
+        time_spent: '374.599365322'
+      no_obstacles:
+        time: 20180122-0655
+        configuration_id: '5'
+        dist_to_goal: '44.82914365437023'
+        achieved: 'false'
+        time_spent: '78.39507928'
+      with_obstacles:
+        time: 20180122-0842
+        configuration_id: '5'
+        dist_to_goal: '16.293936889493253'
+        achieved: 'false'
+        time_spent: '229.015000467'
+    '16':
+      no_obstacles:
+        time: 20180122-0657
+        configuration_id: '5'
+        dist_to_goal: '5.066982885514098'
+        achieved: 'false'
+        time_spent: '78.391674992'
+      with_obstacles:
+        time: 20180122-0847
+        configuration_id: '5'
+        dist_to_goal: '17.01072232334145'
+        achieved: 'false'
+        time_spent: '185.457454799'
+      up_the_crater:
+        time: 20180122-1155
+        configuration_id: '5'
+        dist_to_goal: '15742.23210686197'
+        achieved: 'false'
+        time_spent: '303.729109349'
+    '17':
+      up_the_crater:
+        time: 20180122-1201
+        configuration_id: '5'
+        dist_to_goal: '10.243049939263367'
+        achieved: 'false'
+        time_spent: '301.42998424'
+      no_obstacles:
+        time: 20180122-0659
+        configuration_id: '5'
+        dist_to_goal: '13.528859865564053'
+        achieved: 'false'
+        time_spent: '78.3939084'
+      with_obstacles:
+        time: 20180122-0852
+        configuration_id: '5'
+        dist_to_goal: '7.638081454819812'
+        achieved: 'false'
+        time_spent: '164.943172148'
+    '18':
+      up_the_crater:
+        time: 20180122-1207
+        configuration_id: '5'
+        dist_to_goal: '10.80499923588074'
+        achieved: 'false'
+        time_spent: '368.083697499'
+      no_obstacles:
+        time: 20180122-0702
+        configuration_id: '5'
+        dist_to_goal: '9.447206722197278'
+        achieved: 'false'
+        time_spent: '78.392700912'
+      with_obstacles:
+        time: 20180122-0856
+        configuration_id: '5'
+        dist_to_goal: '16.860929292673262'
+        achieved: 'false'
+        time_spent: '156.643264037'
+    '19':
+      with_obstacles:
+        time: 20180122-0900
+        configuration_id: '5'
+        dist_to_goal: '9.579299771869586'
+        achieved: 'false'
+        time_spent: '206.408956793'
+      up_the_crater:
+        time: 20180122-1215
+        configuration_id: '5'
+        dist_to_goal: '22014.67408199818'
+        achieved: 'false'
+        time_spent: '300.644502378'
+      no_obstacles:
+        time: 20180122-0704
+        configuration_id: '5'
+        dist_to_goal: '4.678318859651709'
+        achieved: 'false'
+        time_spent: '78.394560728'
+    '20':
+      up_the_crater:
+        time: 20180122-1221
+        configuration_id: '5'
+        dist_to_goal: '10.090969526527575'
+        achieved: 'false'
+        time_spent: '320.424839788'
+      no_obstacles:
+        time: 20180122-0706
+        configuration_id: '5'
+        dist_to_goal: '9.144733525677449'
+        achieved: 'false'
+        time_spent: '78.393600434'
+      with_obstacles:
+        time: 20180122-0905
+        configuration_id: '5'
+        dist_to_goal: '15.966293259677018'
+        achieved: 'false'
+        time_spent: '164.577577565'
+    '21':
+      up_the_crater:
+        time: 20180122-1228
+        configuration_id: '5'
+        dist_to_goal: '10.623546315730534'
+        achieved: 'false'
+        time_spent: '340.788034173'
+      no_obstacles:
+        time: 20180122-0709
+        configuration_id: '5'
+        dist_to_goal: '28.888853323634'
+        achieved: 'false'
+        time_spent: '78.395557223'
+      with_obstacles:
+        time: 20180122-0909
+        configuration_id: '5'
+        dist_to_goal: '16.865684032085873'
+        achieved: 'false'
+        time_spent: '195.029854147'
+    '22':
+      up_the_crater:
+        time: 20180122-1235
+        configuration_id: '5'
+        dist_to_goal: '5944.460594051605'
+        achieved: 'false'
+        time_spent: '305.484493481'
+      with_obstacles:
+        time: 20180122-0913
+        configuration_id: '5'
+        dist_to_goal: '7.487058945873042'
+        achieved: 'false'
+        time_spent: '156.303835826'
+      no_obstacles:
+        time: 20180122-0711
+        configuration_id: '5'
+        dist_to_goal: '5.134153120258661'
+        achieved: 'false'
+        time_spent: '78.394402456'
+    '23':
+      no_obstacles:
+        time: 20180122-0713
+        configuration_id: '5'
+        dist_to_goal: '22.08205196671107'
+        achieved: 'false'
+        time_spent: '78.392841548'
+      with_obstacles:
+        time: 20180122-0916
+        configuration_id: '5'
+        dist_to_goal: '16.886676441940025'
+        achieved: 'false'
+        time_spent: '159.677066875'
+      up_the_crater:
+        time: 20180122-1241
+        configuration_id: '5'
+        dist_to_goal: '10.705999247074491'
+        achieved: 'false'
+        time_spent: '303.402083284'
+    '24':
+      no_obstacles:
+        time: 20180122-0716
+        configuration_id: '5'
+        dist_to_goal: '4.672285457642988'
+        achieved: 'false'
+        time_spent: '78.392445093'
+      up_the_crater:
+        time: 20180122-1248
+        configuration_id: '5'
+        dist_to_goal: '25544.439255374717'
+        achieved: 'false'
+        time_spent: '308.408924793'
+      with_obstacles:
+        time: 20180122-0920
+        configuration_id: '5'
+        dist_to_goal: '16.919363775529575'
+        achieved: 'false'
+        time_spent: '153.682961752'
+    '25':
+      with_obstacles:
+        time: 20180122-0924
+        configuration_id: '5'
+        dist_to_goal: '16.861860591698317'
+        achieved: 'false'
+        time_spent: '153.064592322'
+      up_the_crater:
+        time: 20180122-1254
+        configuration_id: '5'
+        dist_to_goal: '10.961940274976351'
+        achieved: 'false'
+        time_spent: '413.376773946'
+      no_obstacles:
+        time: 20180122-0718
+        configuration_id: '5'
+        dist_to_goal: '20.983172978433792'
+        achieved: 'false'
+        time_spent: '78.395159799'
+    '26':
+      with_obstacles:
+        time: 20180122-0928
+        configuration_id: '5'
+        dist_to_goal: '16.764468623147216'
+        achieved: 'false'
+        time_spent: '183.701303441'
+      up_the_crater:
+        time: 20180122-1302
+        configuration_id: '5'
+        dist_to_goal: '10.22099034870422'
+        achieved: 'false'
+        time_spent: '309.53760659'
+      no_obstacles:
+        time: 20180122-0721
+        configuration_id: '5'
+        dist_to_goal: '4.767773847484108'
+        achieved: 'false'
+        time_spent: '78.39487503'
+    '27':
+      up_the_crater:
+        time: 20180122-1309
+        configuration_id: '5'
+        dist_to_goal: '40.661221886886175'
+        achieved: 'false'
+        time_spent: '302.782039563'
+      no_obstacles:
+        time: 20180122-0723
+        configuration_id: '5'
+        dist_to_goal: '4.636358811314836'
+        achieved: 'false'
+        time_spent: '78.392061494'
+      with_obstacles:
+        time: 20180122-0933
+        configuration_id: '5'
+        dist_to_goal: '16.986533706627167'
+        achieved: 'false'
+        time_spent: '160.592754159'
+    '28':
+      with_obstacles:
+        time: 20180122-0937
+        configuration_id: '5'
+        dist_to_goal: '16.37060971966696'
+        achieved: 'false'
+        time_spent: '151.732279582'
+      no_obstacles:
+        time: 20180122-0725
+        configuration_id: '5'
+        dist_to_goal: '26.70189249066899'
+        achieved: 'false'
+        time_spent: '78.394928202'
+      up_the_crater:
+        time: 20180122-1315
+        configuration_id: '5'
+        dist_to_goal: '23097.412631919036'
+        achieved: 'false'
+        time_spent: '318.461954509'
+    '29':
+      no_obstacles:
+        time: 20180122-0728
+        configuration_id: '5'
+        dist_to_goal: '16.453154205910053'
+        achieved: 'false'
+        time_spent: '78.395372146'
+      with_obstacles:
+        time: 20180122-0940
+        configuration_id: '5'
+        dist_to_goal: '16.862541949982504'
+        achieved: 'false'
+        time_spent: '162.897792398'
+      up_the_crater:
+        time: 20180122-1321
+        configuration_id: '5'
+        dist_to_goal: '10.907237655986115'
+        achieved: 'false'
+        time_spent: '332.897965161'
+  performance: 0.15685581825480746
+7:
+  id: 7
+  motion_planner:
+    mSearchUntilFirstSolution: false
+    mReplanDuringEachUpdate: false
+    mReplanMinDistStartGoal: 2.5
+    mSpeedForward: 0.2
+    mSpeedTurn: 0.1
+    mSpeedPointTurn: 0.2
+    mNumIntermediatePoints: 3
+    planning_time_sec: 19.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.01
+    pointTurnSpeed: 0.03
+  traversability:
+    maximum_slope: 0.9000000000000001
+    min_width: 0.05
+    ground_clearance: 0.5
+  results:
+    '0':
+      no_obstacles:
+        time: 20180122-2018
+        configuration_id: '7'
+        dist_to_goal: '5.486784096037705'
+        achieved: 'false'
+        time_spent: '78.391856615'
+      with_obstacles:
+        time: 20180122-2129
+        configuration_id: '7'
+        dist_to_goal: '23.49494832074008'
+        achieved: 'false'
+        time_spent: '163.022552793'
+      up_the_crater:
+        time: 20180122-2329
+        configuration_id: '7'
+        dist_to_goal: '9.571852496546024'
+        achieved: 'false'
+        time_spent: '305.217751106'
+    '1':
+      no_obstacles:
+        time: 20180122-2020
+        configuration_id: '7'
+        dist_to_goal: '5.50662009015347'
+        achieved: 'false'
+        time_spent: '78.392638404'
+      with_obstacles:
+        time: 20180122-2133
+        configuration_id: '7'
+        dist_to_goal: '27.53642778155463'
+        achieved: 'false'
+        time_spent: '155.629535251'
+      up_the_crater:
+        time: 20180122-2336
+        configuration_id: '7'
+        dist_to_goal: '9.743665922733236'
+        achieved: 'false'
+        time_spent: '365.499360498'
+    '2':
+      with_obstacles:
+        time: 20180122-2136
+        configuration_id: '7'
+        dist_to_goal: '27.87447539707334'
+        achieved: 'false'
+        time_spent: '210.505931676'
+      up_the_crater:
+        time: 20180122-2344
+        configuration_id: '7'
+        dist_to_goal: '9.80552261879152'
+        achieved: 'false'
+        time_spent: '335.721955866'
+      no_obstacles:
+        time: 20180122-2023
+        configuration_id: '7'
+        dist_to_goal: '2.087001230299158'
+        achieved: 'false'
+        time_spent: '78.395425523'
+    '3':
+      with_obstacles:
+        time: 20180122-2141
+        configuration_id: '7'
+        dist_to_goal: '28.699690999906075'
+        achieved: 'false'
+        time_spent: '169.507540205'
+      up_the_crater:
+        time: 20180122-2352
+        configuration_id: '7'
+        dist_to_goal: '9.59859930083062'
+        achieved: 'false'
+        time_spent: '327.957813398'
+      no_obstacles:
+        time: 20180122-2025
+        configuration_id: '7'
+        dist_to_goal: '5.494208458522516'
+        achieved: 'false'
+        time_spent: '78.392700713'
+    '4':
+      with_obstacles:
+        time: 20180122-2145
+        configuration_id: '7'
+        dist_to_goal: '26.612372895582034'
+        achieved: 'false'
+        time_spent: '150.21533346'
+      up_the_crater:
+        time: 20180122-2359
+        configuration_id: '7'
+        dist_to_goal: '9.54834533320405'
+        achieved: 'false'
+        time_spent: '302.443992392'
+      no_obstacles:
+        time: 20180122-2028
+        configuration_id: '7'
+        dist_to_goal: '5.571641513478104'
+        achieved: 'false'
+        time_spent: '78.393485936'
+    '5':
+      with_obstacles:
+        time: 20180122-2148
+        configuration_id: '7'
+        dist_to_goal: '28.869171629278114'
+        achieved: 'false'
+        time_spent: '159.673991752'
+      no_obstacles:
+        time: 20180122-2030
+        configuration_id: '7'
+        dist_to_goal: '5.44807525711918'
+        achieved: 'false'
+        time_spent: '78.391159571'
+      up_the_crater:
+        time: 20180123-0005
+        configuration_id: '7'
+        dist_to_goal: '9.751322096282019'
+        achieved: 'false'
+        time_spent: '375.422415695'
+    '6':
+      with_obstacles:
+        time: 20180122-2152
+        configuration_id: '7'
+        dist_to_goal: '28.50111993271482'
+        achieved: 'false'
+        time_spent: '163.453738159'
+      no_obstacles:
+        time: 20180122-2032
+        configuration_id: '7'
+        dist_to_goal: '2.0421098934726'
+        achieved: 'false'
+        time_spent: '78.399528091'
+      up_the_crater:
+        time: 20180123-0013
+        configuration_id: '7'
+        dist_to_goal: '9.783322682028167'
+        achieved: 'false'
+        time_spent: '429.818187055'
+    '7':
+      up_the_crater:
+        time: 20180123-0022
+        configuration_id: '7'
+        dist_to_goal: '9.791752887932544'
+        achieved: 'false'
+        time_spent: '377.526701036'
+      with_obstacles:
+        time: 20180122-2156
+        configuration_id: '7'
+        dist_to_goal: '27.951732105264767'
+        achieved: 'false'
+        time_spent: '154.143902654'
+      no_obstacles:
+        time: 20180122-2035
+        configuration_id: '7'
+        dist_to_goal: '5.495245431712231'
+        achieved: 'false'
+        time_spent: '78.393399651'
+    '8':
+      up_the_crater:
+        time: 20180123-0030
+        configuration_id: '7'
+        dist_to_goal: '9.698523465621854'
+        achieved: 'false'
+        time_spent: '316.938251809'
+      no_obstacles:
+        time: 20180122-2037
+        configuration_id: '7'
+        dist_to_goal: '5.485074356046173'
+        achieved: 'false'
+        time_spent: '78.39270722'
+      with_obstacles:
+        time: 20180122-2200
+        configuration_id: '7'
+        dist_to_goal: '28.364425113021337'
+        achieved: 'false'
+        time_spent: '157.726388017'
+    '9':
+      no_obstacles:
+        time: 20180122-2039
+        configuration_id: '7'
+        dist_to_goal: '5.4952505029445655'
+        achieved: 'false'
+        time_spent: '78.393976563'
+      up_the_crater:
+        time: 20180123-0036
+        configuration_id: '7'
+        dist_to_goal: '9.71723936580726'
+        achieved: 'false'
+        time_spent: '378.230546034'
+      with_obstacles:
+        time: 20180122-2204
+        configuration_id: '7'
+        dist_to_goal: '28.3824475477258'
+        achieved: 'false'
+        time_spent: '158.311285003'
+    '10':
+      with_obstacles:
+        time: 20180122-2208
+        configuration_id: '7'
+        dist_to_goal: '27.985634190428808'
+        achieved: 'false'
+        time_spent: '153.468646418'
+      no_obstacles:
+        time: 20180122-2042
+        configuration_id: '7'
+        dist_to_goal: '5.424135750607585'
+        achieved: 'false'
+        time_spent: '78.395373923'
+      up_the_crater:
+        time: 20180123-0044
+        configuration_id: '7'
+        dist_to_goal: '9.629251141378516'
+        achieved: 'false'
+        time_spent: '307.435937779'
+    '11':
+      with_obstacles:
+        time: 20180122-2212
+        configuration_id: '7'
+        dist_to_goal: '30.586209348773384'
+        achieved: 'false'
+        time_spent: '207.971894596'
+      no_obstacles:
+        time: 20180122-2044
+        configuration_id: '7'
+        dist_to_goal: '5.491872003519832'
+        achieved: 'false'
+        time_spent: '78.391510542'
+      up_the_crater:
+        time: 20180123-0051
+        configuration_id: '7'
+        dist_to_goal: '9.558805033889106'
+        achieved: 'false'
+        time_spent: '324.419267694'
+    '12':
+      with_obstacles:
+        time: 20180122-2217
+        configuration_id: '7'
+        dist_to_goal: '28.42064684624073'
+        achieved: 'false'
+        time_spent: '152.14739046'
+      up_the_crater:
+        time: 20180123-0058
+        configuration_id: '7'
+        dist_to_goal: '9.528726941595789'
+        achieved: 'false'
+        time_spent: '312.071258214'
+      no_obstacles:
+        time: 20180122-2046
+        configuration_id: '7'
+        dist_to_goal: '5.379011766349143'
+        achieved: 'false'
+        time_spent: '78.394915141'
+    '13':
+      up_the_crater:
+        time: 20180123-0104
+        configuration_id: '7'
+        dist_to_goal: '9.61206795936195'
+        achieved: 'false'
+        time_spent: '319.892427821'
+      with_obstacles:
+        time: 20180122-2220
+        configuration_id: '7'
+        dist_to_goal: '28.112381428791416'
+        achieved: 'false'
+        time_spent: '198.192763455'
+      no_obstacles:
+        time: 20180122-2049
+        configuration_id: '7'
+        dist_to_goal: '5.490783396532332'
+        achieved: 'false'
+        time_spent: '78.39508032'
+    '14':
+      no_obstacles:
+        time: 20180122-2051
+        configuration_id: '7'
+        dist_to_goal: '5.532017795770011'
+        achieved: 'false'
+        time_spent: '78.391749726'
+      with_obstacles:
+        time: 20180122-2225
+        configuration_id: '7'
+        dist_to_goal: '28.662871181060666'
+        achieved: 'false'
+        time_spent: '165.72812969'
+      up_the_crater:
+        time: 20180123-0111
+        configuration_id: '7'
+        dist_to_goal: '10.273875356917719'
+        achieved: 'false'
+        time_spent: '488.363509479'
+    '15':
+      with_obstacles:
+        time: 20180122-2229
+        configuration_id: '7'
+        dist_to_goal: '27.74142666703116'
+        achieved: 'false'
+        time_spent: '151.828843141'
+      up_the_crater:
+        time: 20180123-0122
+        configuration_id: '7'
+        dist_to_goal: '10.441580042282421'
+        achieved: 'false'
+        time_spent: '694.510715545'
+      no_obstacles:
+        time: 20180122-2054
+        configuration_id: '7'
+        dist_to_goal: '5.5200873547680835'
+        achieved: 'false'
+        time_spent: '78.388896855'
+    '16':
+      with_obstacles:
+        time: 20180122-2234
+        configuration_id: '7'
+        dist_to_goal: '16.852096501626995'
+        achieved: 'false'
+        time_spent: '157.838324835'
+      up_the_crater:
+        time: 20180123-0135
+        configuration_id: '7'
+        dist_to_goal: '10.416895722297543'
+        achieved: 'false'
+        time_spent: '371.483992858'
+      no_obstacles:
+        time: 20180122-2056
+        configuration_id: '7'
+        dist_to_goal: '5.450363259543827'
+        achieved: 'false'
+        time_spent: '78.39225512'
+    '17':
+      up_the_crater:
+        time: 20180123-0146
+        configuration_id: '7'
+        dist_to_goal: '10.423838198712735'
+        achieved: 'false'
+        time_spent: '453.924094479'
+      with_obstacles:
+        time: 20180122-2238
+        configuration_id: '7'
+        dist_to_goal: '28.761552318929088'
+        achieved: 'false'
+        time_spent: '151.061432201'
+      no_obstacles:
+        time: 20180122-2058
+        configuration_id: '7'
+        dist_to_goal: '5.532255116237277'
+        achieved: 'false'
+        time_spent: '78.273996982'
+    '18':
+      up_the_crater:
+        time: 20180123-0159
+        configuration_id: '7'
+        dist_to_goal: '9.591399968539454'
+        achieved: 'false'
+        time_spent: '309.487018069'
+      with_obstacles:
+        time: 20180122-2241
+        configuration_id: '7'
+        dist_to_goal: '27.723260765229828'
+        achieved: 'false'
+        time_spent: '154.596850662'
+      no_obstacles:
+        time: 20180122-2101
+        configuration_id: '7'
+        dist_to_goal: '5.520076179976268'
+        achieved: 'false'
+        time_spent: '78.394401516'
+    '19':
+      with_obstacles:
+        time: 20180122-2245
+        configuration_id: '7'
+        dist_to_goal: '27.887143852183254'
+        achieved: 'false'
+        time_spent: '160.710486051'
+      up_the_crater:
+        time: 20180123-0205
+        configuration_id: '7'
+        dist_to_goal: '9.713081251884987'
+        achieved: 'false'
+        time_spent: '403.217300198'
+      no_obstacles:
+        time: 20180122-2103
+        configuration_id: '7'
+        dist_to_goal: '2.027068378915787'
+        achieved: 'false'
+        time_spent: '78.393408884'
+    '20':
+      with_obstacles:
+        time: 20180122-2249
+        configuration_id: '7'
+        dist_to_goal: '17.22271664477349'
+        achieved: 'false'
+        time_spent: '172.148993972'
+      up_the_crater:
+        time: 20180123-0213
+        configuration_id: '7'
+        dist_to_goal: '9.540378824029391'
+        achieved: 'false'
+        time_spent: '323.960547438'
+      no_obstacles:
+        time: 20180122-2105
+        configuration_id: '7'
+        dist_to_goal: '2.107115191758419'
+        achieved: 'false'
+        time_spent: '78.391409175'
+    '21':
+      no_obstacles:
+        time: 20180122-2108
+        configuration_id: '7'
+        dist_to_goal: '2.1568281364742536'
+        achieved: 'false'
+        time_spent: '78.392464995'
+      up_the_crater:
+        time: 20180123-0220
+        configuration_id: '7'
+        dist_to_goal: '9.693352183221622'
+        achieved: 'false'
+        time_spent: '374.023346579'
+      with_obstacles:
+        time: 20180122-2253
+        configuration_id: '7'
+        dist_to_goal: '28.282100354916864'
+        achieved: 'false'
+        time_spent: '167.19866223'
+    '22':
+      up_the_crater:
+        time: 20180123-0228
+        configuration_id: '7'
+        dist_to_goal: '9.566428437346469'
+        achieved: 'false'
+        time_spent: '318.125612114'
+      with_obstacles:
+        time: 20180122-2256
+        configuration_id: '7'
+        dist_to_goal: '27.634716048611594'
+        achieved: 'false'
+        time_spent: '161.112191415'
+      no_obstacles:
+        time: 20180122-2110
+        configuration_id: '7'
+        dist_to_goal: '5.490702312044545'
+        achieved: 'false'
+        time_spent: '78.394456739'
+    '23':
+      with_obstacles:
+        time: 20180122-2300
+        configuration_id: '7'
+        dist_to_goal: '28.24872052599584'
+        achieved: 'false'
+        time_spent: '150.510234635'
+      no_obstacles:
+        time: 20180122-2112
+        configuration_id: '7'
+        dist_to_goal: '3.547111667125554'
+        achieved: 'false'
+        time_spent: '78.394711449'
+      up_the_crater:
+        time: 20180123-0234
+        configuration_id: '7'
+        dist_to_goal: '9.864058957585932'
+        achieved: 'false'
+        time_spent: '347.744055704'
+    '24':
+      up_the_crater:
+        time: 20180123-0243
+        configuration_id: '7'
+        dist_to_goal: '9.683076558570473'
+        achieved: 'false'
+        time_spent: '375.402824282'
+      with_obstacles:
+        time: 20180122-2304
+        configuration_id: '7'
+        dist_to_goal: '34.59758523212135'
+        achieved: 'false'
+        time_spent: '223.966644998'
+      no_obstacles:
+        time: 20180122-2115
+        configuration_id: '7'
+        dist_to_goal: '5.670254957520866'
+        achieved: 'false'
+        time_spent: '78.394371862'
+    '25':
+      with_obstacles:
+        time: 20180122-2308
+        configuration_id: '7'
+        dist_to_goal: '27.48129140622823'
+        achieved: 'false'
+        time_spent: '201.325709657'
+      no_obstacles:
+        time: 20180122-2117
+        configuration_id: '7'
+        dist_to_goal: '2.103860023409047'
+        achieved: 'false'
+        time_spent: '78.393531018'
+      up_the_crater:
+        time: 20180123-0250
+        configuration_id: '7'
+        dist_to_goal: '10.502480317664656'
+        achieved: 'false'
+        time_spent: '729.027653676'
+    '26':
+      up_the_crater:
+        time: 20180123-0305
+        configuration_id: '7'
+        dist_to_goal: '10.582243777479766'
+        achieved: 'false'
+        time_spent: '484.73852659'
+      no_obstacles:
+        time: 20180122-2120
+        configuration_id: '7'
+        dist_to_goal: '5.4348993695434205'
+        achieved: 'false'
+        time_spent: '78.392655355'
+      with_obstacles:
+        time: 20180122-2314
+        configuration_id: '7'
+        dist_to_goal: '27.59900426545017'
+        achieved: 'false'
+        time_spent: '156.134687505'
+    '27':
+      up_the_crater:
+        time: 20180419-0620
+        configuration_id: '7'
+        dist_to_goal: '9.588136257575712'
+        achieved: 'false'
+        time_spent: '308.608024897'
+      with_obstacles:
+        time: 20180122-2317
+        configuration_id: '7'
+        dist_to_goal: '28.404217308449525'
+        achieved: 'false'
+        time_spent: '151.372966006'
+      no_obstacles:
+        time: 20180122-2122
+        configuration_id: '7'
+        dist_to_goal: '5.600878679604304'
+        achieved: 'false'
+        time_spent: '78.39388623'
+    '28':
+      up_the_crater:
+        time: 20180123-0319
+        configuration_id: '7'
+        dist_to_goal: '9.741647560341256'
+        achieved: 'false'
+        time_spent: '370.602045598'
+      with_obstacles:
+        time: 20180122-2321
+        configuration_id: '7'
+        dist_to_goal: '28.909914140193127'
+        achieved: 'false'
+        time_spent: '197.017681946'
+      no_obstacles:
+        time: 20180122-2124
+        configuration_id: '7'
+        dist_to_goal: '5.508940771643526'
+        achieved: 'false'
+        time_spent: '78.394207644'
+    '29':
+      up_the_crater:
+        time: 20180123-0327
+        configuration_id: '7'
+        dist_to_goal: '10.25994548031671'
+        achieved: 'false'
+        time_spent: '479.974004726'
+      with_obstacles:
+        time: 20180122-2326
+        configuration_id: '7'
+        dist_to_goal: '26.85799011345652'
+        achieved: 'false'
+        time_spent: '151.24474108'
+      no_obstacles:
+        time: 20180122-2127
+        configuration_id: '7'
+        dist_to_goal: '5.529596324891864'
+        achieved: 'false'
+        time_spent: '78.393414735'
+  performance: 0.19606984428178348
+4:
+  id: 4
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: true
+    mReplanMinDistStartGoal: 0.5
+    mSpeedForward: 0.7
+    mSpeedTurn: 0.7000000000000001
+    mSpeedPointTurn: 0.4
+    mNumIntermediatePoints: 11
+    planning_time_sec: 3.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.045000000000000005
+    pointTurnSpeed: 0.05
+  traversability:
+    maximum_slope: 1.0
+    min_width: 0.2
+    ground_clearance: 0.25
+  results:
+    '0':
+      with_obstacles:
+        time: 20180121-1908
+        configuration_id: '4'
+        dist_to_goal: '16.718080638164754'
+        achieved: 'false'
+        time_spent: '175.880312278'
+      up_the_crater:
+        time: 20180121-2121
+        configuration_id: '4'
+        dist_to_goal: '1079.511100271582'
+        achieved: 'false'
+        time_spent: '314.789139089'
+      no_obstacles:
+        time: 20180121-1756
+        configuration_id: '4'
+        dist_to_goal: '26.896922695415938'
+        achieved: 'false'
+        time_spent: '78.391457426'
+    '1':
+      with_obstacles:
+        time: 20180121-1912
+        configuration_id: '4'
+        dist_to_goal: '16.308242572073926'
+        achieved: 'false'
+        time_spent: '154.398288206'
+      no_obstacles:
+        time: 20180121-1759
+        configuration_id: '4'
+        dist_to_goal: '31.886984248903783'
+        achieved: 'false'
+        time_spent: '78.3942535'
+      up_the_crater:
+        time: 20180121-2128
+        configuration_id: '4'
+        dist_to_goal: '19.929423460474343'
+        achieved: 'false'
+        time_spent: '315.005037317'
+    '2':
+      no_obstacles:
+        time: 20180121-1801
+        configuration_id: '4'
+        dist_to_goal: '9.739575739237045'
+        achieved: 'false'
+        time_spent: '78.395379656'
+      up_the_crater:
+        time: 20180121-2135
+        configuration_id: '4'
+        dist_to_goal: '27347.61069463216'
+        achieved: 'false'
+        time_spent: '348.747617258'
+      with_obstacles:
+        time: 20180121-1916
+        configuration_id: '4'
+        dist_to_goal: '16.87937347216047'
+        achieved: 'false'
+        time_spent: '183.333755651'
+    '3':
+      with_obstacles:
+        time: 20180121-1920
+        configuration_id: '4'
+        dist_to_goal: '16.90596441246787'
+        achieved: 'false'
+        time_spent: '150.994370432'
+      no_obstacles:
+        time: 20180121-1804
+        configuration_id: '4'
+        dist_to_goal: '10.845096185659306'
+        achieved: 'false'
+        time_spent: '78.396395638'
+      up_the_crater:
+        time: 20180121-2142
+        configuration_id: '4'
+        dist_to_goal: '25.338788868676538'
+        achieved: 'false'
+        time_spent: '302.234434759'
+    '4':
+      up_the_crater:
+        time: 20180121-2148
+        configuration_id: '4'
+        dist_to_goal: '6034.900051877023'
+        achieved: 'false'
+        time_spent: '325.969138536'
+      with_obstacles:
+        time: 20180121-1925
+        configuration_id: '4'
+        dist_to_goal: '17.09142713710367'
+        achieved: 'false'
+        time_spent: '264.148542159'
+      no_obstacles:
+        time: 20180121-1806
+        configuration_id: '4'
+        dist_to_goal: '30.54845106870659'
+        achieved: 'false'
+        time_spent: '78.394036799'
+    '5':
+      no_obstacles:
+        time: 20180121-1808
+        configuration_id: '4'
+        dist_to_goal: '6.801528810771864'
+        achieved: 'false'
+        time_spent: '78.396261863'
+      with_obstacles:
+        time: 20180121-1932
+        configuration_id: '4'
+        dist_to_goal: '16.672418871290166'
+        achieved: 'false'
+        time_spent: '159.105047898'
+      up_the_crater:
+        time: 20180121-2155
+        configuration_id: '4'
+        dist_to_goal: '36.870531831540795'
+        achieved: 'false'
+        time_spent: '313.542486396'
+    '6':
+      up_the_crater:
+        time: 20180121-2202
+        configuration_id: '4'
+        dist_to_goal: '38.38762555445847'
+        achieved: 'false'
+        time_spent: '306.608993912'
+      with_obstacles:
+        time: 20180121-1935
+        configuration_id: '4'
+        dist_to_goal: '16.891735259422564'
+        achieved: 'false'
+        time_spent: '163.640781099'
+      no_obstacles:
+        time: 20180121-1811
+        configuration_id: '4'
+        dist_to_goal: '32.164643535684775'
+        achieved: 'false'
+        time_spent: '78.395715226'
+    '7':
+      no_obstacles:
+        time: 20180121-1813
+        configuration_id: '4'
+        dist_to_goal: '27.927268502958146'
+        achieved: 'false'
+        time_spent: '78.394344292'
+      up_the_crater:
+        time: 20180121-2208
+        configuration_id: '4'
+        dist_to_goal: '32051.999237994056'
+        achieved: 'false'
+        time_spent: '315.070410007'
+      with_obstacles:
+        time: 20180121-1939
+        configuration_id: '4'
+        dist_to_goal: '16.734611946224856'
+        achieved: 'false'
+        time_spent: '170.363543617'
+    '8':
+      up_the_crater:
+        time: 20180121-2215
+        configuration_id: '4'
+        dist_to_goal: '21808.080215039492'
+        achieved: 'false'
+        time_spent: '303.669416614'
+      no_obstacles:
+        time: 20180121-1815
+        configuration_id: '4'
+        dist_to_goal: '27.90642210773447'
+        achieved: 'false'
+        time_spent: '78.394475243'
+      with_obstacles:
+        time: 20180121-1944
+        configuration_id: '4'
+        dist_to_goal: '16.83419630748568'
+        achieved: 'false'
+        time_spent: '154.500498735'
+    '9':
+      with_obstacles:
+        time: 20180121-1948
+        configuration_id: '4'
+        dist_to_goal: '16.96202932277169'
+        achieved: 'false'
+        time_spent: '156.095061902'
+      up_the_crater:
+        time: 20180121-2221
+        configuration_id: '4'
+        dist_to_goal: '40.287213705366206'
+        achieved: 'false'
+        time_spent: '306.55170549'
+      no_obstacles:
+        time: 20180121-1818
+        configuration_id: '4'
+        dist_to_goal: '47.64410848973557'
+        achieved: 'false'
+        time_spent: '78.394833206'
+    '10':
+      up_the_crater:
+        time: 20180121-2227
+        configuration_id: '4'
+        dist_to_goal: '44.9038598047996'
+        achieved: 'false'
+        time_spent: '316.074950613'
+      with_obstacles:
+        time: 20180121-1952
+        configuration_id: '4'
+        dist_to_goal: '16.836081110324187'
+        achieved: 'false'
+        time_spent: '160.229788074'
+      no_obstacles:
+        time: 20180121-1820
+        configuration_id: '4'
+        dist_to_goal: '35.61451003598017'
+        achieved: 'false'
+        time_spent: '78.394372601'
+    '11':
+      with_obstacles:
+        time: 20180121-1956
+        configuration_id: '4'
+        dist_to_goal: '16.85907817403843'
+        achieved: 'false'
+        time_spent: '152.786448071'
+      up_the_crater:
+        time: 20180121-2234
+        configuration_id: '4'
+        dist_to_goal: '612.6623111732277'
+        achieved: 'false'
+        time_spent: '310.051875416'
+      no_obstacles:
+        time: 20180121-1822
+        configuration_id: '4'
+        dist_to_goal: '27.530259259725433'
+        achieved: 'false'
+        time_spent: '78.395716435'
+    '12':
+      up_the_crater:
+        time: 20180121-2240
+        configuration_id: '4'
+        dist_to_goal: '13.919189828051357'
+        achieved: 'false'
+        time_spent: '314.291741348'
+      no_obstacles:
+        time: 20180121-1825
+        configuration_id: '4'
+        dist_to_goal: '32.48655852585649'
+        achieved: 'false'
+        time_spent: '78.393808814'
+      with_obstacles:
+        time: 20180121-1959
+        configuration_id: '4'
+        dist_to_goal: '16.92332222357325'
+        achieved: 'false'
+        time_spent: '206.959812749'
+    '13':
+      with_obstacles:
+        time: 20180121-2004
+        configuration_id: '4'
+        dist_to_goal: '16.855617328679813'
+        achieved: 'false'
+        time_spent: '153.231555209'
+      no_obstacles:
+        time: 20180121-1827
+        configuration_id: '4'
+        dist_to_goal: '33.49713103572762'
+        achieved: 'false'
+        time_spent: '78.394061632'
+      up_the_crater:
+        time: 20180121-2247
+        configuration_id: '4'
+        dist_to_goal: '30.071918544945046'
+        achieved: 'false'
+        time_spent: '303.761485362'
+    '14':
+      no_obstacles:
+        time: 20180121-1830
+        configuration_id: '4'
+        dist_to_goal: '31.297280564748988'
+        achieved: 'false'
+        time_spent: '78.392811952'
+      up_the_crater:
+        time: 20180121-2253
+        configuration_id: '4'
+        dist_to_goal: '24.59804340055137'
+        achieved: 'false'
+        time_spent: '300.707720405'
+      with_obstacles:
+        time: 20180121-2007
+        configuration_id: '4'
+        dist_to_goal: '16.770731825234623'
+        achieved: 'false'
+        time_spent: '157.435412245'
+    '15':
+      up_the_crater:
+        time: 20180121-2259
+        configuration_id: '4'
+        dist_to_goal: '22.801279458451322'
+        achieved: 'false'
+        time_spent: '310.482988159'
+      no_obstacles:
+        time: 20180121-1832
+        configuration_id: '4'
+        dist_to_goal: '18.410213818549376'
+        achieved: 'false'
+        time_spent: '78.39335505'
+      with_obstacles:
+        time: 20180121-2011
+        configuration_id: '4'
+        dist_to_goal: '16.929272544071143'
+        achieved: 'false'
+        time_spent: '167.466952401'
+    '16':
+      with_obstacles:
+        time: 20180121-2016
+        configuration_id: '4'
+        dist_to_goal: '4.514512227890993'
+        achieved: 'false'
+        time_spent: '410.116787755'
+      no_obstacles:
+        time: 20180121-1834
+        configuration_id: '4'
+        dist_to_goal: '4.815345384256707'
+        achieved: 'false'
+        time_spent: '78.395450758'
+      up_the_crater:
+        time: 20180121-2305
+        configuration_id: '4'
+        dist_to_goal: '11657.716818802262'
+        achieved: 'false'
+        time_spent: '325.547076505'
+    '17':
+      with_obstacles:
+        time: 20180121-2023
+        configuration_id: '4'
+        dist_to_goal: '16.998245803466435'
+        achieved: 'false'
+        time_spent: '190.671891849'
+      up_the_crater:
+        time: 20180121-2312
+        configuration_id: '4'
+        dist_to_goal: '28.109725484788164'
+        achieved: 'false'
+        time_spent: '362.701708626'
+      no_obstacles:
+        time: 20180121-1837
+        configuration_id: '4'
+        dist_to_goal: '32.43209618528146'
+        achieved: 'false'
+        time_spent: '78.272511044'
+    '18':
+      no_obstacles:
+        time: 20180121-1839
+        configuration_id: '4'
+        dist_to_goal: '30.09189453434055'
+        achieved: 'false'
+        time_spent: '78.394107402'
+      up_the_crater:
+        time: 20180121-2319
+        configuration_id: '4'
+        dist_to_goal: '31.879792411965006'
+        achieved: 'false'
+        time_spent: '308.347560758'
+      with_obstacles:
+        time: 20180121-2027
+        configuration_id: '4'
+        dist_to_goal: '16.793327416486623'
+        achieved: 'false'
+        time_spent: '181.91811185'
+    '19':
+      with_obstacles:
+        time: 20180121-2032
+        configuration_id: '4'
+        dist_to_goal: '16.630945141616916'
+        achieved: 'false'
+        time_spent: '181.968694914'
+      no_obstacles:
+        time: 20180121-1841
+        configuration_id: '4'
+        dist_to_goal: '25.422097901175515'
+        achieved: 'false'
+        time_spent: '78.393626133'
+      up_the_crater:
+        time: 20180121-2326
+        configuration_id: '4'
+        dist_to_goal: '73942.61518224866'
+        achieved: 'false'
+        time_spent: '401.080990601'
+    '20':
+      up_the_crater:
+        time: 20180121-2334
+        configuration_id: '4'
+        dist_to_goal: '43.01735498541659'
+        achieved: 'false'
+        time_spent: '312.786896738'
+      no_obstacles:
+        time: 20180121-1844
+        configuration_id: '4'
+        dist_to_goal: '24.690271956199084'
+        achieved: 'false'
+        time_spent: '78.39560867'
+      with_obstacles:
+        time: 20180121-2036
+        configuration_id: '4'
+        dist_to_goal: '16.705613349010473'
+        achieved: 'false'
+        time_spent: '162.418229789'
+    '21':
+      up_the_crater:
+        time: 20180121-2340
+        configuration_id: '4'
+        dist_to_goal: '31.023252922335104'
+        achieved: 'false'
+        time_spent: '302.472222185'
+      no_obstacles:
+        time: 20180121-1846
+        configuration_id: '4'
+        dist_to_goal: '29.747577929437476'
+        achieved: 'false'
+        time_spent: '78.39358841'
+      with_obstacles:
+        time: 20180121-2040
+        configuration_id: '4'
+        dist_to_goal: '16.86373062189225'
+        achieved: 'false'
+        time_spent: '226.176537799'
+    '22':
+      no_obstacles:
+        time: 20180121-1849
+        configuration_id: '4'
+        dist_to_goal: '31.165124176902218'
+        achieved: 'false'
+        time_spent: '78.39638489'
+      with_obstacles:
+        time: 20180121-2045
+        configuration_id: '4'
+        dist_to_goal: '16.770679426317727'
+        achieved: 'false'
+        time_spent: '150.752387999'
+      up_the_crater:
+        time: 20180121-2346
+        configuration_id: '4'
+        dist_to_goal: '15.052051344297738'
+        achieved: 'false'
+        time_spent: '300.893903732'
+    '23':
+      with_obstacles:
+        time: 20180121-2049
+        configuration_id: '4'
+        dist_to_goal: '16.918270658251064'
+        achieved: 'false'
+        time_spent: '171.454591928'
+      up_the_crater:
+        time: 20180121-2352
+        configuration_id: '4'
+        dist_to_goal: '20888.812741790283'
+        achieved: 'false'
+        time_spent: '304.223485269'
+      no_obstacles:
+        time: 20180121-1851
+        configuration_id: '4'
+        dist_to_goal: '41.78730919564287'
+        achieved: 'false'
+        time_spent: '78.393836259'
+    '24':
+      no_obstacles:
+        time: 20180121-1853
+        configuration_id: '4'
+        dist_to_goal: '23.748095335973733'
+        achieved: 'false'
+        time_spent: '78.393108003'
+      with_obstacles:
+        time: 20180121-2053
+        configuration_id: '4'
+        dist_to_goal: '16.9779930788564'
+        achieved: 'false'
+        time_spent: '193.075596352'
+      up_the_crater:
+        time: 20180121-2358
+        configuration_id: '4'
+        dist_to_goal: '24.880899607715996'
+        achieved: 'false'
+        time_spent: '314.262204918'
+    '25':
+      no_obstacles:
+        time: 20180121-1856
+        configuration_id: '4'
+        dist_to_goal: '48.19606969044653'
+        achieved: 'false'
+        time_spent: '78.393687161'
+      with_obstacles:
+        time: 20180121-2058
+        configuration_id: '4'
+        dist_to_goal: '16.886519469522067'
+        achieved: 'false'
+        time_spent: '174.758938909'
+      up_the_crater:
+        time: 20180122-0005
+        configuration_id: '4'
+        dist_to_goal: '24.48391221540826'
+        achieved: 'false'
+        time_spent: '318.463133662'
+    '26':
+      with_obstacles:
+        time: 20180121-2103
+        configuration_id: '4'
+        dist_to_goal: '17.095608361981608'
+        achieved: 'false'
+        time_spent: '150.866099393'
+      up_the_crater:
+        time: 20180122-0011
+        configuration_id: '4'
+        dist_to_goal: '20709.53401762235'
+        achieved: 'false'
+        time_spent: '402.801298969'
+      no_obstacles:
+        time: 20180121-1858
+        configuration_id: '4'
+        dist_to_goal: '26.02213202665745'
+        achieved: 'false'
+        time_spent: '78.395252798'
+    '27':
+      no_obstacles:
+        time: 20180121-1900
+        configuration_id: '4'
+        dist_to_goal: '37.51221081994069'
+        achieved: 'false'
+        time_spent: '78.390828475'
+      with_obstacles:
+        time: 20180121-2107
+        configuration_id: '4'
+        dist_to_goal: '14.255542993849696'
+        achieved: 'false'
+        time_spent: '192.756567689'
+      up_the_crater:
+        time: 20180122-0019
+        configuration_id: '4'
+        dist_to_goal: '13.800706720042838'
+        achieved: 'false'
+        time_spent: '302.792060721'
+    '28':
+      up_the_crater:
+        time: 20180122-0026
+        configuration_id: '4'
+        dist_to_goal: '36287.765063049854'
+        achieved: 'false'
+        time_spent: '311.268933927'
+      with_obstacles:
+        time: 20180121-2111
+        configuration_id: '4'
+        dist_to_goal: '16.88935347147355'
+        achieved: 'false'
+        time_spent: '180.713341711'
+      no_obstacles:
+        time: 20180121-1903
+        configuration_id: '4'
+        dist_to_goal: '35.86177933340694'
+        achieved: 'false'
+        time_spent: '78.393511124'
+    '29':
+      up_the_crater:
+        time: 20180122-0033
+        configuration_id: '4'
+        dist_to_goal: '28.08348888914125'
+        achieved: 'false'
+        time_spent: '311.11394638'
+      no_obstacles:
+        time: 20180121-1905
+        configuration_id: '4'
+        dist_to_goal: '34.36291097110664'
+        achieved: 'false'
+        time_spent: '78.394304865'
+      with_obstacles:
+        time: 20180121-2115
+        configuration_id: '4'
+        dist_to_goal: '16.937827444972097'
+        achieved: 'false'
+        time_spent: '295.2193399'
+  performance: 0.09006957277210653
+6:
+  id: 6
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: false
+    mReplanMinDistStartGoal: 1.0
+    mSpeedForward: 0.5
+    mSpeedTurn: 0.30000000000000004
+    mSpeedPointTurn: 0.30000000000000004
+    mNumIntermediatePoints: 6
+    planning_time_sec: 1.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.02
+    pointTurnSpeed: 0.06
+  traversability:
+    maximum_slope: 0.6000000000000001
+    min_width: 0.15000000000000002
+    ground_clearance: 0.65
+  results:
+    '0':
+      with_obstacles:
+        time: 20180122-1440
+        configuration_id: '6'
+        dist_to_goal: '16.817976070350557'
+        achieved: 'false'
+        time_spent: '172.973490082'
+      up_the_crater:
+        time: 20180122-1649
+        configuration_id: '6'
+        dist_to_goal: '12.374547198594996'
+        achieved: 'false'
+        time_spent: '334.018164507'
+      no_obstacles:
+        time: 20180122-1329
+        configuration_id: '6'
+        dist_to_goal: '21.8129346579955'
+        achieved: 'false'
+        time_spent: '78.39204169'
+    '1':
+      up_the_crater:
+        time: 20180122-1656
+        configuration_id: '6'
+        dist_to_goal: '18.088980837434004'
+        achieved: 'false'
+        time_spent: '309.748475517'
+      no_obstacles:
+        time: 20180122-1331
+        configuration_id: '6'
+        dist_to_goal: '24.0436803224242'
+        achieved: 'false'
+        time_spent: '78.392199097'
+      with_obstacles:
+        time: 20180122-1444
+        configuration_id: '6'
+        dist_to_goal: '17.155784004369433'
+        achieved: 'false'
+        time_spent: '160.182525728'
+    '2':
+      with_obstacles:
+        time: 20180122-1450
+        configuration_id: '6'
+        dist_to_goal: '16.968440229940743'
+        achieved: 'false'
+        time_spent: '163.499900403'
+      up_the_crater:
+        time: 20180122-1703
+        configuration_id: '6'
+        dist_to_goal: '6.7933225747615475'
+        achieved: 'false'
+        time_spent: '313.259827458'
+      no_obstacles:
+        time: 20180122-1334
+        configuration_id: '6'
+        dist_to_goal: '24.533505397180413'
+        achieved: 'false'
+        time_spent: '78.394528356'
+    '3':
+      no_obstacles:
+        time: 20180122-1336
+        configuration_id: '6'
+        dist_to_goal: '18.51513011276581'
+        achieved: 'false'
+        time_spent: '78.392798781'
+      with_obstacles:
+        time: 20180122-1454
+        configuration_id: '6'
+        dist_to_goal: '16.3528342524387'
+        achieved: 'false'
+        time_spent: '165.474540895'
+      up_the_crater:
+        time: 20180122-1709
+        configuration_id: '6'
+        dist_to_goal: '33.69926583518446'
+        achieved: 'false'
+        time_spent: '301.204209307'
+    '4':
+      no_obstacles:
+        time: 20180122-1338
+        configuration_id: '6'
+        dist_to_goal: '21.28267023037529'
+        achieved: 'false'
+        time_spent: '78.393932649'
+      with_obstacles:
+        time: 20180122-1458
+        configuration_id: '6'
+        dist_to_goal: '17.053147640102374'
+        achieved: 'false'
+        time_spent: '198.441315302'
+      up_the_crater:
+        time: 20180122-1715
+        configuration_id: '6'
+        dist_to_goal: '28.101182069714795'
+        achieved: 'false'
+        time_spent: '301.578799909'
+    '5':
+      with_obstacles:
+        time: 20180122-1503
+        configuration_id: '6'
+        dist_to_goal: '16.55962478790175'
+        achieved: 'false'
+        time_spent: '159.222484871'
+      up_the_crater:
+        time: 20180122-1721
+        configuration_id: '6'
+        dist_to_goal: '7.977597011166551'
+        achieved: 'false'
+        time_spent: '317.911126388'
+      no_obstacles:
+        time: 20180122-1341
+        configuration_id: '6'
+        dist_to_goal: '23.534390210738337'
+        achieved: 'false'
+        time_spent: '78.391770494'
+    '6':
+      no_obstacles:
+        time: 20180122-1343
+        configuration_id: '6'
+        dist_to_goal: '24.69160695845292'
+        achieved: 'false'
+        time_spent: '78.394648553'
+      up_the_crater:
+        time: 20180122-1728
+        configuration_id: '6'
+        dist_to_goal: '12.380787253561323'
+        achieved: 'false'
+        time_spent: '301.309563393'
+      with_obstacles:
+        time: 20180122-1507
+        configuration_id: '6'
+        dist_to_goal: '17.036998105647257'
+        achieved: 'false'
+        time_spent: '170.883149667'
+    '7':
+      no_obstacles:
+        time: 20180122-1345
+        configuration_id: '6'
+        dist_to_goal: '26.981307043946682'
+        achieved: 'false'
+        time_spent: '78.391030004'
+      up_the_crater:
+        time: 20180122-1734
+        configuration_id: '6'
+        dist_to_goal: '20.302113845934446'
+        achieved: 'false'
+        time_spent: '301.33268518'
+      with_obstacles:
+        time: 20180122-1511
+        configuration_id: '6'
+        dist_to_goal: '16.801226018427855'
+        achieved: 'false'
+        time_spent: '168.264663886'
+    '8':
+      up_the_crater:
+        time: 20180122-1740
+        configuration_id: '6'
+        dist_to_goal: '4.746096825301798'
+        achieved: 'false'
+        time_spent: '357.282883044'
+      with_obstacles:
+        time: 20180122-1515
+        configuration_id: '6'
+        dist_to_goal: '16.428752836401276'
+        achieved: 'false'
+        time_spent: '151.969470101'
+      no_obstacles:
+        time: 20180122-1348
+        configuration_id: '6'
+        dist_to_goal: '25.171499871051594'
+        achieved: 'false'
+        time_spent: '78.392518776'
+    '9':
+      no_obstacles:
+        time: 20180122-1350
+        configuration_id: '6'
+        dist_to_goal: '20.4747176065106'
+        achieved: 'false'
+        time_spent: '78.393608464'
+      up_the_crater:
+        time: 20180122-1747
+        configuration_id: '6'
+        dist_to_goal: '12.201768747411656'
+        achieved: 'false'
+        time_spent: '308.860450845'
+      with_obstacles:
+        time: 20180122-1519
+        configuration_id: '6'
+        dist_to_goal: '16.919845549581506'
+        achieved: 'false'
+        time_spent: '186.105833766'
+    '10':
+      with_obstacles:
+        time: 20180122-1523
+        configuration_id: '6'
+        dist_to_goal: '16.416212540248452'
+        achieved: 'false'
+        time_spent: '313.310969683'
+      up_the_crater:
+        time: 20180122-1754
+        configuration_id: '6'
+        dist_to_goal: '6.5626976224946265'
+        achieved: 'false'
+        time_spent: '340.920215781'
+      no_obstacles:
+        time: 20180122-1353
+        configuration_id: '6'
+        dist_to_goal: '24.36756206020317'
+        achieved: 'false'
+        time_spent: '78.423086642'
+    '11':
+      up_the_crater:
+        time: 20180122-1800
+        configuration_id: '6'
+        dist_to_goal: '3.4500403719159713'
+        achieved: 'false'
+        time_spent: '323.459750853'
+      no_obstacles:
+        time: 20180122-1355
+        configuration_id: '6'
+        dist_to_goal: '24.868204555409957'
+        achieved: 'false'
+        time_spent: '78.393053746'
+      with_obstacles:
+        time: 20180122-1530
+        configuration_id: '6'
+        dist_to_goal: '16.317653907504205'
+        achieved: 'false'
+        time_spent: '176.959827559'
+    '12':
+      up_the_crater:
+        time: 20180122-1807
+        configuration_id: '6'
+        dist_to_goal: '20.541714172640752'
+        achieved: 'false'
+        time_spent: '336.58153627'
+      with_obstacles:
+        time: 20180122-1535
+        configuration_id: '6'
+        dist_to_goal: '16.886714864189535'
+        achieved: 'false'
+        time_spent: '329.914937154'
+      no_obstacles:
+        time: 20180122-1357
+        configuration_id: '6'
+        dist_to_goal: '25.532317993840138'
+        achieved: 'false'
+        time_spent: '78.392711716'
+    '13':
+      with_obstacles:
+        time: 20180122-1542
+        configuration_id: '6'
+        dist_to_goal: '16.800442629721488'
+        achieved: 'false'
+        time_spent: '154.985192272'
+      up_the_crater:
+        time: 20180122-1814
+        configuration_id: '6'
+        dist_to_goal: '5.7541181245560225'
+        achieved: 'false'
+        time_spent: '300.677783921'
+      no_obstacles:
+        time: 20180122-1400
+        configuration_id: '6'
+        dist_to_goal: '25.969323018681862'
+        achieved: 'false'
+        time_spent: '78.393457811'
+    '14':
+      with_obstacles:
+        time: 20180122-1545
+        configuration_id: '6'
+        dist_to_goal: '16.46786236803284'
+        achieved: 'false'
+        time_spent: '187.950840702'
+      up_the_crater:
+        time: 20180122-1821
+        configuration_id: '6'
+        dist_to_goal: '27.693243412880708'
+        achieved: 'false'
+        time_spent: '302.216341822'
+      no_obstacles:
+        time: 20180122-1402
+        configuration_id: '6'
+        dist_to_goal: '23.498336867318187'
+        achieved: 'false'
+        time_spent: '78.393076832'
+    '15':
+      with_obstacles:
+        time: 20180122-1550
+        configuration_id: '6'
+        dist_to_goal: '16.57409388990215'
+        achieved: 'false'
+        time_spent: '157.370504724'
+      up_the_crater:
+        time: 20180122-1827
+        configuration_id: '6'
+        dist_to_goal: '3.7786875425543327'
+        achieved: 'false'
+        time_spent: '325.725839686'
+      no_obstacles:
+        time: 20180122-1404
+        configuration_id: '6'
+        dist_to_goal: '23.550156366582243'
+        achieved: 'false'
+        time_spent: '78.392296928'
+    '16':
+      up_the_crater:
+        time: 20180122-1833
+        configuration_id: '6'
+        dist_to_goal: '8.960850198434642'
+        achieved: 'false'
+        time_spent: '301.763016703'
+      with_obstacles:
+        time: 20180122-1554
+        configuration_id: '6'
+        dist_to_goal: '16.69324939842571'
+        achieved: 'false'
+        time_spent: '158.638076596'
+      no_obstacles:
+        time: 20180122-1407
+        configuration_id: '6'
+        dist_to_goal: '22.804230438007867'
+        achieved: 'false'
+        time_spent: '78.394920028'
+    '17':
+      with_obstacles:
+        time: 20180122-1557
+        configuration_id: '6'
+        dist_to_goal: '16.836285556505793'
+        achieved: 'false'
+        time_spent: '164.943349237'
+      up_the_crater:
+        time: 20180122-1840
+        configuration_id: '6'
+        dist_to_goal: '8.123301291872272'
+        achieved: 'false'
+        time_spent: '309.020778246'
+      no_obstacles:
+        time: 20180122-1409
+        configuration_id: '6'
+        dist_to_goal: '24.668455965277275'
+        achieved: 'false'
+        time_spent: '78.394874815'
+    '18':
+      with_obstacles:
+        time: 20180122-1601
+        configuration_id: '6'
+        dist_to_goal: '16.45980539703222'
+        achieved: 'false'
+        time_spent: '154.407163796'
+      up_the_crater:
+        time: 20180122-1846
+        configuration_id: '6'
+        dist_to_goal: '17.56493138289739'
+        achieved: 'false'
+        time_spent: '350.256041387'
+      no_obstacles:
+        time: 20180122-1411
+        configuration_id: '6'
+        dist_to_goal: '24.881655762262078'
+        achieved: 'false'
+        time_spent: '78.393612511'
+    '19':
+      up_the_crater:
+        time: 20180122-1854
+        configuration_id: '6'
+        dist_to_goal: '187945.11757492487'
+        achieved: 'false'
+        time_spent: '490.946303303'
+      with_obstacles:
+        time: 20180122-1605
+        configuration_id: '6'
+        dist_to_goal: '16.20779694998639'
+        achieved: 'false'
+        time_spent: '178.699822921'
+      no_obstacles:
+        time: 20180122-1414
+        configuration_id: '6'
+        dist_to_goal: '24.674417880238583'
+        achieved: 'false'
+        time_spent: '78.391815473'
+    '20':
+      no_obstacles:
+        time: 20180122-1416
+        configuration_id: '6'
+        dist_to_goal: '24.883293034627524'
+        achieved: 'false'
+        time_spent: '78.394016253'
+      with_obstacles:
+        time: 20180122-1609
+        configuration_id: '6'
+        dist_to_goal: '16.30257802733474'
+        achieved: 'false'
+        time_spent: '156.932702733'
+      up_the_crater:
+        time: 20180122-1905
+        configuration_id: '6'
+        dist_to_goal: '17.36696498900701'
+        achieved: 'false'
+        time_spent: '417.891312103'
+    '21':
+      with_obstacles:
+        time: 20180122-1613
+        configuration_id: '6'
+        dist_to_goal: '16.639301300145494'
+        achieved: 'false'
+        time_spent: '156.069095114'
+      up_the_crater:
+        time: 20180122-1913
+        configuration_id: '6'
+        dist_to_goal: '10.066343058797324'
+        achieved: 'false'
+        time_spent: '318.635391799'
+      no_obstacles:
+        time: 20180122-1419
+        configuration_id: '6'
+        dist_to_goal: '26.934901938950777'
+        achieved: 'false'
+        time_spent: '78.394550947'
+    '22':
+      with_obstacles:
+        time: 20180122-1616
+        configuration_id: '6'
+        dist_to_goal: '17.004514839284898'
+        achieved: 'false'
+        time_spent: '178.889893398'
+      up_the_crater:
+        time: 20180122-1920
+        configuration_id: '6'
+        dist_to_goal: '3239.4807758330758'
+        achieved: 'false'
+        time_spent: '312.908795011'
+      no_obstacles:
+        time: 20180122-1421
+        configuration_id: '6'
+        dist_to_goal: '23.046902993162956'
+        achieved: 'false'
+        time_spent: '78.39475957'
+    '23':
+      up_the_crater:
+        time: 20180122-1926
+        configuration_id: '6'
+        dist_to_goal: '27.214562788343887'
+        achieved: 'false'
+        time_spent: '421.983806135'
+      no_obstacles:
+        time: 20180122-1423
+        configuration_id: '6'
+        dist_to_goal: '22.27263455129098'
+        achieved: 'false'
+        time_spent: '78.39429127'
+      with_obstacles:
+        time: 20180122-1620
+        configuration_id: '6'
+        dist_to_goal: '16.20650384519386'
+        achieved: 'false'
+        time_spent: '154.769005017'
+    '24':
+      up_the_crater:
+        time: 20180122-1935
+        configuration_id: '6'
+        dist_to_goal: '12.76887163121967'
+        achieved: 'false'
+        time_spent: '300.96590846'
+      no_obstacles:
+        time: 20180122-1426
+        configuration_id: '6'
+        dist_to_goal: '25.34462815074663'
+        achieved: 'false'
+        time_spent: '78.394311385'
+      with_obstacles:
+        time: 20180122-1625
+        configuration_id: '6'
+        dist_to_goal: '16.19852502414108'
+        achieved: 'false'
+        time_spent: '247.116859883'
+    '25':
+      with_obstacles:
+        time: 20180122-1630
+        configuration_id: '6'
+        dist_to_goal: '16.302643120666357'
+        achieved: 'false'
+        time_spent: '162.335799853'
+      up_the_crater:
+        time: 20180122-1941
+        configuration_id: '6'
+        dist_to_goal: '1843.473396911029'
+        achieved: 'false'
+        time_spent: '320.803922982'
+      no_obstacles:
+        time: 20180122-1428
+        configuration_id: '6'
+        dist_to_goal: '23.3607953607529'
+        achieved: 'false'
+        time_spent: '78.395036973'
+    '26':
+      with_obstacles:
+        time: 20180122-1634
+        configuration_id: '6'
+        dist_to_goal: '16.223356780343817'
+        achieved: 'false'
+        time_spent: '154.83262456'
+      no_obstacles:
+        time: 20180122-1430
+        configuration_id: '6'
+        dist_to_goal: '24.323205180201395'
+        achieved: 'false'
+        time_spent: '78.394894297'
+      up_the_crater:
+        time: 20180122-1947
+        configuration_id: '6'
+        dist_to_goal: '4987.23279720049'
+        achieved: 'false'
+        time_spent: '376.994869871'
+    '27':
+      with_obstacles:
+        time: 20180122-1637
+        configuration_id: '6'
+        dist_to_goal: '16.72736617589063'
+        achieved: 'false'
+        time_spent: '164.007802555'
+      up_the_crater:
+        time: 20180122-1955
+        configuration_id: '6'
+        dist_to_goal: '23.389231546738504'
+        achieved: 'false'
+        time_spent: '378.406683063'
+      no_obstacles:
+        time: 20180122-1433
+        configuration_id: '6'
+        dist_to_goal: '23.349261504212677'
+        achieved: 'false'
+        time_spent: '78.391644371'
+    '28':
+      no_obstacles:
+        time: 20180122-1435
+        configuration_id: '6'
+        dist_to_goal: '24.05587624544503'
+        achieved: 'false'
+        time_spent: '78.395366565'
+      up_the_crater:
+        time: 20180122-2003
+        configuration_id: '6'
+        dist_to_goal: '10.39322123690143'
+        achieved: 'false'
+        time_spent: '301.640598912'
+      with_obstacles:
+        time: 20180122-1641
+        configuration_id: '6'
+        dist_to_goal: '16.36403008963248'
+        achieved: 'false'
+        time_spent: '166.980269983'
+    '29':
+      up_the_crater:
+        time: 20180122-2009
+        configuration_id: '6'
+        dist_to_goal: '22.286077566719037'
+        achieved: 'false'
+        time_spent: '331.215753656'
+      no_obstacles:
+        time: 20180122-1437
+        configuration_id: '6'
+        dist_to_goal: '23.61000205612967'
+        achieved: 'false'
+        time_spent: '78.393503921'
+      with_obstacles:
+        time: 20180122-1645
+        configuration_id: '6'
+        dist_to_goal: '17.02412451035267'
+        achieved: 'false'
+        time_spent: '210.878514875'
+  performance: 0.12051343877483171
+9:
+  id: 9
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: true
+    mReplanMinDistStartGoal: 2.5
+    mSpeedForward: 0.5
+    mSpeedTurn: 0.6
+    mSpeedPointTurn: 0.5
+    mNumIntermediatePoints: 6
+    planning_time_sec: 9.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.03
+    pointTurnSpeed: 0.075
+  traversability:
+    maximum_slope: 0.9500000000000001
+    min_width: 0.15000000000000002
+    ground_clearance: 0.2
+  overpassed: true
+  results:
+    '0':
+      with_obstacles:
+        time: 20180123-1143
+        configuration_id: '9'
+        dist_to_goal: '13.442432475212629'
+        achieved: 'false'
+        time_spent: '151.153569573'
+      up_the_crater:
+        time: 20180419-0726
+        configuration_id: '9'
+        dist_to_goal: '21.435390892460873'
+        achieved: 'false'
+        time_spent: '304.473122274'
+      no_obstacles:
+        time: 20180123-1034
+        configuration_id: '9'
+        dist_to_goal: '4.804740087241804'
+        achieved: 'false'
+        time_spent: '78.390061127'
+    '1':
+      up_the_crater:
+        time: 20180419-0732
+        configuration_id: '9'
+        dist_to_goal: '245752.9806517264'
+        achieved: 'false'
+        time_spent: '778.498572773'
+      with_obstacles:
+        time: 20180123-1146
+        configuration_id: '9'
+        dist_to_goal: '16.90069063230355'
+        achieved: 'false'
+        time_spent: '154.42805777'
+      no_obstacles:
+        time: 20180123-1036
+        configuration_id: '9'
+        dist_to_goal: '27.03055425593717'
+        achieved: 'false'
+        time_spent: '78.391057831'
+    '2':
+      no_obstacles:
+        time: 20180123-1039
+        configuration_id: '9'
+        dist_to_goal: '22.220536166221255'
+        achieved: 'false'
+        time_spent: '78.392055655'
+      up_the_crater:
+        time: 20180419-0746
+        configuration_id: '9'
+        dist_to_goal: '105511.97863863446'
+        achieved: 'false'
+        time_spent: '380.462440945'
+      with_obstacles:
+        time: 20180123-1150
+        configuration_id: '9'
+        dist_to_goal: '17.227474794806504'
+        achieved: 'false'
+        time_spent: '154.626398936'
+    '3':
+      with_obstacles:
+        time: 20180123-1154
+        configuration_id: '9'
+        dist_to_goal: '16.930760388967744'
+        achieved: 'false'
+        time_spent: '155.445064483'
+      up_the_crater:
+        time: 20180419-0756
+        configuration_id: '9'
+        dist_to_goal: '3.5390622595320296'
+        achieved: 'false'
+        time_spent: '300.09873795'
+      no_obstacles:
+        time: 20180123-1041
+        configuration_id: '9'
+        dist_to_goal: '23.320964295833992'
+        achieved: 'false'
+        time_spent: '78.392469801'
+    '4':
+      up_the_crater:
+        time: 20180419-0802
+        configuration_id: '9'
+        dist_to_goal: '11.44664402268804'
+        achieved: 'false'
+        time_spent: '326.286698874'
+      with_obstacles:
+        time: 20180123-1157
+        configuration_id: '9'
+        dist_to_goal: '7.534998632331085'
+        achieved: 'false'
+        time_spent: '176.142105657'
+      no_obstacles:
+        time: 20180123-1043
+        configuration_id: '9'
+        dist_to_goal: '23.761722738422243'
+        achieved: 'false'
+        time_spent: '78.393309718'
+    '5':
+      with_obstacles:
+        time: 20180123-1201
+        configuration_id: '9'
+        dist_to_goal: '7.320184529899381'
+        achieved: 'false'
+        time_spent: '151.707426666'
+      no_obstacles:
+        time: 20180123-1046
+        configuration_id: '9'
+        dist_to_goal: '9.981349334451195'
+        achieved: 'false'
+        time_spent: '78.39379779'
+      up_the_crater:
+        time: 20180419-0809
+        configuration_id: '9'
+        dist_to_goal: '59774.89303437479'
+        achieved: 'false'
+        time_spent: '443.74570774'
+    '6':
+      no_obstacles:
+        time: 20180123-1048
+        configuration_id: '9'
+        dist_to_goal: '27.90777297000359'
+        achieved: 'false'
+        time_spent: '78.393269108'
+      up_the_crater:
+        time: 20180419-0818
+        configuration_id: '9'
+        dist_to_goal: '13.117095643940237'
+        achieved: 'false'
+        time_spent: '305.933690058'
+      with_obstacles:
+        time: 20180123-1205
+        configuration_id: '9'
+        dist_to_goal: '16.91824455007472'
+        achieved: 'false'
+        time_spent: '151.070737921'
+    '7':
+      up_the_crater:
+        time: 20180419-0824
+        configuration_id: '9'
+        dist_to_goal: '10.270414858461525'
+        achieved: 'false'
+        time_spent: '319.410390639'
+      no_obstacles:
+        time: 20180123-1051
+        configuration_id: '9'
+        dist_to_goal: '4.331721486492425'
+        achieved: 'false'
+        time_spent: '78.272796164'
+      with_obstacles:
+        time: 20180123-1208
+        configuration_id: '9'
+        dist_to_goal: '15.776581853513703'
+        achieved: 'false'
+        time_spent: '169.863669565'
+    '8':
+      up_the_crater:
+        time: 20180419-0831
+        configuration_id: '9'
+        dist_to_goal: '23.105666030197167'
+        achieved: 'false'
+        time_spent: '306.130281652'
+      with_obstacles:
+        time: 20180123-1212
+        configuration_id: '9'
+        dist_to_goal: '16.90906369210615'
+        achieved: 'false'
+        time_spent: '155.636384258'
+      no_obstacles:
+        time: 20180419-0644
+        configuration_id: '9'
+        dist_to_goal: '21.23141308573847'
+        achieved: 'false'
+        time_spent: '78.394173011'
+    '9':
+      no_obstacles:
+        time: 20180123-1053
+        configuration_id: '9'
+        dist_to_goal: '28.015761183241338'
+        achieved: 'false'
+        time_spent: '78.390856451'
+      up_the_crater:
+        time: 20180419-0837
+        configuration_id: '9'
+        dist_to_goal: '5.514610248364056'
+        achieved: 'false'
+        time_spent: '316.142127478'
+      with_obstacles:
+        time: 20180123-1216
+        configuration_id: '9'
+        dist_to_goal: '16.338177734043484'
+        achieved: 'false'
+        time_spent: '270.512090506'
+    '10':
+      with_obstacles:
+        time: 20180123-1222
+        configuration_id: '9'
+        dist_to_goal: '16.965224540651604'
+        achieved: 'false'
+        time_spent: '155.634705821'
+      no_obstacles:
+        time: 20180123-1056
+        configuration_id: '9'
+        dist_to_goal: '27.033020664259205'
+        achieved: 'false'
+        time_spent: '78.392196195'
+      up_the_crater:
+        time: 20180419-0844
+        configuration_id: '9'
+        dist_to_goal: '9.382434987416566'
+        achieved: 'false'
+        time_spent: '313.049198373'
+    '11':
+      up_the_crater:
+        time: 20180419-0850
+        configuration_id: '9'
+        dist_to_goal: '7.704807270682151'
+        achieved: 'false'
+        time_spent: '300.427385728'
+      no_obstacles:
+        time: 20180123-1058
+        configuration_id: '9'
+        dist_to_goal: '22.349680937678716'
+        achieved: 'false'
+        time_spent: '78.396318372'
+      with_obstacles:
+        time: 20180123-1226
+        configuration_id: '9'
+        dist_to_goal: '16.722944170763977'
+        achieved: 'false'
+        time_spent: '227.334954435'
+    '12':
+      with_obstacles:
+        time: 20180123-1232
+        configuration_id: '9'
+        dist_to_goal: '16.93595820091221'
+        achieved: 'false'
+        time_spent: '171.859719465'
+      up_the_crater:
+        time: 20180419-0857
+        configuration_id: '9'
+        dist_to_goal: '28.054964133015826'
+        achieved: 'false'
+        time_spent: '302.814912082'
+      no_obstacles:
+        time: 20180123-1100
+        configuration_id: '9'
+        dist_to_goal: '5.10997988962107'
+        achieved: 'false'
+        time_spent: '78.393230261'
+    '13':
+      no_obstacles:
+        time: 20180123-1103
+        configuration_id: '9'
+        dist_to_goal: '4.566461702234135'
+        achieved: 'false'
+        time_spent: '78.394713829'
+      up_the_crater:
+        time: 20180419-0903
+        configuration_id: '9'
+        dist_to_goal: '22.317623876242905'
+        achieved: 'false'
+        time_spent: '429.613268663'
+      with_obstacles:
+        time: 20180123-1236
+        configuration_id: '9'
+        dist_to_goal: '23.922337174874095'
+        achieved: 'false'
+        time_spent: '157.579209961'
+    '14':
+      up_the_crater:
+        time: 20180419-0911
+        configuration_id: '9'
+        dist_to_goal: '22.826424339538747'
+        achieved: 'false'
+        time_spent: '414.447289356'
+      no_obstacles:
+        time: 20180123-1105
+        configuration_id: '9'
+        dist_to_goal: '23.82499679235563'
+        achieved: 'false'
+        time_spent: '78.394600666'
+      with_obstacles:
+        time: 20180123-1241
+        configuration_id: '9'
+        dist_to_goal: '16.890920215704416'
+        achieved: 'false'
+        time_spent: '163.976362319'
+    '15':
+      up_the_crater:
+        time: 20180424-0753
+        configuration_id: '9'
+        dist_to_goal: '4896.76460500546'
+        achieved: 'false'
+        time_spent: '302.985954784'
+      no_obstacles:
+        time: 20180123-1107
+        configuration_id: '9'
+        dist_to_goal: '22.648347450648757'
+        achieved: 'false'
+        time_spent: '78.392860253'
+      with_obstacles:
+        time: 20180123-1245
+        configuration_id: '9'
+        dist_to_goal: '16.85347606893915'
+        achieved: 'false'
+        time_spent: '206.088945999'
+    '16':
+      no_obstacles:
+        time: 20180123-1110
+        configuration_id: '9'
+        dist_to_goal: '27.977989740883785'
+        achieved: 'false'
+        time_spent: '78.394145372'
+      up_the_crater:
+        time: 20180424-0759
+        configuration_id: '9'
+        dist_to_goal: '32.13880406583178'
+        achieved: 'false'
+        time_spent: '300.055254092'
+      with_obstacles:
+        time: 20180123-1249
+        configuration_id: '9'
+        dist_to_goal: '12.763210329837193'
+        achieved: 'false'
+        time_spent: '153.606124246'
+    '17':
+      up_the_crater:
+        time: 20180424-0807
+        configuration_id: '9'
+        dist_to_goal: '9428.678684693146'
+        achieved: 'false'
+        time_spent: '304.552287594'
+      no_obstacles:
+        time: 20180123-1112
+        configuration_id: '9'
+        dist_to_goal: '29.109667096779884'
+        achieved: 'false'
+        time_spent: '78.393202766'
+      with_obstacles:
+        time: 20180123-1253
+        configuration_id: '9'
+        dist_to_goal: '16.83048039497623'
+        achieved: 'false'
+        time_spent: '198.620167383'
+    '18':
+      no_obstacles:
+        time: 20180123-1115
+        configuration_id: '9'
+        dist_to_goal: '28.418101767594216'
+        achieved: 'false'
+        time_spent: '78.394729558'
+      with_obstacles:
+        time: 20180123-1257
+        configuration_id: '9'
+        dist_to_goal: '11.35231801643294'
+        achieved: 'false'
+        time_spent: '170.430729095'
+      up_the_crater:
+        time: 20180424-0814
+        configuration_id: '9'
+        dist_to_goal: '30060.590525442716'
+        achieved: 'false'
+        time_spent: '353.390783737'
+    '19':
+      no_obstacles:
+        time: 20180123-1117
+        configuration_id: '9'
+        dist_to_goal: '22.68765364433511'
+        achieved: 'false'
+        time_spent: '78.394120527'
+      up_the_crater:
+        time: 20180424-0821
+        configuration_id: '9'
+        dist_to_goal: '1.183869075309283'
+        achieved: 'false'
+        time_spent: '310.149583035'
+      with_obstacles:
+        time: 20180123-1302
+        configuration_id: '9'
+        dist_to_goal: '16.881093808016175'
+        achieved: 'false'
+        time_spent: '164.679532461'
+    '20':
+      with_obstacles:
+        time: 20180123-1306
+        configuration_id: '9'
+        dist_to_goal: '16.74524893410103'
+        achieved: 'false'
+        time_spent: '282.254282292'
+      up_the_crater:
+        time: 20180424-0827
+        configuration_id: '9'
+        dist_to_goal: '20.140019985687726'
+        achieved: 'false'
+        time_spent: '425.29266083'
+      no_obstacles:
+        time: 20180123-1119
+        configuration_id: '9'
+        dist_to_goal: '19.557805850246393'
+        achieved: 'false'
+        time_spent: '78.398112412'
+    '21':
+      up_the_crater:
+        time: 20180424-0836
+        configuration_id: '9'
+        dist_to_goal: '32.76668940541379'
+        achieved: 'false'
+        time_spent: '301.905172139'
+      with_obstacles:
+        time: 20180419-0646
+        configuration_id: '9'
+        dist_to_goal: '12.001905696464238'
+        achieved: 'false'
+        time_spent: '172.33809583'
+      no_obstacles:
+        time: 20180123-1122
+        configuration_id: '9'
+        dist_to_goal: '4.98959621612067'
+        achieved: 'false'
+        time_spent: '78.394966286'
+    '22':
+      up_the_crater:
+        time: 20180424-0842
+        configuration_id: '9'
+        dist_to_goal: '13.019364444939978'
+        achieved: 'false'
+        time_spent: '300.405780107'
+      no_obstacles:
+        time: 20180123-1124
+        configuration_id: '9'
+        dist_to_goal: '23.617968426481255'
+        achieved: 'false'
+        time_spent: '78.395098435'
+      with_obstacles:
+        time: 20180419-0651
+        configuration_id: '9'
+        dist_to_goal: '16.94021636355606'
+        achieved: 'false'
+        time_spent: '157.247670726'
+    '23':
+      up_the_crater:
+        time: 20180424-0848
+        configuration_id: '9'
+        dist_to_goal: '22544.856927863555'
+        achieved: 'false'
+        time_spent: '310.082935272'
+      no_obstacles:
+        time: 20180123-1126
+        configuration_id: '9'
+        dist_to_goal: '26.742654156123514'
+        achieved: 'false'
+        time_spent: '78.394546835'
+      with_obstacles:
+        time: 20180419-0655
+        configuration_id: '9'
+        dist_to_goal: '16.76845157249765'
+        achieved: 'false'
+        time_spent: '218.929679617'
+    '24':
+      up_the_crater:
+        time: 20180424-0855
+        configuration_id: '9'
+        dist_to_goal: '36.769120087821655'
+        achieved: 'false'
+        time_spent: '449.634747862'
+      no_obstacles:
+        time: 20180123-1129
+        configuration_id: '9'
+        dist_to_goal: '22.267002293704863'
+        achieved: 'false'
+        time_spent: '78.394663764'
+      with_obstacles:
+        time: 20180419-0700
+        configuration_id: '9'
+        dist_to_goal: '16.867889589882296'
+        achieved: 'false'
+        time_spent: '172.556927448'
+    '25':
+      no_obstacles:
+        time: 20180123-1131
+        configuration_id: '9'
+        dist_to_goal: '24.69412282463009'
+        achieved: 'false'
+        time_spent: '78.39347687'
+      with_obstacles:
+        time: 20180419-0705
+        configuration_id: '9'
+        dist_to_goal: '16.748535118216072'
+        achieved: 'false'
+        time_spent: '191.897808767'
+      up_the_crater:
+        time: 20180424-0904
+        configuration_id: '9'
+        dist_to_goal: '21.85493501621889'
+        achieved: 'false'
+        time_spent: '412.012315173'
+    '26':
+      no_obstacles:
+        time: 20180123-1133
+        configuration_id: '9'
+        dist_to_goal: '28.44199533667722'
+        achieved: 'false'
+        time_spent: '78.39591249'
+      with_obstacles:
+        time: 20180419-0710
+        configuration_id: '9'
+        dist_to_goal: '17.122154675476693'
+        achieved: 'false'
+        time_spent: '156.833577998'
+      up_the_crater:
+        time: 20180424-0912
+        configuration_id: '9'
+        dist_to_goal: '46.15654004126448'
+        achieved: 'false'
+        time_spent: '301.428948098'
+    '27':
+      with_obstacles:
+        time: 20180419-0713
+        configuration_id: '9'
+        dist_to_goal: '16.83281699066578'
+        achieved: 'false'
+        time_spent: '157.36541549'
+      up_the_crater:
+        time: 20180424-0918
+        configuration_id: '9'
+        dist_to_goal: '2019.8205139062197'
+        achieved: 'false'
+        time_spent: '317.012201824'
+      no_obstacles:
+        time: 20180123-1136
+        configuration_id: '9'
+        dist_to_goal: '19.28390850206456'
+        achieved: 'false'
+        time_spent: '78.395051717'
+    '28':
+      no_obstacles:
+        time: 20180123-1138
+        configuration_id: '9'
+        dist_to_goal: '23.258075886227846'
+        achieved: 'false'
+        time_spent: '78.393580267'
+      up_the_crater:
+        time: 20180424-0924
+        configuration_id: '9'
+        dist_to_goal: '18243.49474289568'
+        achieved: 'false'
+        time_spent: '351.390255826'
+      with_obstacles:
+        time: 20180419-0717
+        configuration_id: '9'
+        dist_to_goal: '16.865789050260997'
+        achieved: 'false'
+        time_spent: '187.979481465'
+    '29':
+      up_the_crater:
+        time: 20180424-0931
+        configuration_id: '9'
+        dist_to_goal: '33.47671048660005'
+        achieved: 'false'
+        time_spent: '338.52663666'
+      with_obstacles:
+        time: 20180419-0721
+        configuration_id: '9'
+        dist_to_goal: '16.934413078924855'
+        achieved: 'false'
+        time_spent: '174.627290195'
+      no_obstacles:
+        time: 20180123-1141
+        configuration_id: '9'
+        dist_to_goal: '22.107012869770593'
+        achieved: 'false'
+        time_spent: '78.392994622'
+  performance: 0.12217749786814262
+1:
+  id: 1
+  motion_planner:
+    mSearchUntilFirstSolution: false
+    mReplanDuringEachUpdate: true
+    mReplanMinDistStartGoal: 4.0
+    mSpeedForward: 0.5
+    mSpeedTurn: 0.1
+    mSpeedPointTurn: 0.6
+    mNumIntermediatePoints: 2
+    planning_time_sec: 19.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.060000000000000005
+    pointTurnSpeed: 0.05500000000000001
+  traversability:
+    maximum_slope: 0.9000000000000001
+    min_width: 0.0
+    ground_clearance: 0.6
+  results:
+    '0':
+      up_the_crater:
+        time: 20180119-1219
+        configuration_id: '1'
+        dist_to_goal: '113332.232931198'
+        achieved: 'false'
+        time_spent: '459.338032815'
+      no_obstacles:
+        time: 20180119-0900
+        configuration_id: '1'
+        dist_to_goal: '23.73625038990719'
+        achieved: 'false'
+        time_spent: '78.393209742'
+      with_obstacles:
+        time: 20180119-1011
+        configuration_id: '1'
+        dist_to_goal: '16.798320617987766'
+        achieved: 'false'
+        time_spent: '177.141732955'
+    '1':
+      no_obstacles:
+        time: 20180119-0902
+        configuration_id: '1'
+        dist_to_goal: '11.154047061637405'
+        achieved: 'false'
+        time_spent: '78.392910961'
+      up_the_crater:
+        time: 20180119-1229
+        configuration_id: '1'
+        dist_to_goal: '20.833745698758023'
+        achieved: 'false'
+        time_spent: '488.32897237'
+      with_obstacles:
+        time: 20180119-1015
+        configuration_id: '1'
+        dist_to_goal: '16.700756055475942'
+        achieved: 'false'
+        time_spent: '152.990272174'
+    '2':
+      up_the_crater:
+        time: 20180119-1238
+        configuration_id: '1'
+        dist_to_goal: '24571.452929056453'
+        achieved: 'false'
+        time_spent: '314.799681679'
+      with_obstacles:
+        time: 20180119-1018
+        configuration_id: '1'
+        dist_to_goal: '16.959964917370392'
+        achieved: 'false'
+        time_spent: '160.151898873'
+      no_obstacles:
+        time: 20180119-0904
+        configuration_id: '1'
+        dist_to_goal: '25.265589921515478'
+        achieved: 'false'
+        time_spent: '78.392221625'
+    '3':
+      no_obstacles:
+        time: 20180119-0907
+        configuration_id: '1'
+        dist_to_goal: '31.64337770625043'
+        achieved: 'false'
+        time_spent: '78.394436325'
+      up_the_crater:
+        time: 20180119-1245
+        configuration_id: '1'
+        dist_to_goal: '19792.77990088383'
+        achieved: 'false'
+        time_spent: '335.51568144'
+      with_obstacles:
+        time: 20180119-1022
+        configuration_id: '1'
+        dist_to_goal: '25.44300121668289'
+        achieved: 'false'
+        time_spent: '164.478570086'
+    '4':
+      up_the_crater:
+        time: 20180119-1252
+        configuration_id: '1'
+        dist_to_goal: '16536.018154617417'
+        achieved: 'false'
+        time_spent: '335.158794797'
+      no_obstacles:
+        time: 20180119-0909
+        configuration_id: '1'
+        dist_to_goal: '8.754454807357057'
+        achieved: 'false'
+        time_spent: '78.391857961'
+      with_obstacles:
+        time: 20180119-1028
+        configuration_id: '1'
+        dist_to_goal: '16.99523158911349'
+        achieved: 'false'
+        time_spent: '238.094883319'
+    '5':
+      with_obstacles:
+        time: 20180119-1033
+        configuration_id: '1'
+        dist_to_goal: '16.764599225004027'
+        achieved: 'false'
+        time_spent: '152.677496342'
+      no_obstacles:
+        time: 20180119-0911
+        configuration_id: '1'
+        dist_to_goal: '11.159691342628792'
+        achieved: 'false'
+        time_spent: '78.391769893'
+      up_the_crater:
+        time: 20180119-1259
+        configuration_id: '1'
+        dist_to_goal: '25.738108590825316'
+        achieved: 'false'
+        time_spent: '319.756083809'
+    '6':
+      with_obstacles:
+        time: 20180119-1037
+        configuration_id: '1'
+        dist_to_goal: '16.839426775324288'
+        achieved: 'false'
+        time_spent: '197.886958094'
+      no_obstacles:
+        time: 20180119-0914
+        configuration_id: '1'
+        dist_to_goal: '11.45991322248253'
+        achieved: 'false'
+        time_spent: '78.392807247'
+      up_the_crater:
+        time: 20180119-1306
+        configuration_id: '1'
+        dist_to_goal: '31689.53562886782'
+        achieved: 'false'
+        time_spent: '335.020638794'
+    '7':
+      up_the_crater:
+        time: 20180119-1313
+        configuration_id: '1'
+        dist_to_goal: '21340.44680138639'
+        achieved: 'false'
+        time_spent: '314.769580021'
+      with_obstacles:
+        time: 20180119-1041
+        configuration_id: '1'
+        dist_to_goal: '16.791216261603832'
+        achieved: 'false'
+        time_spent: '153.34979894'
+      no_obstacles:
+        time: 20180119-0916
+        configuration_id: '1'
+        dist_to_goal: '28.8418370856373'
+        achieved: 'false'
+        time_spent: '78.391251136'
+    '8':
+      with_obstacles:
+        time: 20180119-1046
+        configuration_id: '1'
+        dist_to_goal: '16.916226576046995'
+        achieved: 'false'
+        time_spent: '158.278737098'
+      no_obstacles:
+        time: 20180119-0919
+        configuration_id: '1'
+        dist_to_goal: '12.858031275187312'
+        achieved: 'false'
+        time_spent: '78.393490947'
+      up_the_crater:
+        time: 20180119-1320
+        configuration_id: '1'
+        dist_to_goal: '36.39753530651299'
+        achieved: 'false'
+        time_spent: '309.262436868'
+    '9':
+      with_obstacles:
+        time: 20180119-1050
+        configuration_id: '1'
+        dist_to_goal: '16.49937796846052'
+        achieved: 'false'
+        time_spent: '156.59931239'
+      no_obstacles:
+        time: 20180119-0921
+        configuration_id: '1'
+        dist_to_goal: '24.484143904169898'
+        achieved: 'false'
+        time_spent: '78.391454355'
+      up_the_crater:
+        time: 20180119-1327
+        configuration_id: '1'
+        dist_to_goal: '7.1468417249350065'
+        achieved: 'false'
+        time_spent: '314.797206357'
+    '10':
+      up_the_crater:
+        time: 20180119-1333
+        configuration_id: '1'
+        dist_to_goal: '17223.757110596023'
+        achieved: 'false'
+        time_spent: '321.015178666'
+      with_obstacles:
+        time: 20180119-1054
+        configuration_id: '1'
+        dist_to_goal: '16.895873712550273'
+        achieved: 'false'
+        time_spent: '172.588040757'
+      no_obstacles:
+        time: 20180119-0923
+        configuration_id: '1'
+        dist_to_goal: '11.484954941553385'
+        achieved: 'false'
+        time_spent: '78.392235026'
+    '11':
+      no_obstacles:
+        time: 20180119-0926
+        configuration_id: '1'
+        dist_to_goal: '11.402478596766763'
+        achieved: 'false'
+        time_spent: '78.392426669'
+      with_obstacles:
+        time: 20180119-1058
+        configuration_id: '1'
+        dist_to_goal: '16.815726365568615'
+        achieved: 'false'
+        time_spent: '170.720076163'
+      up_the_crater:
+        time: 20180119-1341
+        configuration_id: '1'
+        dist_to_goal: '30.199617884050195'
+        achieved: 'false'
+        time_spent: '304.050461326'
+    '12':
+      with_obstacles:
+        time: 20180119-1102
+        configuration_id: '1'
+        dist_to_goal: '16.660651270985145'
+        achieved: 'false'
+        time_spent: '160.496631061'
+      up_the_crater:
+        time: 20180119-1347
+        configuration_id: '1'
+        dist_to_goal: '14.070898947418119'
+        achieved: 'false'
+        time_spent: '304.406712726'
+      no_obstacles:
+        time: 20180119-0928
+        configuration_id: '1'
+        dist_to_goal: '12.346402221570587'
+        achieved: 'false'
+        time_spent: '78.391949167'
+    '13':
+      up_the_crater:
+        time: 20180119-1354
+        configuration_id: '1'
+        dist_to_goal: '8702.182472220014'
+        achieved: 'false'
+        time_spent: '314.242861695'
+      no_obstacles:
+        time: 20180119-0930
+        configuration_id: '1'
+        dist_to_goal: '18.198918028864604'
+        achieved: 'false'
+        time_spent: '78.393427494'
+      with_obstacles:
+        time: 20180119-1105
+        configuration_id: '1'
+        dist_to_goal: '16.928313964293764'
+        achieved: 'false'
+        time_spent: '167.612712026'
+    '14':
+      no_obstacles:
+        time: 20180119-0933
+        configuration_id: '1'
+        dist_to_goal: '13.346950637924971'
+        achieved: 'false'
+        time_spent: '78.393065324'
+      with_obstacles:
+        time: 20180119-1109
+        configuration_id: '1'
+        dist_to_goal: '16.85640939769341'
+        achieved: 'false'
+        time_spent: '164.731416213'
+      up_the_crater:
+        time: 20180119-1400
+        configuration_id: '1'
+        dist_to_goal: '19.398266191853562'
+        achieved: 'false'
+        time_spent: '336.809213506'
+    '15':
+      with_obstacles:
+        time: 20180119-1114
+        configuration_id: '1'
+        dist_to_goal: '16.82285459946579'
+        achieved: 'false'
+        time_spent: '165.975608648'
+      no_obstacles:
+        time: 20180119-0935
+        configuration_id: '1'
+        dist_to_goal: '30.641388560632176'
+        achieved: 'false'
+        time_spent: '78.391166237'
+      up_the_crater:
+        time: 20180119-1407
+        configuration_id: '1'
+        dist_to_goal: '54664.66176176794'
+        achieved: 'false'
+        time_spent: '372.647979871'
+    '16':
+      no_obstacles:
+        time: 20180119-0938
+        configuration_id: '1'
+        dist_to_goal: '11.593531102309333'
+        achieved: 'false'
+        time_spent: '78.391649821'
+      up_the_crater:
+        time: 20180119-1416
+        configuration_id: '1'
+        dist_to_goal: '2712.401920576207'
+        achieved: 'false'
+        time_spent: '310.467456482'
+      with_obstacles:
+        time: 20180119-1118
+        configuration_id: '1'
+        dist_to_goal: '16.926932711881374'
+        achieved: 'false'
+        time_spent: '193.75711945'
+    '17':
+      no_obstacles:
+        time: 20180119-0940
+        configuration_id: '1'
+        dist_to_goal: '20.11093679365667'
+        achieved: 'false'
+        time_spent: '78.392814196'
+      up_the_crater:
+        time: 20180119-1422
+        configuration_id: '1'
+        dist_to_goal: '17.648288431033965'
+        achieved: 'false'
+        time_spent: '387.852423309'
+      with_obstacles:
+        time: 20180119-1123
+        configuration_id: '1'
+        dist_to_goal: '16.988272005435668'
+        achieved: 'false'
+        time_spent: '169.63507633'
+    '18':
+      up_the_crater:
+        time: 20180119-1430
+        configuration_id: '1'
+        dist_to_goal: '104294.45607500373'
+        achieved: 'false'
+        time_spent: '460.353149685'
+      no_obstacles:
+        time: 20180119-0942
+        configuration_id: '1'
+        dist_to_goal: '11.642947670426217'
+        achieved: 'false'
+        time_spent: '78.39318766'
+      with_obstacles:
+        time: 20180119-1126
+        configuration_id: '1'
+        dist_to_goal: '16.860787735836396'
+        achieved: 'false'
+        time_spent: '204.569781265'
+    '19':
+      with_obstacles:
+        time: 20180119-1132
+        configuration_id: '1'
+        dist_to_goal: '4.105793652201435'
+        achieved: 'false'
+        time_spent: '239.109213494'
+      up_the_crater:
+        time: 20180119-1441
+        configuration_id: '1'
+        dist_to_goal: '33808.26424737513'
+        achieved: 'false'
+        time_spent: '302.504359586'
+      no_obstacles:
+        time: 20180119-0945
+        configuration_id: '1'
+        dist_to_goal: '12.049881195191126'
+        achieved: 'false'
+        time_spent: '78.390567001'
+    '20':
+      with_obstacles:
+        time: 20180119-1137
+        configuration_id: '1'
+        dist_to_goal: '16.946815303377132'
+        achieved: 'false'
+        time_spent: '173.253842835'
+      up_the_crater:
+        time: 20180119-1449
+        configuration_id: '1'
+        dist_to_goal: '26548.617242745848'
+        achieved: 'false'
+        time_spent: '338.275748087'
+      no_obstacles:
+        time: 20180119-0947
+        configuration_id: '1'
+        dist_to_goal: '25.637989595569692'
+        achieved: 'false'
+        time_spent: '78.392614599'
+    '21':
+      up_the_crater:
+        time: 20180119-1456
+        configuration_id: '1'
+        dist_to_goal: '24.57431031321551'
+        achieved: 'false'
+        time_spent: '311.713258314'
+      no_obstacles:
+        time: 20180119-0949
+        configuration_id: '1'
+        dist_to_goal: '18.280823047362183'
+        achieved: 'false'
+        time_spent: '78.391297072'
+      with_obstacles:
+        time: 20180119-1141
+        configuration_id: '1'
+        dist_to_goal: '16.827270815648543'
+        achieved: 'false'
+        time_spent: '171.579145254'
+    '22':
+      no_obstacles:
+        time: 20180119-0952
+        configuration_id: '1'
+        dist_to_goal: '28.027923126389474'
+        achieved: 'false'
+        time_spent: '78.391165603'
+      up_the_crater:
+        time: 20180119-1503
+        configuration_id: '1'
+        dist_to_goal: '43.834765523056404'
+        achieved: 'false'
+        time_spent: '312.60986762'
+      with_obstacles:
+        time: 20180119-1146
+        configuration_id: '1'
+        dist_to_goal: '16.71332234409977'
+        achieved: 'false'
+        time_spent: '158.165210727'
+    '23':
+      up_the_crater:
+        time: 20180119-1510
+        configuration_id: '1'
+        dist_to_goal: '24.818910398766082'
+        achieved: 'false'
+        time_spent: '340.405472642'
+      no_obstacles:
+        time: 20180119-0954
+        configuration_id: '1'
+        dist_to_goal: '18.05269284782032'
+        achieved: 'false'
+        time_spent: '78.393172927'
+      with_obstacles:
+        time: 20180119-1150
+        configuration_id: '1'
+        dist_to_goal: '16.77088624327203'
+        achieved: 'false'
+        time_spent: '152.915653049'
+    '24':
+      up_the_crater:
+        time: 20180119-1518
+        configuration_id: '1'
+        dist_to_goal: '2.465603941863632'
+        achieved: 'false'
+        time_spent: '324.723751403'
+      with_obstacles:
+        time: 20180119-1154
+        configuration_id: '1'
+        dist_to_goal: '16.66840043614097'
+        achieved: 'false'
+        time_spent: '150.891905488'
+      no_obstacles:
+        time: 20180119-0957
+        configuration_id: '1'
+        dist_to_goal: '26.075398537339797'
+        achieved: 'false'
+        time_spent: '78.392640923'
+    '25':
+      up_the_crater:
+        time: 20180119-1524
+        configuration_id: '1'
+        dist_to_goal: '19.598630307831456'
+        achieved: 'false'
+        time_spent: '388.964438819'
+      with_obstacles:
+        time: 20180119-1158
+        configuration_id: '1'
+        dist_to_goal: '16.93634226953024'
+        achieved: 'false'
+        time_spent: '154.909895234'
+      no_obstacles:
+        time: 20180119-0959
+        configuration_id: '1'
+        dist_to_goal: '11.709991291801114'
+        achieved: 'false'
+        time_spent: '78.392384556'
+    '26':
+      with_obstacles:
+        time: 20180119-1202
+        configuration_id: '1'
+        dist_to_goal: '16.96701371204412'
+        achieved: 'false'
+        time_spent: '195.046246142'
+      no_obstacles:
+        time: 20180119-1001
+        configuration_id: '1'
+        dist_to_goal: '11.193186687856178'
+        achieved: 'false'
+        time_spent: '78.3922182'
+      up_the_crater:
+        time: 20180119-1533
+        configuration_id: '1'
+        dist_to_goal: '19.932570657867434'
+        achieved: 'false'
+        time_spent: '367.368393833'
+    '27':
+      no_obstacles:
+        time: 20180119-1004
+        configuration_id: '1'
+        dist_to_goal: '11.74365588775417'
+        achieved: 'false'
+        time_spent: '78.392585049'
+      up_the_crater:
+        time: 20180119-1540
+        configuration_id: '1'
+        dist_to_goal: '58170.661352408766'
+        achieved: 'false'
+        time_spent: '355.912359012'
+      with_obstacles:
+        time: 20180119-1207
+        configuration_id: '1'
+        dist_to_goal: '16.911962232859146'
+        achieved: 'false'
+        time_spent: '153.030571603'
+    '28':
+      up_the_crater:
+        time: 20180119-1549
+        configuration_id: '1'
+        dist_to_goal: '29.021591330734825'
+        achieved: 'false'
+        time_spent: '410.021808285'
+      with_obstacles:
+        time: 20180119-1211
+        configuration_id: '1'
+        dist_to_goal: '16.949641863780236'
+        achieved: 'false'
+        time_spent: '182.155957984'
+      no_obstacles:
+        time: 20180119-1006
+        configuration_id: '1'
+        dist_to_goal: '11.491235906987287'
+        achieved: 'false'
+        time_spent: '78.394954257'
+    '29':
+      no_obstacles:
+        time: 20180119-1008
+        configuration_id: '1'
+        dist_to_goal: '11.44334915037456'
+        achieved: 'false'
+        time_spent: '78.392279967'
+      up_the_crater:
+        time: 20180119-1557
+        configuration_id: '1'
+        dist_to_goal: '6.476199482800392'
+        achieved: 'false'
+        time_spent: '301.172892225'
+      with_obstacles:
+        time: 20180119-1215
+        configuration_id: '1'
+        dist_to_goal: '16.6638554014904'
+        achieved: 'false'
+        time_spent: '151.420998996'
+  performance: 0.09287756913238328
+3:
+  id: 3
+  motion_planner:
+    mSearchUntilFirstSolution: false
+    mReplanDuringEachUpdate: false
+    mReplanMinDistStartGoal: 5.0
+    mSpeedForward: 0.5
+    mSpeedTurn: 0.5
+    mSpeedPointTurn: 0.8
+    mNumIntermediatePoints: 5
+    planning_time_sec: 7.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.055
+    pointTurnSpeed: 0.065
+  traversability:
+    maximum_slope: 0.8500000000000001
+    min_width: 0.15000000000000002
+    ground_clearance: 0.15000000000000002
+  results:
+    '0':
+      up_the_crater:
+        time: 20180121-0212
+        configuration_id: '3'
+        dist_to_goal: '12.6194969847484'
+        achieved: 'false'
+        time_spent: '324.796433303'
+      with_obstacles:
+        time: 20180120-2359
+        configuration_id: '3'
+        dist_to_goal: '17.286852515625824'
+        achieved: 'false'
+        time_spent: '208.059766066'
+      no_obstacles:
+        time: 20180120-2248
+        configuration_id: '3'
+        dist_to_goal: '13.715845549049824'
+        achieved: 'false'
+        time_spent: '78.391845867'
+    '1':
+      with_obstacles:
+        time: 20180121-0003
+        configuration_id: '3'
+        dist_to_goal: '17.076147485073758'
+        achieved: 'false'
+        time_spent: '268.119143486'
+      no_obstacles:
+        time: 20180120-2250
+        configuration_id: '3'
+        dist_to_goal: '4.596099763191594'
+        achieved: 'false'
+        time_spent: '78.274648453'
+      up_the_crater:
+        time: 20180121-0219
+        configuration_id: '3'
+        dist_to_goal: '38.52095429105129'
+        achieved: 'false'
+        time_spent: '302.660064643'
+    '2':
+      with_obstacles:
+        time: 20180121-0009
+        configuration_id: '3'
+        dist_to_goal: '16.231063525626176'
+        achieved: 'false'
+        time_spent: '150.924221469'
+      up_the_crater:
+        time: 20180121-0225
+        configuration_id: '3'
+        dist_to_goal: '16.868492151970216'
+        achieved: 'false'
+        time_spent: '302.863372582'
+      no_obstacles:
+        time: 20180120-2252
+        configuration_id: '3'
+        dist_to_goal: '16.78672327150545'
+        achieved: 'false'
+        time_spent: '78.396788862'
+    '3':
+      no_obstacles:
+        time: 20180120-2255
+        configuration_id: '3'
+        dist_to_goal: '13.123069164065937'
+        achieved: 'false'
+        time_spent: '78.393504941'
+      up_the_crater:
+        time: 20180121-0232
+        configuration_id: '3'
+        dist_to_goal: '20.70274333194592'
+        achieved: 'false'
+        time_spent: '322.434188357'
+      with_obstacles:
+        time: 20180121-0013
+        configuration_id: '3'
+        dist_to_goal: '16.593893312368337'
+        achieved: 'false'
+        time_spent: '188.993937282'
+    '4':
+      up_the_crater:
+        time: 20180121-0240
+        configuration_id: '3'
+        dist_to_goal: '15.446052226835805'
+        achieved: 'false'
+        time_spent: '373.249917189'
+      no_obstacles:
+        time: 20180120-2257
+        configuration_id: '3'
+        dist_to_goal: '13.897458787733385'
+        achieved: 'false'
+        time_spent: '78.392909969'
+      with_obstacles:
+        time: 20180121-0017
+        configuration_id: '3'
+        dist_to_goal: '16.79190076570022'
+        achieved: 'false'
+        time_spent: '155.078208073'
+    '5':
+      up_the_crater:
+        time: 20180121-0247
+        configuration_id: '3'
+        dist_to_goal: '31.317381156986837'
+        achieved: 'false'
+        time_spent: '305.363906904'
+      with_obstacles:
+        time: 20180121-0021
+        configuration_id: '3'
+        dist_to_goal: '16.856426716087494'
+        achieved: 'false'
+        time_spent: '201.556495407'
+      no_obstacles:
+        time: 20180120-2300
+        configuration_id: '3'
+        dist_to_goal: '13.034338078615619'
+        achieved: 'false'
+        time_spent: '78.391835481'
+    '6':
+      with_obstacles:
+        time: 20180121-0025
+        configuration_id: '3'
+        dist_to_goal: '16.771865693257524'
+        achieved: 'false'
+        time_spent: '162.966501863'
+      up_the_crater:
+        time: 20180121-0253
+        configuration_id: '3'
+        dist_to_goal: '32.855764219565216'
+        achieved: 'false'
+        time_spent: '307.566383489'
+      no_obstacles:
+        time: 20180120-2302
+        configuration_id: '3'
+        dist_to_goal: '17.449460860099613'
+        achieved: 'false'
+        time_spent: '78.395013598'
+    '7':
+      no_obstacles:
+        time: 20180120-2304
+        configuration_id: '3'
+        dist_to_goal: '11.727947505896072'
+        achieved: 'false'
+        time_spent: '78.3922628'
+      with_obstacles:
+        time: 20180121-0029
+        configuration_id: '3'
+        dist_to_goal: '17.127016268486045'
+        achieved: 'false'
+        time_spent: '271.900476824'
+      up_the_crater:
+        time: 20180121-0300
+        configuration_id: '3'
+        dist_to_goal: '13.9203718796863'
+        achieved: 'false'
+        time_spent: '304.502330927'
+    '8':
+      up_the_crater:
+        time: 20180121-0306
+        configuration_id: '3'
+        dist_to_goal: '17.22663686303571'
+        achieved: 'false'
+        time_spent: '305.102045168'
+      with_obstacles:
+        time: 20180121-0035
+        configuration_id: '3'
+        dist_to_goal: '16.63475637005466'
+        achieved: 'false'
+        time_spent: '272.187182145'
+      no_obstacles:
+        time: 20180120-2307
+        configuration_id: '3'
+        dist_to_goal: '15.443183162095828'
+        achieved: 'false'
+        time_spent: '78.395265244'
+    '9':
+      no_obstacles:
+        time: 20180120-2309
+        configuration_id: '3'
+        dist_to_goal: '16.76941628697259'
+        achieved: 'false'
+        time_spent: '78.39265391'
+      with_obstacles:
+        time: 20180121-0041
+        configuration_id: '3'
+        dist_to_goal: '16.816375682877318'
+        achieved: 'false'
+        time_spent: '163.257145291'
+      up_the_crater:
+        time: 20180121-0312
+        configuration_id: '3'
+        dist_to_goal: '32.40420542614549'
+        achieved: 'false'
+        time_spent: '304.813827805'
+    '10':
+      no_obstacles:
+        time: 20180120-2311
+        configuration_id: '3'
+        dist_to_goal: '17.67212916995734'
+        achieved: 'false'
+        time_spent: '78.393558646'
+      with_obstacles:
+        time: 20180121-0045
+        configuration_id: '3'
+        dist_to_goal: '16.893147636993447'
+        achieved: 'false'
+        time_spent: '169.651069413'
+      up_the_crater:
+        time: 20180121-0318
+        configuration_id: '3'
+        dist_to_goal: '3903.5461799553386'
+        achieved: 'false'
+        time_spent: '321.263854735'
+    '11':
+      no_obstacles:
+        time: 20180120-2314
+        configuration_id: '3'
+        dist_to_goal: '17.489061896101834'
+        achieved: 'false'
+        time_spent: '78.392237463'
+      with_obstacles:
+        time: 20180121-0049
+        configuration_id: '3'
+        dist_to_goal: '17.139840069858607'
+        achieved: 'false'
+        time_spent: '195.390263305'
+      up_the_crater:
+        time: 20180121-0325
+        configuration_id: '3'
+        dist_to_goal: '7.117716010285977'
+        achieved: 'false'
+        time_spent: '301.134668111'
+    '12':
+      with_obstacles:
+        time: 20180121-0054
+        configuration_id: '3'
+        dist_to_goal: '16.872726687902226'
+        achieved: 'false'
+        time_spent: '183.844536902'
+      up_the_crater:
+        time: 20180121-0331
+        configuration_id: '3'
+        dist_to_goal: '26.330818381254748'
+        achieved: 'false'
+        time_spent: '305.729253234'
+      no_obstacles:
+        time: 20180120-2316
+        configuration_id: '3'
+        dist_to_goal: '13.436490957892214'
+        achieved: 'false'
+        time_spent: '78.271493694'
+    '13':
+      up_the_crater:
+        time: 20180121-0337
+        configuration_id: '3'
+        dist_to_goal: '39.26346258027154'
+        achieved: 'false'
+        time_spent: '304.211237058'
+      no_obstacles:
+        time: 20180120-2319
+        configuration_id: '3'
+        dist_to_goal: '4.089004936165512'
+        achieved: 'false'
+        time_spent: '78.394594967'
+      with_obstacles:
+        time: 20180121-0058
+        configuration_id: '3'
+        dist_to_goal: '16.965311886645228'
+        achieved: 'false'
+        time_spent: '162.028071422'
+    '14':
+      with_obstacles:
+        time: 20180121-0102
+        configuration_id: '3'
+        dist_to_goal: '16.84113990492031'
+        achieved: 'false'
+        time_spent: '150.895054616'
+      up_the_crater:
+        time: 20180121-0344
+        configuration_id: '3'
+        dist_to_goal: '28.49055592782231'
+        achieved: 'false'
+        time_spent: '305.252878367'
+      no_obstacles:
+        time: 20180120-2321
+        configuration_id: '3'
+        dist_to_goal: '13.59896546366673'
+        achieved: 'false'
+        time_spent: '78.39730848'
+    '15':
+      with_obstacles:
+        time: 20180121-0106
+        configuration_id: '3'
+        dist_to_goal: '16.65026265152123'
+        achieved: 'false'
+        time_spent: '158.239594903'
+      no_obstacles:
+        time: 20180120-2323
+        configuration_id: '3'
+        dist_to_goal: '18.20057969657876'
+        achieved: 'false'
+        time_spent: '78.392243695'
+      up_the_crater:
+        time: 20180121-0350
+        configuration_id: '3'
+        dist_to_goal: '836.8215668441102'
+        achieved: 'false'
+        time_spent: '303.295167717'
+    '16':
+      no_obstacles:
+        time: 20180120-2326
+        configuration_id: '3'
+        dist_to_goal: '15.032293928313663'
+        achieved: 'false'
+        time_spent: '78.393500645'
+      with_obstacles:
+        time: 20180121-0109
+        configuration_id: '3'
+        dist_to_goal: '16.76981853868897'
+        achieved: 'false'
+        time_spent: '151.405301418'
+      up_the_crater:
+        time: 20180121-0356
+        configuration_id: '3'
+        dist_to_goal: '35.31047607790475'
+        achieved: 'false'
+        time_spent: '301.581298944'
+    '17':
+      with_obstacles:
+        time: 20180121-0113
+        configuration_id: '3'
+        dist_to_goal: '17.085509791524846'
+        achieved: 'false'
+        time_spent: '227.5434639'
+      no_obstacles:
+        time: 20180120-2328
+        configuration_id: '3'
+        dist_to_goal: '17.76111140795837'
+        achieved: 'false'
+        time_spent: '78.392523992'
+      up_the_crater:
+        time: 20180121-0402
+        configuration_id: '3'
+        dist_to_goal: '18.764429886682066'
+        achieved: 'false'
+        time_spent: '305.698532274'
+    '18':
+      with_obstacles:
+        time: 20180121-0118
+        configuration_id: '3'
+        dist_to_goal: '16.875993607525306'
+        achieved: 'false'
+        time_spent: '163.501735655'
+      up_the_crater:
+        time: 20180121-0408
+        configuration_id: '3'
+        dist_to_goal: '22.91940806901199'
+        achieved: 'false'
+        time_spent: '300.559906333'
+      no_obstacles:
+        time: 20180120-2330
+        configuration_id: '3'
+        dist_to_goal: '15.799924903406227'
+        achieved: 'false'
+        time_spent: '78.394426253'
+    '19':
+      no_obstacles:
+        time: 20180120-2333
+        configuration_id: '3'
+        dist_to_goal: '13.85608451364453'
+        achieved: 'false'
+        time_spent: '78.391281838'
+      with_obstacles:
+        time: 20180121-0122
+        configuration_id: '3'
+        dist_to_goal: '16.9433283944919'
+        achieved: 'false'
+        time_spent: '175.305834429'
+      up_the_crater:
+        time: 20180121-0414
+        configuration_id: '3'
+        dist_to_goal: '13.57160536963367'
+        achieved: 'false'
+        time_spent: '308.704439638'
+    '20':
+      with_obstacles:
+        time: 20180121-0126
+        configuration_id: '3'
+        dist_to_goal: '12.068939241569522'
+        achieved: 'false'
+        time_spent: '194.213559039'
+      no_obstacles:
+        time: 20180120-2335
+        configuration_id: '3'
+        dist_to_goal: '16.802070561691394'
+        achieved: 'false'
+        time_spent: '78.390334859'
+      up_the_crater:
+        time: 20180121-0421
+        configuration_id: '3'
+        dist_to_goal: '34.78979418785852'
+        achieved: 'false'
+        time_spent: '302.839053176'
+    '21':
+      no_obstacles:
+        time: 20180120-2338
+        configuration_id: '3'
+        dist_to_goal: '12.7399662154311'
+        achieved: 'false'
+        time_spent: '78.391791853'
+      up_the_crater:
+        time: 20180121-0427
+        configuration_id: '3'
+        dist_to_goal: '26.65474242356481'
+        achieved: 'false'
+        time_spent: '310.740017865'
+      with_obstacles:
+        time: 20180121-0131
+        configuration_id: '3'
+        dist_to_goal: '16.246289035544184'
+        achieved: 'false'
+        time_spent: '171.844087246'
+    '22':
+      up_the_crater:
+        time: 20180121-0433
+        configuration_id: '3'
+        dist_to_goal: '31.230340222302218'
+        achieved: 'false'
+        time_spent: '305.805942457'
+      no_obstacles:
+        time: 20180120-2340
+        configuration_id: '3'
+        dist_to_goal: '18.10596290082858'
+        achieved: 'false'
+        time_spent: '78.393459486'
+      with_obstacles:
+        time: 20180121-0136
+        configuration_id: '3'
+        dist_to_goal: '17.429606752847473'
+        achieved: 'false'
+        time_spent: '175.032043412'
+    '23':
+      with_obstacles:
+        time: 20180121-0141
+        configuration_id: '3'
+        dist_to_goal: '16.736264981965096'
+        achieved: 'false'
+        time_spent: '151.47273717'
+      no_obstacles:
+        time: 20180120-2342
+        configuration_id: '3'
+        dist_to_goal: '13.347091184720803'
+        achieved: 'false'
+        time_spent: '78.393144347'
+      up_the_crater:
+        time: 20180121-0440
+        configuration_id: '3'
+        dist_to_goal: '23.178002380320578'
+        achieved: 'false'
+        time_spent: '340.620665557'
+    '24':
+      no_obstacles:
+        time: 20180120-2345
+        configuration_id: '3'
+        dist_to_goal: '16.135610731025267'
+        achieved: 'false'
+        time_spent: '78.394782722'
+      up_the_crater:
+        time: 20180121-0448
+        configuration_id: '3'
+        dist_to_goal: '11.762389406027525'
+        achieved: 'false'
+        time_spent: '300.029715905'
+      with_obstacles:
+        time: 20180121-0145
+        configuration_id: '3'
+        dist_to_goal: '16.737412635996986'
+        achieved: 'false'
+        time_spent: '159.757788535'
+    '25':
+      no_obstacles:
+        time: 20180120-2347
+        configuration_id: '3'
+        dist_to_goal: '13.41339528829028'
+        achieved: 'false'
+        time_spent: '78.392515042'
+      with_obstacles:
+        time: 20180121-0150
+        configuration_id: '3'
+        dist_to_goal: '16.47461564067323'
+        achieved: 'false'
+        time_spent: '162.651533736'
+      up_the_crater:
+        time: 20180121-0454
+        configuration_id: '3'
+        dist_to_goal: '4515.210671714162'
+        achieved: 'false'
+        time_spent: '330.495812428'
+    '26':
+      no_obstacles:
+        time: 20180120-2349
+        configuration_id: '3'
+        dist_to_goal: '4.367814435768156'
+        achieved: 'false'
+        time_spent: '78.394527454'
+      with_obstacles:
+        time: 20180121-0153
+        configuration_id: '3'
+        dist_to_goal: '16.978530244705833'
+        achieved: 'false'
+        time_spent: '258.24577051'
+      up_the_crater:
+        time: 20180121-0501
+        configuration_id: '3'
+        dist_to_goal: '34.8226505075219'
+        achieved: 'false'
+        time_spent: '310.856933016'
+    '27':
+      with_obstacles:
+        time: 20180121-0159
+        configuration_id: '3'
+        dist_to_goal: '16.862479904382326'
+        achieved: 'false'
+        time_spent: '155.971627718'
+      up_the_crater:
+        time: 20180121-0507
+        configuration_id: '3'
+        dist_to_goal: '20.52229933958629'
+        achieved: 'false'
+        time_spent: '308.300268814'
+      no_obstacles:
+        time: 20180120-2352
+        configuration_id: '3'
+        dist_to_goal: '4.380401102196256'
+        achieved: 'false'
+        time_spent: '78.39520278'
+    '28':
+      with_obstacles:
+        time: 20180121-0202
+        configuration_id: '3'
+        dist_to_goal: '11.769982936613976'
+        achieved: 'false'
+        time_spent: '211.520987513'
+      up_the_crater:
+        time: 20180121-0513
+        configuration_id: '3'
+        dist_to_goal: '13049.808480247062'
+        achieved: 'false'
+        time_spent: '410.121593704'
+      no_obstacles:
+        time: 20180120-2354
+        configuration_id: '3'
+        dist_to_goal: '16.027255690947985'
+        achieved: 'false'
+        time_spent: '78.39413713'
+    '29':
+      up_the_crater:
+        time: 20180121-0521
+        configuration_id: '3'
+        dist_to_goal: '41.721165681821944'
+        achieved: 'false'
+        time_spent: '311.063669124'
+      no_obstacles:
+        time: 20180120-2356
+        configuration_id: '3'
+        dist_to_goal: '13.161119621366321'
+        achieved: 'false'
+        time_spent: '78.273069107'
+      with_obstacles:
+        time: 20180121-0208
+        configuration_id: '3'
+        dist_to_goal: '11.953852226690266'
+        achieved: 'false'
+        time_spent: '164.858189884'
+  performance: 0.10393207838929766
+0:
+  id: 0
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: false
+    mReplanMinDistStartGoal: 1.0
+    mSpeedForward: 0.4
+    mSpeedTurn: 0.5
+    mSpeedPointTurn: 0.7000000000000001
+    mNumIntermediatePoints: 9
+    planning_time_sec: 13.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.04
+    pointTurnSpeed: 0.02
+  traversability:
+    maximum_slope: 0.9000000000000001
+    min_width: 0.0
+    ground_clearance: 0.5
+  results:
+    '0':
+      no_obstacles:
+        time: 20180118-0827
+        configuration_id: '0'
+        dist_to_goal: '4.491958720685102'
+        achieved: 'false'
+        time_spent: '78.390917126'
+      up_the_crater:
+        time: 20180118-1334
+        configuration_id: '0'
+        dist_to_goal: '9.118399612024449'
+        achieved: 'false'
+        time_spent: '408.98405333'
+      with_obstacles:
+        time: 20180118-0936
+        configuration_id: '0'
+        dist_to_goal: '16.57323967830304'
+        achieved: 'false'
+        time_spent: '157.347031315'
+    '1':
+      up_the_crater:
+        time: 20180118-1343
+        configuration_id: '0'
+        dist_to_goal: '37.419546028702435'
+        achieved: 'false'
+        time_spent: '306.733064492'
+      with_obstacles:
+        time: 20180118-0940
+        configuration_id: '0'
+        dist_to_goal: '16.596654544474063'
+        achieved: 'false'
+        time_spent: '174.418870947'
+      no_obstacles:
+        time: 20180118-0829
+        configuration_id: '0'
+        dist_to_goal: '10.125493638588646'
+        achieved: 'false'
+        time_spent: '78.390786312'
+    '2':
+      up_the_crater:
+        time: 20180118-1349
+        configuration_id: '0'
+        dist_to_goal: '8.891571744822915'
+        achieved: 'false'
+        time_spent: '321.121042353'
+      with_obstacles:
+        time: 20180118-0944
+        configuration_id: '0'
+        dist_to_goal: '16.465652863453002'
+        achieved: 'false'
+        time_spent: '163.2383334'
+      no_obstacles:
+        time: 20180118-0832
+        configuration_id: '0'
+        dist_to_goal: '4.87226827839599'
+        achieved: 'false'
+        time_spent: '78.391033538'
+    '3':
+      with_obstacles:
+        time: 20180118-0947
+        configuration_id: '0'
+        dist_to_goal: '16.46217336198104'
+        achieved: 'false'
+        time_spent: '162.292733492'
+      no_obstacles:
+        time: 20180118-0834
+        configuration_id: '0'
+        dist_to_goal: '5.045595918550413'
+        achieved: 'false'
+        time_spent: '78.389826805'
+      up_the_crater:
+        time: 20180118-1356
+        configuration_id: '0'
+        dist_to_goal: '9.025732996256272'
+        achieved: 'false'
+        time_spent: '347.334058467'
+    '4':
+      with_obstacles:
+        time: 20180118-0951
+        configuration_id: '0'
+        dist_to_goal: '16.666676825111523'
+        achieved: 'false'
+        time_spent: '184.439591433'
+      up_the_crater:
+        time: 20180118-1403
+        configuration_id: '0'
+        dist_to_goal: '9.367222705737609'
+        achieved: 'false'
+        time_spent: '476.842082568'
+      no_obstacles:
+        time: 20180118-0837
+        configuration_id: '0'
+        dist_to_goal: '11.847179795038187'
+        achieved: 'false'
+        time_spent: '78.388105994'
+    '5':
+      with_obstacles:
+        time: 20180118-0956
+        configuration_id: '0'
+        dist_to_goal: '16.570660752026672'
+        achieved: 'false'
+        time_spent: '162.660169703'
+      up_the_crater:
+        time: 20180118-1413
+        configuration_id: '0'
+        dist_to_goal: '9.027251076607874'
+        achieved: 'false'
+        time_spent: '313.812134219'
+      no_obstacles:
+        time: 20180118-0839
+        configuration_id: '0'
+        dist_to_goal: '11.428191134149392'
+        achieved: 'false'
+        time_spent: '78.387801746'
+    '6':
+      up_the_crater:
+        time: 20180118-1420
+        configuration_id: '0'
+        dist_to_goal: '9.245253133965365'
+        achieved: 'false'
+        time_spent: '585.622406264'
+      with_obstacles:
+        time: 20180118-1000
+        configuration_id: '0'
+        dist_to_goal: '16.54048957963731'
+        achieved: 'false'
+        time_spent: '152.748675618'
+      no_obstacles:
+        time: 20180118-0841
+        configuration_id: '0'
+        dist_to_goal: '13.105315724504894'
+        achieved: 'false'
+        time_spent: '78.389043874'
+    '7':
+      up_the_crater:
+        time: 20180118-1432
+        configuration_id: '0'
+        dist_to_goal: '9.364333684898186'
+        achieved: 'false'
+        time_spent: '552.713979603'
+      with_obstacles:
+        time: 20180118-1004
+        configuration_id: '0'
+        dist_to_goal: '16.412830999154693'
+        achieved: 'false'
+        time_spent: '157.084000686'
+      no_obstacles:
+        time: 20180118-0844
+        configuration_id: '0'
+        dist_to_goal: '13.476218940755633'
+        achieved: 'false'
+        time_spent: '78.388255184'
+    '8':
+      up_the_crater:
+        time: 20180118-1443
+        configuration_id: '0'
+        dist_to_goal: '9.599445802711603'
+        achieved: 'false'
+        time_spent: '555.845152126'
+      no_obstacles:
+        time: 20180118-0846
+        configuration_id: '0'
+        dist_to_goal: '11.990310498565101'
+        achieved: 'false'
+        time_spent: '78.389774457'
+      with_obstacles:
+        time: 20180118-1008
+        configuration_id: '0'
+        dist_to_goal: '16.554817961328496'
+        achieved: 'false'
+        time_spent: '160.267822047'
+    '9':
+      with_obstacles:
+        time: 20180118-1011
+        configuration_id: '0'
+        dist_to_goal: '16.520717796385213'
+        achieved: 'false'
+        time_spent: '162.733777615'
+      no_obstacles:
+        time: 20180118-0848
+        configuration_id: '0'
+        dist_to_goal: '5.003275388686548'
+        achieved: 'false'
+        time_spent: '78.388291448'
+      up_the_crater:
+        time: 20180118-1457
+        configuration_id: '0'
+        dist_to_goal: '9.253920861230041'
+        achieved: 'false'
+        time_spent: '482.019526752'
+    '10':
+      no_obstacles:
+        time: 20180118-0851
+        configuration_id: '0'
+        dist_to_goal: '11.056649667993012'
+        achieved: 'false'
+        time_spent: '78.388545421'
+      with_obstacles:
+        time: 20180118-1015
+        configuration_id: '0'
+        dist_to_goal: '16.383770576460297'
+        achieved: 'false'
+        time_spent: '166.890921983'
+      up_the_crater:
+        time: 20180118-1508
+        configuration_id: '0'
+        dist_to_goal: '8.988616755533107'
+        achieved: 'false'
+        time_spent: '307.132175765'
+    '11':
+      up_the_crater:
+        time: 20180118-1515
+        configuration_id: '0'
+        dist_to_goal: '9.113078087626734'
+        achieved: 'false'
+        time_spent: '543.821362501'
+      no_obstacles:
+        time: 20180118-0853
+        configuration_id: '0'
+        dist_to_goal: '4.4838486613153785'
+        achieved: 'false'
+        time_spent: '78.393754752'
+      with_obstacles:
+        time: 20180118-1019
+        configuration_id: '0'
+        dist_to_goal: '16.656878141210047'
+        achieved: 'false'
+        time_spent: '160.768065474'
+    '12':
+      up_the_crater:
+        time: 20180118-1525
+        configuration_id: '0'
+        dist_to_goal: '22.38970764413525'
+        achieved: 'false'
+        time_spent: '329.189700127'
+      no_obstacles:
+        time: 20180118-0855
+        configuration_id: '0'
+        dist_to_goal: '5.125727433494245'
+        achieved: 'false'
+        time_spent: '78.390682828'
+      with_obstacles:
+        time: 20180118-1024
+        configuration_id: '0'
+        dist_to_goal: '16.491511873104912'
+        achieved: 'false'
+        time_spent: '185.097660775'
+    '13':
+      no_obstacles:
+        time: 20180118-0858
+        configuration_id: '0'
+        dist_to_goal: '10.845648307301886'
+        achieved: 'false'
+        time_spent: '78.391235855'
+      with_obstacles:
+        time: 20180119-0848
+        configuration_id: '0'
+        dist_to_goal: '16.860574721173634'
+        achieved: 'false'
+        time_spent: '306.852910886'
+      up_the_crater:
+        time: 20180118-1532
+        configuration_id: '0'
+        dist_to_goal: '8.971900570209268'
+        achieved: 'false'
+        time_spent: '302.77852195'
+    '14':
+      up_the_crater:
+        time: 20180118-1540
+        configuration_id: '0'
+        dist_to_goal: '9.09839464591198'
+        achieved: 'false'
+        time_spent: '350.118894957'
+      with_obstacles:
+        time: 20180118-1228
+        configuration_id: '0'
+        dist_to_goal: '16.42873702904322'
+        achieved: 'false'
+        time_spent: '151.352537956'
+      no_obstacles:
+        time: 20180118-0900
+        configuration_id: '0'
+        dist_to_goal: '5.052989522842706'
+        achieved: 'false'
+        time_spent: '78.390350694'
+    '15':
+      up_the_crater:
+        time: 20180118-1547
+        configuration_id: '0'
+        dist_to_goal: '9.586832080559805'
+        achieved: 'false'
+        time_spent: '789.792162349'
+      no_obstacles:
+        time: 20180118-0902
+        configuration_id: '0'
+        dist_to_goal: '5.0034972952828705'
+        achieved: 'false'
+        time_spent: '78.389752529'
+      with_obstacles:
+        time: 20180118-1232
+        configuration_id: '0'
+        dist_to_goal: '16.535644132671035'
+        achieved: 'false'
+        time_spent: '171.588597256'
+    '16':
+      with_obstacles:
+        time: 20180118-1237
+        configuration_id: '0'
+        dist_to_goal: '16.47783501193785'
+        achieved: 'false'
+        time_spent: '180.40387771'
+      no_obstacles:
+        time: 20180118-0905
+        configuration_id: '0'
+        dist_to_goal: '10.723454075332363'
+        achieved: 'false'
+        time_spent: '78.390910704'
+      up_the_crater:
+        time: 20180118-1601
+        configuration_id: '0'
+        dist_to_goal: '9.252671109057568'
+        achieved: 'false'
+        time_spent: '625.066037729'
+    '17':
+      no_obstacles:
+        time: 20180118-0907
+        configuration_id: '0'
+        dist_to_goal: '4.880750545717606'
+        achieved: 'false'
+        time_spent: '78.389292443'
+      up_the_crater:
+        time: 20180118-1614
+        configuration_id: '0'
+        dist_to_goal: '8.940462455949703'
+        achieved: 'false'
+        time_spent: '344.020734131'
+      with_obstacles:
+        time: 20180118-1241
+        configuration_id: '0'
+        dist_to_goal: '16.511091099112363'
+        achieved: 'false'
+        time_spent: '156.352839876'
+    '18':
+      with_obstacles:
+        time: 20180118-1245
+        configuration_id: '0'
+        dist_to_goal: '16.37446273594815'
+        achieved: 'false'
+        time_spent: '153.17542558'
+      no_obstacles:
+        time: 20180118-0910
+        configuration_id: '0'
+        dist_to_goal: '10.659292363859743'
+        achieved: 'false'
+        time_spent: '78.391775118'
+      up_the_crater:
+        time: 20180118-1621
+        configuration_id: '0'
+        dist_to_goal: '8.870263248662951'
+        achieved: 'false'
+        time_spent: '308.602787208'
+    '19':
+      with_obstacles:
+        time: 20180118-1249
+        configuration_id: '0'
+        dist_to_goal: '16.491870199664646'
+        achieved: 'false'
+        time_spent: '153.465070225'
+      no_obstacles:
+        time: 20180118-0912
+        configuration_id: '0'
+        dist_to_goal: '9.899366856093895'
+        achieved: 'false'
+        time_spent: '78.389327227'
+      up_the_crater:
+        time: 20180118-1628
+        configuration_id: '0'
+        dist_to_goal: '9.057389497069076'
+        achieved: 'false'
+        time_spent: '388.443195332'
+    '20':
+      no_obstacles:
+        time: 20180118-0914
+        configuration_id: '0'
+        dist_to_goal: '13.510151740779483'
+        achieved: 'false'
+        time_spent: '78.39058547'
+      with_obstacles:
+        time: 20180118-1252
+        configuration_id: '0'
+        dist_to_goal: '16.52752941490512'
+        achieved: 'false'
+        time_spent: '160.636565704'
+      up_the_crater:
+        time: 20180118-1636
+        configuration_id: '0'
+        dist_to_goal: '8.965831399300773'
+        achieved: 'false'
+        time_spent: '302.011369583'
+    '21':
+      with_obstacles:
+        time: 20180118-1256
+        configuration_id: '0'
+        dist_to_goal: '16.467533674573254'
+        achieved: 'false'
+        time_spent: '172.350647731'
+      no_obstacles:
+        time: 20180118-0917
+        configuration_id: '0'
+        dist_to_goal: '4.906064326653577'
+        achieved: 'false'
+        time_spent: '78.390404707'
+      up_the_crater:
+        time: 20180118-1642
+        configuration_id: '0'
+        dist_to_goal: '9.246650612562322'
+        achieved: 'false'
+        time_spent: '450.60845135'
+    '22':
+      up_the_crater:
+        time: 20180118-1652
+        configuration_id: '0'
+        dist_to_goal: '9.055966731426201'
+        achieved: 'false'
+        time_spent: '410.893500347'
+      no_obstacles:
+        time: 20180118-0919
+        configuration_id: '0'
+        dist_to_goal: '4.913208135450826'
+        achieved: 'false'
+        time_spent: '78.390808466'
+      with_obstacles:
+        time: 20180118-1301
+        configuration_id: '0'
+        dist_to_goal: '16.459344308878116'
+        achieved: 'false'
+        time_spent: '164.306745925'
+    '23':
+      up_the_crater:
+        time: 20180118-1700
+        configuration_id: '0'
+        dist_to_goal: '9.021946604257337'
+        achieved: 'false'
+        time_spent: '373.307099618'
+      with_obstacles:
+        time: 20180118-1305
+        configuration_id: '0'
+        dist_to_goal: '16.50243597583323'
+        achieved: 'false'
+        time_spent: '176.681690172'
+      no_obstacles:
+        time: 20180118-0921
+        configuration_id: '0'
+        dist_to_goal: '4.879165896702767'
+        achieved: 'false'
+        time_spent: '78.390055034'
+    '24':
+      no_obstacles:
+        time: 20180118-0924
+        configuration_id: '0'
+        dist_to_goal: '10.325604298075369'
+        achieved: 'false'
+        time_spent: '78.391514596'
+      up_the_crater:
+        time: 20180118-1710
+        configuration_id: '0'
+        dist_to_goal: '9.000107290317905'
+        achieved: 'false'
+        time_spent: '414.822586656'
+      with_obstacles:
+        time: 20180118-1309
+        configuration_id: '0'
+        dist_to_goal: '16.492317948878938'
+        achieved: 'false'
+        time_spent: '158.454777527'
+    '25':
+      up_the_crater:
+        time: 20180118-1719
+        configuration_id: '0'
+        dist_to_goal: '9.10004715537208'
+        achieved: 'false'
+        time_spent: '423.150335126'
+      with_obstacles:
+        time: 20180118-1312
+        configuration_id: '0'
+        dist_to_goal: '16.678731675746892'
+        achieved: 'false'
+        time_spent: '158.735912802'
+      no_obstacles:
+        time: 20180118-0926
+        configuration_id: '0'
+        dist_to_goal: '4.648731594062613'
+        achieved: 'false'
+        time_spent: '78.391526814'
+    '26':
+      up_the_crater:
+        time: 20180118-1727
+        configuration_id: '0'
+        dist_to_goal: '9.2680504645615'
+        achieved: 'false'
+        time_spent: '333.848784617'
+      no_obstacles:
+        time: 20180119-0839
+        configuration_id: '0'
+        dist_to_goal: '13.754647416483973'
+        achieved: 'false'
+        time_spent: '78.390978522'
+      with_obstacles:
+        time: 20180118-1317
+        configuration_id: '0'
+        dist_to_goal: '16.659198948324033'
+        achieved: 'false'
+        time_spent: '196.206819773'
+    '27':
+      no_obstacles:
+        time: 20180118-0929
+        configuration_id: '0'
+        dist_to_goal: '10.082724291951775'
+        achieved: 'false'
+        time_spent: '78.390786009'
+      up_the_crater:
+        time: 20180118-1740
+        configuration_id: '0'
+        dist_to_goal: '8.83109062366386'
+        achieved: 'false'
+        time_spent: '310.642671539'
+      with_obstacles:
+        time: 20180118-1322
+        configuration_id: '0'
+        dist_to_goal: '16.54344695286963'
+        achieved: 'false'
+        time_spent: '202.40307128'
+    '28':
+      with_obstacles:
+        time: 20180118-1326
+        configuration_id: '0'
+        dist_to_goal: '16.573786403170654'
+        achieved: 'false'
+        time_spent: '154.672652714'
+      no_obstacles:
+        time: 20180118-0931
+        configuration_id: '0'
+        dist_to_goal: '9.456426346140912'
+        achieved: 'false'
+        time_spent: '78.389821193'
+      up_the_crater:
+        time: 20180118-1746
+        configuration_id: '0'
+        dist_to_goal: '9.561672078886286'
+        achieved: 'false'
+        time_spent: '751.379299919'
+    '29':
+      up_the_crater:
+        time: 20180118-1800
+        configuration_id: '0'
+        dist_to_goal: '22.900485308647824'
+        achieved: 'false'
+        time_spent: '355.42628613'
+      no_obstacles:
+        time: 20180118-0934
+        configuration_id: '0'
+        dist_to_goal: '11.126846783150997'
+        achieved: 'false'
+        time_spent: '78.390856337'
+      with_obstacles:
+        time: 20180118-1330
+        configuration_id: '0'
+        dist_to_goal: '16.479287127511878'
+        achieved: 'false'
+        time_spent: '165.85612228'
+  performance: 0.19416612307448702
+2:
+  id: 2
+  motion_planner:
+    mSearchUntilFirstSolution: true
+    mReplanDuringEachUpdate: true
+    mReplanMinDistStartGoal: 5.0
+    mSpeedForward: 0.4
+    mSpeedTurn: 0.1
+    mSpeedPointTurn: 0.8
+    mNumIntermediatePoints: 10
+    planning_time_sec: 11.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.060000000000000005
+    pointTurnSpeed: 0.045
+  traversability:
+    maximum_slope: 0.75
+    min_width: 0.05
+    ground_clearance: 0.7
+  results:
+    '0':
+      up_the_crater:
+        time: 20180119-1940
+        configuration_id: '2'
+        dist_to_goal: '24.255309160701874'
+        achieved: 'false'
+        time_spent: '326.58606207'
+      no_obstacles:
+        time: 20180119-1618
+        configuration_id: '2'
+        dist_to_goal: '14.66587902326382'
+        achieved: 'false'
+        time_spent: '78.393378939'
+      with_obstacles:
+        time: 20180119-1729
+        configuration_id: '2'
+        dist_to_goal: '16.982880055709263'
+        achieved: 'false'
+        time_spent: '225.663969388'
+    '1':
+      no_obstacles:
+        time: 20180119-1621
+        configuration_id: '2'
+        dist_to_goal: '17.351843109832522'
+        achieved: 'false'
+        time_spent: '78.392317749'
+      up_the_crater:
+        time: 20180119-1948
+        configuration_id: '2'
+        dist_to_goal: '20.430946479113953'
+        achieved: 'false'
+        time_spent: '356.728637897'
+      with_obstacles:
+        time: 20180119-1735
+        configuration_id: '2'
+        dist_to_goal: '16.797944212071926'
+        achieved: 'false'
+        time_spent: '154.314397601'
+    '2':
+      up_the_crater:
+        time: 20180119-1955
+        configuration_id: '2'
+        dist_to_goal: '6.004305977366161'
+        achieved: 'false'
+        time_spent: '300.139249384'
+      with_obstacles:
+        time: 20180119-1739
+        configuration_id: '2'
+        dist_to_goal: '16.852369286025883'
+        achieved: 'false'
+        time_spent: '224.720348407'
+      no_obstacles:
+        time: 20180119-1623
+        configuration_id: '2'
+        dist_to_goal: '15.775334647512517'
+        achieved: 'false'
+        time_spent: '78.392456431'
+    '3':
+      up_the_crater:
+        time: 20180119-2001
+        configuration_id: '2'
+        dist_to_goal: '21.034975197880442'
+        achieved: 'false'
+        time_spent: '359.958289167'
+      no_obstacles:
+        time: 20180119-1625
+        configuration_id: '2'
+        dist_to_goal: '18.31029981358261'
+        achieved: 'false'
+        time_spent: '78.392261037'
+      with_obstacles:
+        time: 20180119-1745
+        configuration_id: '2'
+        dist_to_goal: '16.846033412298855'
+        achieved: 'false'
+        time_spent: '154.072328529'
+    '4':
+      no_obstacles:
+        time: 20180119-1628
+        configuration_id: '2'
+        dist_to_goal: '20.06443871309063'
+        achieved: 'false'
+        time_spent: '78.390206617'
+      with_obstacles:
+        time: 20180119-1749
+        configuration_id: '2'
+        dist_to_goal: '17.042078334538495'
+        achieved: 'false'
+        time_spent: '158.870285876'
+      up_the_crater:
+        time: 20180119-2008
+        configuration_id: '2'
+        dist_to_goal: '14.486671214900422'
+        achieved: 'false'
+        time_spent: '338.486318685'
+    '5':
+      with_obstacles:
+        time: 20180119-1754
+        configuration_id: '2'
+        dist_to_goal: '16.84634419958601'
+        achieved: 'false'
+        time_spent: '152.459465875'
+      up_the_crater:
+        time: 20180119-2016
+        configuration_id: '2'
+        dist_to_goal: '20.02940308236637'
+        achieved: 'false'
+        time_spent: '305.402960686'
+      no_obstacles:
+        time: 20180119-1630
+        configuration_id: '2'
+        dist_to_goal: '16.074828275785013'
+        achieved: 'false'
+        time_spent: '78.392444917'
+    '6':
+      up_the_crater:
+        time: 20180119-2022
+        configuration_id: '2'
+        dist_to_goal: '18.329427916423054'
+        achieved: 'false'
+        time_spent: '304.047807353'
+      with_obstacles:
+        time: 20180119-1757
+        configuration_id: '2'
+        dist_to_goal: '16.70184777776807'
+        achieved: 'false'
+        time_spent: '180.81579439'
+      no_obstacles:
+        time: 20180119-1632
+        configuration_id: '2'
+        dist_to_goal: '15.44044624899802'
+        achieved: 'false'
+        time_spent: '78.391465395'
+    '7':
+      with_obstacles:
+        time: 20180119-1801
+        configuration_id: '2'
+        dist_to_goal: '16.868632782840226'
+        achieved: 'false'
+        time_spent: '156.332040894'
+      up_the_crater:
+        time: 20180119-2029
+        configuration_id: '2'
+        dist_to_goal: '10.10902372143003'
+        achieved: 'false'
+        time_spent: '315.568198233'
+      no_obstacles:
+        time: 20180119-1635
+        configuration_id: '2'
+        dist_to_goal: '22.996827879548924'
+        achieved: 'false'
+        time_spent: '78.391260657'
+    '8':
+      no_obstacles:
+        time: 20180119-1637
+        configuration_id: '2'
+        dist_to_goal: '15.857837865538075'
+        achieved: 'false'
+        time_spent: '78.394058665'
+      with_obstacles:
+        time: 20180119-1805
+        configuration_id: '2'
+        dist_to_goal: '16.71001574321708'
+        achieved: 'false'
+        time_spent: '163.545970702'
+      up_the_crater:
+        time: 20180119-2036
+        configuration_id: '2'
+        dist_to_goal: '14.269614908188418'
+        achieved: 'false'
+        time_spent: '300.858351716'
+    '9':
+      no_obstacles:
+        time: 20180119-1640
+        configuration_id: '2'
+        dist_to_goal: '15.655982150689857'
+        achieved: 'false'
+        time_spent: '78.391886467'
+      with_obstacles:
+        time: 20180119-1809
+        configuration_id: '2'
+        dist_to_goal: '16.859099725341757'
+        achieved: 'false'
+        time_spent: '162.799078032'
+      up_the_crater:
+        time: 20180119-2042
+        configuration_id: '2'
+        dist_to_goal: '5.0782683937863276'
+        achieved: 'false'
+        time_spent: '315.597242365'
+    '10':
+      with_obstacles:
+        time: 20180119-1813
+        configuration_id: '2'
+        dist_to_goal: '16.799520093045974'
+        achieved: 'false'
+        time_spent: '170.138283596'
+      no_obstacles:
+        time: 20180119-1642
+        configuration_id: '2'
+        dist_to_goal: '15.941644491133076'
+        achieved: 'false'
+        time_spent: '78.391549216'
+      up_the_crater:
+        time: 20180119-2048
+        configuration_id: '2'
+        dist_to_goal: '19.44759098424706'
+        achieved: 'false'
+        time_spent: '301.597025477'
+    '11':
+      no_obstacles:
+        time: 20180119-1644
+        configuration_id: '2'
+        dist_to_goal: '5.518813588977522'
+        achieved: 'false'
+        time_spent: '78.391800527'
+      with_obstacles:
+        time: 20180119-1817
+        configuration_id: '2'
+        dist_to_goal: '16.847548180855185'
+        achieved: 'false'
+        time_spent: '213.310515362'
+      up_the_crater:
+        time: 20180119-2054
+        configuration_id: '2'
+        dist_to_goal: '12.155132582756211'
+        achieved: 'false'
+        time_spent: '312.237409123'
+    '12':
+      up_the_crater:
+        time: 20180119-2101
+        configuration_id: '2'
+        dist_to_goal: '16.083211427081352'
+        achieved: 'false'
+        time_spent: '311.498989122'
+      no_obstacles:
+        time: 20180119-1647
+        configuration_id: '2'
+        dist_to_goal: '4.967801256102817'
+        achieved: 'false'
+        time_spent: '78.392619379'
+      with_obstacles:
+        time: 20180119-1822
+        configuration_id: '2'
+        dist_to_goal: '16.947237185467078'
+        achieved: 'false'
+        time_spent: '154.549606746'
+    '13':
+      up_the_crater:
+        time: 20180119-2107
+        configuration_id: '2'
+        dist_to_goal: '4259.36221952029'
+        achieved: 'false'
+        time_spent: '354.944066002'
+      with_obstacles:
+        time: 20180119-1826
+        configuration_id: '2'
+        dist_to_goal: '16.829379364152366'
+        achieved: 'false'
+        time_spent: '155.808321372'
+      no_obstacles:
+        time: 20180119-1649
+        configuration_id: '2'
+        dist_to_goal: '4.830200342667735'
+        achieved: 'false'
+        time_spent: '78.390627145'
+    '14':
+      up_the_crater:
+        time: 20180119-2114
+        configuration_id: '2'
+        dist_to_goal: '16.663679627623097'
+        achieved: 'false'
+        time_spent: '315.514601069'
+      no_obstacles:
+        time: 20180119-1651
+        configuration_id: '2'
+        dist_to_goal: '21.1646683985025'
+        achieved: 'false'
+        time_spent: '78.390674524'
+      with_obstacles:
+        time: 20180119-1830
+        configuration_id: '2'
+        dist_to_goal: '16.89610711405224'
+        achieved: 'false'
+        time_spent: '191.374449402'
+    '15':
+      no_obstacles:
+        time: 20180119-1654
+        configuration_id: '2'
+        dist_to_goal: '22.06541296407755'
+        achieved: 'false'
+        time_spent: '78.392350779'
+      with_obstacles:
+        time: 20180119-1835
+        configuration_id: '2'
+        dist_to_goal: '16.8472213336532'
+        achieved: 'false'
+        time_spent: '157.848792497'
+      up_the_crater:
+        time: 20180119-2121
+        configuration_id: '2'
+        dist_to_goal: '25.690539915784612'
+        achieved: 'false'
+        time_spent: '390.732377759'
+    '16':
+      no_obstacles:
+        time: 20180119-1656
+        configuration_id: '2'
+        dist_to_goal: '21.258745775478623'
+        achieved: 'false'
+        time_spent: '78.271672836'
+      up_the_crater:
+        time: 20180119-2129
+        configuration_id: '2'
+        dist_to_goal: '20.041748670110962'
+        achieved: 'false'
+        time_spent: '305.294569503'
+      with_obstacles:
+        time: 20180119-1838
+        configuration_id: '2'
+        dist_to_goal: '16.874421489268006'
+        achieved: 'false'
+        time_spent: '165.732592547'
+    '17':
+      with_obstacles:
+        time: 20180119-1843
+        configuration_id: '2'
+        dist_to_goal: '16.897614121385562'
+        achieved: 'false'
+        time_spent: '195.799097645'
+      up_the_crater:
+        time: 20180119-2136
+        configuration_id: '2'
+        dist_to_goal: '20.202919846879972'
+        achieved: 'false'
+        time_spent: '314.311811391'
+      no_obstacles:
+        time: 20180119-1659
+        configuration_id: '2'
+        dist_to_goal: '22.746710497391263'
+        achieved: 'false'
+        time_spent: '78.392188469'
+    '18':
+      no_obstacles:
+        time: 20180119-1701
+        configuration_id: '2'
+        dist_to_goal: '15.77542929765411'
+        achieved: 'false'
+        time_spent: '78.39165857'
+      up_the_crater:
+        time: 20180119-2142
+        configuration_id: '2'
+        dist_to_goal: '18.092930152584604'
+        achieved: 'false'
+        time_spent: '304.179457718'
+      with_obstacles:
+        time: 20180119-1847
+        configuration_id: '2'
+        dist_to_goal: '16.822970788120937'
+        achieved: 'false'
+        time_spent: '158.325248709'
+    '19':
+      no_obstacles:
+        time: 20180119-1703
+        configuration_id: '2'
+        dist_to_goal: '17.64419973428769'
+        achieved: 'false'
+        time_spent: '78.3917755'
+      up_the_crater:
+        time: 20180119-2148
+        configuration_id: '2'
+        dist_to_goal: '23.107613436260745'
+        achieved: 'false'
+        time_spent: '318.108141377'
+      with_obstacles:
+        time: 20180119-1851
+        configuration_id: '2'
+        dist_to_goal: '16.936291347478036'
+        achieved: 'false'
+        time_spent: '186.284861111'
+    '20':
+      no_obstacles:
+        time: 20180119-1706
+        configuration_id: '2'
+        dist_to_goal: '15.431226614279522'
+        achieved: 'false'
+        time_spent: '78.392061037'
+      with_obstacles:
+        time: 20180119-1855
+        configuration_id: '2'
+        dist_to_goal: '17.134315267093452'
+        achieved: 'false'
+        time_spent: '172.751457303'
+      up_the_crater:
+        time: 20180119-2156
+        configuration_id: '2'
+        dist_to_goal: '11.337807835390095'
+        achieved: 'false'
+        time_spent: '322.306594772'
+    '21':
+      with_obstacles:
+        time: 20180119-1901
+        configuration_id: '2'
+        dist_to_goal: '16.964703743814663'
+        achieved: 'false'
+        time_spent: '162.456129879'
+      no_obstacles:
+        time: 20180119-1708
+        configuration_id: '2'
+        dist_to_goal: '15.909260510705701'
+        achieved: 'false'
+        time_spent: '78.39146225'
+      up_the_crater:
+        time: 20180119-2202
+        configuration_id: '2'
+        dist_to_goal: '12.096070785888005'
+        achieved: 'false'
+        time_spent: '306.869278713'
+    '22':
+      with_obstacles:
+        time: 20180119-1906
+        configuration_id: '2'
+        dist_to_goal: '16.93575833634595'
+        achieved: 'false'
+        time_spent: '161.714166035'
+      up_the_crater:
+        time: 20180119-2209
+        configuration_id: '2'
+        dist_to_goal: '42.69266008794457'
+        achieved: 'false'
+        time_spent: '301.711493621'
+      no_obstacles:
+        time: 20180119-1710
+        configuration_id: '2'
+        dist_to_goal: '19.670176359618825'
+        achieved: 'false'
+        time_spent: '78.392833733'
+    '23':
+      up_the_crater:
+        time: 20180119-2215
+        configuration_id: '2'
+        dist_to_goal: '21.572163681593633'
+        achieved: 'false'
+        time_spent: '305.437569335'
+      no_obstacles:
+        time: 20180119-1713
+        configuration_id: '2'
+        dist_to_goal: '4.759646961950551'
+        achieved: 'false'
+        time_spent: '78.39256168'
+      with_obstacles:
+        time: 20180119-1911
+        configuration_id: '2'
+        dist_to_goal: '16.87789572128159'
+        achieved: 'false'
+        time_spent: '154.548340838'
+    '24':
+      no_obstacles:
+        time: 20180119-1715
+        configuration_id: '2'
+        dist_to_goal: '21.400317372430823'
+        achieved: 'false'
+        time_spent: '78.390464062'
+      up_the_crater:
+        time: 20180119-2221
+        configuration_id: '2'
+        dist_to_goal: '13.470479101277695'
+        achieved: 'false'
+        time_spent: '324.789475971'
+      with_obstacles:
+        time: 20180119-1915
+        configuration_id: '2'
+        dist_to_goal: '16.94146660121893'
+        achieved: 'false'
+        time_spent: '196.028811297'
+    '25':
+      up_the_crater:
+        time: 20180119-2228
+        configuration_id: '2'
+        dist_to_goal: '21.036768289597113'
+        achieved: 'false'
+        time_spent: '420.44605329'
+      no_obstacles:
+        time: 20180119-1718
+        configuration_id: '2'
+        dist_to_goal: '15.698900705366952'
+        achieved: 'false'
+        time_spent: '78.391614902'
+      with_obstacles:
+        time: 20180119-1919
+        configuration_id: '2'
+        dist_to_goal: '16.836244163734577'
+        achieved: 'false'
+        time_spent: '161.56915185'
+    '26':
+      up_the_crater:
+        time: 20180119-2236
+        configuration_id: '2'
+        dist_to_goal: '18.728425391609104'
+        achieved: 'false'
+        time_spent: '341.164086847'
+      no_obstacles:
+        time: 20180119-1720
+        configuration_id: '2'
+        dist_to_goal: '15.997843259619003'
+        achieved: 'false'
+        time_spent: '78.392343263'
+      with_obstacles:
+        time: 20180119-1923
+        configuration_id: '2'
+        dist_to_goal: '17.033466656555948'
+        achieved: 'false'
+        time_spent: '160.630545856'
+    '27':
+      no_obstacles:
+        time: 20180119-1722
+        configuration_id: '2'
+        dist_to_goal: '15.503902595141582'
+        achieved: 'false'
+        time_spent: '78.391982984'
+      with_obstacles:
+        time: 20180119-1928
+        configuration_id: '2'
+        dist_to_goal: '16.81094705075766'
+        achieved: 'false'
+        time_spent: '163.565342298'
+      up_the_crater:
+        time: 20180119-2243
+        configuration_id: '2'
+        dist_to_goal: '13.761885916559526'
+        achieved: 'false'
+        time_spent: '300.460958088'
+    '28':
+      up_the_crater:
+        time: 20180119-2249
+        configuration_id: '2'
+        dist_to_goal: '16.371815921198273'
+        achieved: 'false'
+        time_spent: '324.888311979'
+      with_obstacles:
+        time: 20180119-1932
+        configuration_id: '2'
+        dist_to_goal: '16.941817676011'
+        achieved: 'false'
+        time_spent: '178.40077521'
+      no_obstacles:
+        time: 20180119-1725
+        configuration_id: '2'
+        dist_to_goal: '21.907566019678296'
+        achieved: 'false'
+        time_spent: '78.391511241'
+    '29':
+      up_the_crater:
+        time: 20180119-2256
+        configuration_id: '2'
+        dist_to_goal: '25.64461834736239'
+        achieved: 'false'
+        time_spent: '301.292382278'
+      with_obstacles:
+        time: 20180119-1937
+        configuration_id: '2'
+        dist_to_goal: '16.823102390374164'
+        achieved: 'false'
+        time_spent: '163.61487211'
+      no_obstacles:
+        time: 20180119-1727
+        configuration_id: '2'
+        dist_to_goal: '15.303326289259747'
+        achieved: 'false'
+        time_spent: '78.390342681'
+  performance: 0.11040546831872654
+8:
+  id: 8
+  motion_planner:
+    mSearchUntilFirstSolution: false
+    mReplanDuringEachUpdate: true
+    mReplanMinDistStartGoal: 5.0
+    mSpeedForward: 0.5
+    mSpeedTurn: 0.4
+    mSpeedPointTurn: 0.6
+    mNumIntermediatePoints: 2
+    planning_time_sec: 13.0
+  trajectory_follower:
+    noOrientationRotationalVelocity: 0.035
+    pointTurnSpeed: 0.05
+  traversability:
+    maximum_slope: 0.9500000000000001
+    min_width: 0.05
+    ground_clearance: 0.35
+  results:
+    '0':
+      up_the_crater:
+        time: 20180123-0702
+        configuration_id: '8'
+        dist_to_goal: '9.223360195701359'
+        achieved: 'false'
+        time_spent: '306.71511318'
+      no_obstacles:
+        time: 20180123-0337
+        configuration_id: '8'
+        dist_to_goal: '4.599562690722742'
+        achieved: 'false'
+        time_spent: '78.394560516'
+      with_obstacles:
+        time: 20180123-0448
+        configuration_id: '8'
+        dist_to_goal: '16.80563048893579'
+        achieved: 'false'
+        time_spent: '171.941052158'
+    '1':
+      with_obstacles:
+        time: 20180123-0452
+        configuration_id: '8'
+        dist_to_goal: '16.76579932030106'
+        achieved: 'false'
+        time_spent: '152.822590337'
+      up_the_crater:
+        time: 20180123-0709
+        configuration_id: '8'
+        dist_to_goal: '24.16368626710285'
+        achieved: 'false'
+        time_spent: '353.08814295'
+      no_obstacles:
+        time: 20180123-0340
+        configuration_id: '8'
+        dist_to_goal: '18.638938814859145'
+        achieved: 'false'
+        time_spent: '78.392037075'
+    '2':
+      no_obstacles:
+        time: 20180123-0342
+        configuration_id: '8'
+        dist_to_goal: '4.690227563249065'
+        achieved: 'false'
+        time_spent: '78.394317092'
+      up_the_crater:
+        time: 20180123-0716
+        configuration_id: '8'
+        dist_to_goal: '39.44868968769921'
+        achieved: 'false'
+        time_spent: '303.061240498'
+      with_obstacles:
+        time: 20180123-0455
+        configuration_id: '8'
+        dist_to_goal: '16.919309470003085'
+        achieved: 'false'
+        time_spent: '266.692124158'
+    '3':
+      with_obstacles:
+        time: 20180123-0501
+        configuration_id: '8'
+        dist_to_goal: '16.930736135188415'
+        achieved: 'false'
+        time_spent: '182.445730973'
+      no_obstacles:
+        time: 20180123-0345
+        configuration_id: '8'
+        dist_to_goal: '23.62216815724407'
+        achieved: 'false'
+        time_spent: '78.392577676'
+      up_the_crater:
+        time: 20180123-0722
+        configuration_id: '8'
+        dist_to_goal: '21478.76403854095'
+        achieved: 'false'
+        time_spent: '335.900039873'
+    '4':
+      with_obstacles:
+        time: 20180123-0505
+        configuration_id: '8'
+        dist_to_goal: '16.729308097645117'
+        achieved: 'false'
+        time_spent: '159.244511467'
+      no_obstacles:
+        time: 20180123-0347
+        configuration_id: '8'
+        dist_to_goal: '26.348896383601723'
+        achieved: 'false'
+        time_spent: '78.394150675'
+      up_the_crater:
+        time: 20180123-0729
+        configuration_id: '8'
+        dist_to_goal: '18.152609693885346'
+        achieved: 'false'
+        time_spent: '303.546227881'
+    '5':
+      up_the_crater:
+        time: 20180123-0738
+        configuration_id: '8'
+        dist_to_goal: '2298.864340601754'
+        achieved: 'false'
+        time_spent: '321.368887381'
+      no_obstacles:
+        time: 20180123-0349
+        configuration_id: '8'
+        dist_to_goal: '26.20346499772927'
+        achieved: 'false'
+        time_spent: '78.394564331'
+      with_obstacles:
+        time: 20180123-0510
+        configuration_id: '8'
+        dist_to_goal: '12.202244558150385'
+        achieved: 'false'
+        time_spent: '158.524298985'
+    '6':
+      with_obstacles:
+        time: 20180123-0513
+        configuration_id: '8'
+        dist_to_goal: '16.53412824956048'
+        achieved: 'false'
+        time_spent: '151.184456739'
+      no_obstacles:
+        time: 20180123-0352
+        configuration_id: '8'
+        dist_to_goal: '4.83816876901637'
+        achieved: 'false'
+        time_spent: '78.396407687'
+      up_the_crater:
+        time: 20180123-0744
+        configuration_id: '8'
+        dist_to_goal: '22.109629863961445'
+        achieved: 'false'
+        time_spent: '300.614048599'
+    '7':
+      with_obstacles:
+        time: 20180123-0517
+        configuration_id: '8'
+        dist_to_goal: '16.823106913772623'
+        achieved: 'false'
+        time_spent: '186.292911882'
+      no_obstacles:
+        time: 20180123-0354
+        configuration_id: '8'
+        dist_to_goal: '4.38573804034143'
+        achieved: 'false'
+        time_spent: '78.394467637'
+      up_the_crater:
+        time: 20180123-0750
+        configuration_id: '8'
+        dist_to_goal: '11115.801394867507'
+        achieved: 'false'
+        time_spent: '304.621934031'
+    '8':
+      with_obstacles:
+        time: 20180123-0522
+        configuration_id: '8'
+        dist_to_goal: '12.205358261786552'
+        achieved: 'false'
+        time_spent: '265.691157232'
+      no_obstacles:
+        time: 20180123-0356
+        configuration_id: '8'
+        dist_to_goal: '9.894801278935603'
+        achieved: 'false'
+        time_spent: '78.392662496'
+      up_the_crater:
+        time: 20180123-0757
+        configuration_id: '8'
+        dist_to_goal: '26.665685101993322'
+        achieved: 'false'
+        time_spent: '301.79089366'
+    '9':
+      no_obstacles:
+        time: 20180123-0359
+        configuration_id: '8'
+        dist_to_goal: '4.544974270127459'
+        achieved: 'false'
+        time_spent: '78.395807114'
+      up_the_crater:
+        time: 20180123-0803
+        configuration_id: '8'
+        dist_to_goal: '175185.70346619765'
+        achieved: 'false'
+        time_spent: '585.282229956'
+      with_obstacles:
+        time: 20180123-0527
+        configuration_id: '8'
+        dist_to_goal: '16.831077665960755'
+        achieved: 'false'
+        time_spent: '165.20871049'
+    '10':
+      no_obstacles:
+        time: 20180123-0401
+        configuration_id: '8'
+        dist_to_goal: '18.662778028215047'
+        achieved: 'false'
+        time_spent: '78.396148408'
+      with_obstacles:
+        time: 20180123-0531
+        configuration_id: '8'
+        dist_to_goal: '17.02789903304887'
+        achieved: 'false'
+        time_spent: '166.379378484'
+      up_the_crater:
+        time: 20180123-0814
+        configuration_id: '8'
+        dist_to_goal: '9239.494529224861'
+        achieved: 'false'
+        time_spent: '365.09356396'
+    '11':
+      no_obstacles:
+        time: 20180123-0404
+        configuration_id: '8'
+        dist_to_goal: '20.07563579461066'
+        achieved: 'false'
+        time_spent: '78.394967964'
+      up_the_crater:
+        time: 20180123-0822
+        configuration_id: '8'
+        dist_to_goal: '8.314174990523039'
+        achieved: 'false'
+        time_spent: '302.889498099'
+      with_obstacles:
+        time: 20180123-0535
+        configuration_id: '8'
+        dist_to_goal: '16.83418320821001'
+        achieved: 'false'
+        time_spent: '164.484245194'
+    '12':
+      up_the_crater:
+        time: 20180123-0828
+        configuration_id: '8'
+        dist_to_goal: '21766.22359611296'
+        achieved: 'false'
+        time_spent: '304.938026767'
+      with_obstacles:
+        time: 20180123-0539
+        configuration_id: '8'
+        dist_to_goal: '17.05051282690476'
+        achieved: 'false'
+        time_spent: '175.626543102'
+      no_obstacles:
+        time: 20180123-0406
+        configuration_id: '8'
+        dist_to_goal: '4.8703497307539445'
+        achieved: 'false'
+        time_spent: '78.39561978'
+    '13':
+      with_obstacles:
+        time: 20180123-0545
+        configuration_id: '8'
+        dist_to_goal: '17.011222128242682'
+        achieved: 'false'
+        time_spent: '200.939195941'
+      up_the_crater:
+        time: 20180123-0835
+        configuration_id: '8'
+        dist_to_goal: '15.6454720552276'
+        achieved: 'false'
+        time_spent: '305.401207927'
+      no_obstacles:
+        time: 20180123-0408
+        configuration_id: '8'
+        dist_to_goal: '4.417875756572387'
+        achieved: 'false'
+        time_spent: '78.396682668'
+    '14':
+      up_the_crater:
+        time: 20180123-0841
+        configuration_id: '8'
+        dist_to_goal: '25.329433098327453'
+        achieved: 'false'
+        time_spent: '333.765663998'
+      with_obstacles:
+        time: 20180123-0549
+        configuration_id: '8'
+        dist_to_goal: '16.876711728024528'
+        achieved: 'false'
+        time_spent: '170.038664309'
+      no_obstacles:
+        time: 20180123-0411
+        configuration_id: '8'
+        dist_to_goal: '4.856333431604304'
+        achieved: 'false'
+        time_spent: '78.391783408'
+    '15':
+      up_the_crater:
+        time: 20180123-0848
+        configuration_id: '8'
+        dist_to_goal: '10789.62847986798'
+        achieved: 'false'
+        time_spent: '306.164720256'
+      no_obstacles:
+        time: 20180123-0413
+        configuration_id: '8'
+        dist_to_goal: '26.37209264689697'
+        achieved: 'false'
+        time_spent: '78.394339387'
+      with_obstacles:
+        time: 20180123-0553
+        configuration_id: '8'
+        dist_to_goal: '31.68945811800458'
+        achieved: 'false'
+        time_spent: '160.898357206'
+    '16':
+      with_obstacles:
+        time: 20180123-0556
+        configuration_id: '8'
+        dist_to_goal: '17.86543605364761'
+        achieved: 'false'
+        time_spent: '166.54812211'
+      no_obstacles:
+        time: 20180123-0415
+        configuration_id: '8'
+        dist_to_goal: '4.8558170964314815'
+        achieved: 'false'
+        time_spent: '78.39273592'
+      up_the_crater:
+        time: 20180123-0854
+        configuration_id: '8'
+        dist_to_goal: '24.856776979778292'
+        achieved: 'false'
+        time_spent: '300.18362543'
+    '17':
+      up_the_crater:
+        time: 20180123-0900
+        configuration_id: '8'
+        dist_to_goal: '20611.65488049202'
+        achieved: 'false'
+        time_spent: '335.049929532'
+      no_obstacles:
+        time: 20180123-0418
+        configuration_id: '8'
+        dist_to_goal: '4.191165278231584'
+        achieved: 'false'
+        time_spent: '78.394658292'
+      with_obstacles:
+        time: 20180123-0601
+        configuration_id: '8'
+        dist_to_goal: '17.35048124280085'
+        achieved: 'false'
+        time_spent: '296.248020358'
+    '18':
+      up_the_crater:
+        time: 20180123-0907
+        configuration_id: '8'
+        dist_to_goal: '34.0424805268091'
+        achieved: 'false'
+        time_spent: '329.201450921'
+      no_obstacles:
+        time: 20180123-0420
+        configuration_id: '8'
+        dist_to_goal: '4.882879732328703'
+        achieved: 'false'
+        time_spent: '78.275415835'
+      with_obstacles:
+        time: 20180123-0608
+        configuration_id: '8'
+        dist_to_goal: '16.827190378435006'
+        achieved: 'false'
+        time_spent: '153.592485541'
+    '19':
+      with_obstacles:
+        time: 20180123-0611
+        configuration_id: '8'
+        dist_to_goal: '16.804111908150357'
+        achieved: 'false'
+        time_spent: '165.324957415'
+      up_the_crater:
+        time: 20180123-0914
+        configuration_id: '8'
+        dist_to_goal: '6.941526647510775'
+        achieved: 'false'
+        time_spent: '331.674929186'
+      no_obstacles:
+        time: 20180123-0422
+        configuration_id: '8'
+        dist_to_goal: '18.45304933760383'
+        achieved: 'false'
+        time_spent: '78.451835535'
+    '20':
+      up_the_crater:
+        time: 20180123-0920
+        configuration_id: '8'
+        dist_to_goal: '19.854967199998153'
+        achieved: 'false'
+        time_spent: '392.77921944'
+      with_obstacles:
+        time: 20180123-0615
+        configuration_id: '8'
+        dist_to_goal: '6.753336037288185'
+        achieved: 'false'
+        time_spent: '163.091760275'
+      no_obstacles:
+        time: 20180123-0424
+        configuration_id: '8'
+        dist_to_goal: '25.49557310151415'
+        achieved: 'false'
+        time_spent: '78.395597022'
+    '21':
+      with_obstacles:
+        time: 20180123-0622
+        configuration_id: '8'
+        dist_to_goal: '16.908712430996026'
+        achieved: 'false'
+        time_spent: '175.043383833'
+      no_obstacles:
+        time: 20180123-0427
+        configuration_id: '8'
+        dist_to_goal: '5.504943463628632'
+        achieved: 'false'
+        time_spent: '78.394101899'
+      up_the_crater:
+        time: 20180123-0928
+        configuration_id: '8'
+        dist_to_goal: '25.68982918317503'
+        achieved: 'false'
+        time_spent: '302.187681243'
+    '22':
+      with_obstacles:
+        time: 20180123-0626
+        configuration_id: '8'
+        dist_to_goal: '16.8405567886428'
+        achieved: 'false'
+        time_spent: '162.007276805'
+      up_the_crater:
+        time: 20180123-0934
+        configuration_id: '8'
+        dist_to_goal: '39.73584106246291'
+        achieved: 'false'
+        time_spent: '340.918637832'
+      no_obstacles:
+        time: 20180123-0429
+        configuration_id: '8'
+        dist_to_goal: '25.20894439066402'
+        achieved: 'false'
+        time_spent: '78.395554584'
+    '23':
+      up_the_crater:
+        time: 20180123-0941
+        configuration_id: '8'
+        dist_to_goal: '95091.87742231034'
+        achieved: 'false'
+        time_spent: '483.46936075'
+      with_obstacles:
+        time: 20180123-0630
+        configuration_id: '8'
+        dist_to_goal: '36.398513121673915'
+        achieved: 'false'
+        time_spent: '192.502407801'
+      no_obstacles:
+        time: 20180123-0432
+        configuration_id: '8'
+        dist_to_goal: '25.385210896079112'
+        achieved: 'false'
+        time_spent: '78.337913494'
+    '24':
+      with_obstacles:
+        time: 20180123-0635
+        configuration_id: '8'
+        dist_to_goal: '16.64107408501828'
+        achieved: 'false'
+        time_spent: '151.47187872'
+      no_obstacles:
+        time: 20180123-0434
+        configuration_id: '8'
+        dist_to_goal: '4.85405203163489'
+        achieved: 'false'
+        time_spent: '78.395907092'
+      up_the_crater:
+        time: 20180123-0951
+        configuration_id: '8'
+        dist_to_goal: '24.867528153241118'
+        achieved: 'false'
+        time_spent: '345.9706138'
+    '25':
+      no_obstacles:
+        time: 20180123-0436
+        configuration_id: '8'
+        dist_to_goal: '4.288071234970357'
+        achieved: 'false'
+        time_spent: '78.396913236'
+      with_obstacles:
+        time: 20180123-0639
+        configuration_id: '8'
+        dist_to_goal: '16.821905050830992'
+        achieved: 'false'
+        time_spent: '199.525880496'
+      up_the_crater:
+        time: 20180123-1000
+        configuration_id: '8'
+        dist_to_goal: '5.4025173760350285'
+        achieved: 'false'
+        time_spent: '330.773279313'
+    '26':
+      no_obstacles:
+        time: 20180123-0438
+        configuration_id: '8'
+        dist_to_goal: '22.354504277408502'
+        achieved: 'false'
+        time_spent: '78.393050388'
+      up_the_crater:
+        time: 20180123-1008
+        configuration_id: '8'
+        dist_to_goal: '12.090192040286826'
+        achieved: 'false'
+        time_spent: '301.400891379'
+      with_obstacles:
+        time: 20180123-0645
+        configuration_id: '8'
+        dist_to_goal: '16.993523081309164'
+        achieved: 'false'
+        time_spent: '155.755203499'
+    '27':
+      with_obstacles:
+        time: 20180123-0651
+        configuration_id: '8'
+        dist_to_goal: '16.832588527615467'
+        achieved: 'false'
+        time_spent: '163.383417178'
+      up_the_crater:
+        time: 20180123-1014
+        configuration_id: '8'
+        dist_to_goal: '33.132082413575546'
+        achieved: 'false'
+        time_spent: '302.118196728'
+      no_obstacles:
+        time: 20180123-0441
+        configuration_id: '8'
+        dist_to_goal: '26.521260166878925'
+        achieved: 'false'
+        time_spent: '78.274287409'
+    '28':
+      no_obstacles:
+        time: 20180123-0443
+        configuration_id: '8'
+        dist_to_goal: '25.8266842476847'
+        achieved: 'false'
+        time_spent: '78.393572926'
+      up_the_crater:
+        time: 20180123-1020
+        configuration_id: '8'
+        dist_to_goal: '20.881916109084393'
+        achieved: 'false'
+        time_spent: '327.094180596'
+      with_obstacles:
+        time: 20180123-0655
+        configuration_id: '8'
+        dist_to_goal: '9.486995544513492'
+        achieved: 'false'
+        time_spent: '150.708604855'
+    '29':
+      with_obstacles:
+        time: 20180123-0658
+        configuration_id: '8'
+        dist_to_goal: '16.871630826648484'
+        achieved: 'false'
+        time_spent: '159.85315299'
+      up_the_crater:
+        time: 20180123-1028
+        configuration_id: '8'
+        dist_to_goal: '40.60843623889776'
+        achieved: 'false'
+        time_spent: '306.125141153'
+      no_obstacles:
+        time: 20180123-0445
+        configuration_id: '8'
+        dist_to_goal: '25.787973719359098'
+        achieved: 'false'
+        time_spent: '78.393239454'
+  performance: 0.13279363815179343

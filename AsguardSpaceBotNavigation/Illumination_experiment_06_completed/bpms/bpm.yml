@@ -1,0 +1,188 @@
+---
+bpm:
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.19606984428178348
+    id: 7
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.11040546831872654
+    id: 2
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.19416612307448702
+    id: 0
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.12051343877483171
+    id: 6
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.10393207838929766
+    id: 3
+  - performance: 0.09287756913238328
+    id: 1
+  - performance: 0.13279363815179343
+    id: 8
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.09006957277210653
+    id: 4
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.15685581825480746
+    id: 5
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope
