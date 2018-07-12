@@ -1,0 +1,188 @@
+---
+bpm:
+- - performance: 0.38737772685821903
+    id: 38
+  - performance: 0.2497304215172673
+    id: 184
+  - performance: 0.442455672555221
+    id: 85
+  - performance: 0.4020047654498639
+    id: 147
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.43404316081475214
+    id: 109
+  - performance: 0.49117127423408086
+    id: 156
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+- - performance: 0.46655790168840405
+    id: 152
+  - performance: 0.5198234279127031
+    id: 68
+  - performance: 0.4955044573935717
+    id: 127
+  - performance: 0.5073188907718681
+    id: 55
+  - performance: 0.37039766523370354
+    id: 105
+  - performance: 0.0
+    id: ''
+  - performance: 0.503650775379704
+    id: 189
+  - performance: 0.4239443171277802
+    id: 93
+  - performance: 0.24969572062838777
+    id: 57
+  - performance: 0.24972148020836718
+    id: 129
+- - performance: 0.5189189390660709
+    id: 170
+  - performance: 0.506163377476079
+    id: 100
+  - performance: 0.4119164954577732
+    id: 171
+  - performance: 0.45585312780448595
+    id: 64
+  - performance: 0.24972991275837522
+    id: 90
+  - performance: 0.24967954008568954
+    id: 74
+  - performance: 0.42930520613582096
+    id: 56
+  - performance: 0.47843505352927407
+    id: 104
+  - performance: 0.4546926351877294
+    id: 81
+  - performance: 0.5100100995663952
+    id: 51
+- - performance: 0.4735964894686739
+    id: 65
+  - performance: 0.5206356959110168
+    id: 61
+  - performance: 0.3150840107135548
+    id: 18
+  - performance: 0.5063248421265587
+    id: 87
+  - performance: 0.5415297719357003
+    id: 69
+  - performance: 0.40576849178627394
+    id: 123
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.5334470153662837
+    id: 164
+- - performance: 0.0
+    id: ''
+  - performance: 0.522421284403174
+    id: 53
+  - performance: 0.48714160235715653
+    id: 161
+  - performance: 0.41714131993468717
+    id: 30
+  - performance: 0.4332226329594352
+    id: 86
+  - performance: 0.43149112450194455
+    id: 182
+  - performance: 0.4245622164848834
+    id: 84
+  - performance: 0.39003064700903206
+    id: 79
+  - performance: 0.4022556835449861
+    id: 143
+  - performance: 0.4780413277927028
+    id: 60
+- - performance: 0.0
+    id: ''
+  - performance: 0.4478863194560236
+    id: 17
+  - performance: 0.4157130474122155
+    id: 16
+  - performance: 0.41487270510144336
+    id: 185
+  - performance: 0.46883686656353946
+    id: 119
+  - performance: 0.0
+    id: ''
+  - performance: 0.361180463266597
+    id: 43
+  - performance: 0.45933567068863673
+    id: 173
+  - performance: 0.41568321500484806
+    id: 193
+  - performance: 0.3810161163986744
+    id: 122
+- - performance: 0.326782738358765
+    id: 120
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.4003915824015595
+    id: 176
+  - performance: 0.4235088449276635
+    id: 5
+  - performance: 0.3419966767994084
+    id: 36
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.3735616396862153
+    id: 151
+  - performance: 0.42127154984915555
+    id: 3
+- - performance: 0.0
+    id: ''
+  - performance: 0.42199120237216875
+    id: 110
+  - performance: 0.36081451919781704
+    id: 181
+  - performance: 0.37385518410593455
+    id: 72
+  - performance: 0.4752545478022595
+    id: 89
+  - performance: 0.39227070274583087
+    id: 67
+  - performance: 0.374854042071625
+    id: 163
+  - performance: 0.0
+    id: ''
+  - performance: 0.4254657836813058
+    id: 158
+  - performance: 0.3897163118293841
+    id: 33
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope
