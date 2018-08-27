@@ -1,0 +1,188 @@
+---
+bpm:
+- - performance: 0.42915798048899734
+    id: 231
+  - performance: 0.2497304215172673
+    id: 184
+  - performance: 0.44537208578671766
+    id: 224
+  - performance: 0.4159082648490698
+    id: 237
+  - performance: 0.0
+    id: ''
+  - performance: 0.4492595407002077
+    id: 243
+  - performance: 0.43768215585949566
+    id: 219
+  - performance: 0.49117127423408086
+    id: 156
+  - performance: 0.0
+    id: ''
+  - performance: 0.24968931835117236
+    id: 220
+- - performance: 0.46655790168840405
+    id: 152
+  - performance: 0.5198234279127031
+    id: 68
+  - performance: 0.49786417566328284
+    id: 264
+  - performance: 0.5073188907718681
+    id: 55
+  - performance: 0.4109375416105799
+    id: 209
+  - performance: 0.0
+    id: ''
+  - performance: 0.503650775379704
+    id: 189
+  - performance: 0.4239443171277802
+    id: 93
+  - performance: 0.40236999828484654
+    id: 299
+  - performance: 0.24972148020836718
+    id: 129
+- - performance: 0.5189189390660709
+    id: 170
+  - performance: 0.506163377476079
+    id: 100
+  - performance: 0.4629794916162448
+    id: 254
+  - performance: 0.5079341134167912
+    id: 229
+  - performance: 0.24972991275837522
+    id: 90
+  - performance: 0.249721267910299
+    id: 238
+  - performance: 0.42930520613582096
+    id: 56
+  - performance: 0.47843505352927407
+    id: 104
+  - performance: 0.4797587212294888
+    id: 285
+  - performance: 0.5646583456982917
+    id: 295
+- - performance: 0.4735964894686739
+    id: 65
+  - performance: 0.5206356959110168
+    id: 61
+  - performance: 0.3150840107135548
+    id: 18
+  - performance: 0.5063248421265587
+    id: 87
+  - performance: 0.5415297719357003
+    id: 69
+  - performance: 0.40576849178627394
+    id: 123
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.5334470153662837
+    id: 164
+- - performance: 0.46891308879614274
+    id: 286
+  - performance: 0.522421284403174
+    id: 53
+  - performance: 0.48714160235715653
+    id: 161
+  - performance: 0.4207348991019914
+    id: 230
+  - performance: 0.4332226329594352
+    id: 86
+  - performance: 0.4366904463263337
+    id: 204
+  - performance: 0.4245622164848834
+    id: 84
+  - performance: 0.4134712510024933
+    id: 294
+  - performance: 0.4022556835449861
+    id: 143
+  - performance: 0.4780413277927028
+    id: 60
+- - performance: 0.0
+    id: ''
+  - performance: 0.4478863194560236
+    id: 17
+  - performance: 0.42218181119144854
+    id: 257
+  - performance: 0.4725025525004988
+    id: 245
+  - performance: 0.48419948461772777
+    id: 288
+  - performance: 0.467145377997535
+    id: 274
+  - performance: 0.3895877411388262
+    id: 290
+  - performance: 0.45933567068863673
+    id: 173
+  - performance: 0.41568321500484806
+    id: 193
+  - performance: 0.3810161163986744
+    id: 122
+- - performance: 0.326782738358765
+    id: 120
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.4003915824015595
+    id: 176
+  - performance: 0.4235088449276635
+    id: 5
+  - performance: 0.3419966767994084
+    id: 36
+  - performance: 0.0
+    id: ''
+  - performance: 0.0
+    id: ''
+  - performance: 0.4049200138570027
+    id: 232
+  - performance: 0.42127154984915555
+    id: 3
+- - performance: 0.0
+    id: ''
+  - performance: 0.42199120237216875
+    id: 110
+  - performance: 0.3708252757242506
+    id: 298
+  - performance: 0.3771908989479919
+    id: 215
+  - performance: 0.4752545478022595
+    id: 89
+  - performance: 0.39227070274583087
+    id: 67
+  - performance: 0.374854042071625
+    id: 163
+  - performance: 0.0
+    id: ''
+  - performance: 0.4254657836813058
+    id: 158
+  - performance: 0.3897163118293841
+    id: 33
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope
