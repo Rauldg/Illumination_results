@@ -1,0 +1,511 @@
+---
+bpms:
+- - no_obstacles
+  - - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+- - with_obstacles
+  - - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+    - - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+      - performance: 0.0
+        id: ''
+- - up_the_crater
+  - - - performance: 0.4024288612011885
+        id: 886
+      - performance: 0.48453530396165095
+        id: 879
+      - performance: 0.42883515227948027
+        id: 1688
+      - performance: 0.46030072118411397
+        id: 1553
+      - performance: 0.467048382163267
+        id: 1558
+      - performance: 0.49965989430079305
+        id: 1860
+      - performance: 0.44010283601143746
+        id: 1777
+      - performance: 0.5299691369116148
+        id: 531
+      - performance: 0.47118884442302167
+        id: 1785
+      - performance: 0.0
+        id: ''
+    - - performance: 0.44844944812254645
+        id: 1781
+      - performance: 0.4420142941805569
+        id: 1283
+      - performance: 0.4367190215070833
+        id: 1827
+      - performance: 0.46764044757372303
+        id: 1692
+      - performance: 0.5532042892268879
+        id: 1435
+      - performance: 0.5629799530619621
+        id: 1858
+      - performance: 0.49368040320511936
+        id: 258
+      - performance: 0.4681150404779504
+        id: 1756
+      - performance: 0.6381073850585656
+        id: 1684
+      - performance: 0.48832959821281996
+        id: 1762
+    - - performance: 0.43239214725228386
+        id: 1030
+      - performance: 0.45573670802878513
+        id: 875
+      - performance: 0.4515577890794222
+        id: 294
+      - performance: 0.4408127244645609
+        id: 1725
+      - performance: 0.4660911201375879
+        id: 1251
+      - performance: 0.6284436154035585
+        id: 1863
+      - performance: 0.41973729076327293
+        id: 1655
+      - performance: 0.45462873340230703
+        id: 1617
+      - performance: 0.5105427927865962
+        id: 1211
+      - performance: 0.4265852529440305
+        id: 1632
+    - - performance: 0.4333431050794965
+        id: 1588
+      - performance: 0.46731575423131705
+        id: 1602
+      - performance: 0.552877713463321
+        id: 1690
+      - performance: 0.4471287817563596
+        id: 1101
+      - performance: 0.45064405408914543
+        id: 1677
+      - performance: 0.3982265411344251
+        id: 1823
+      - performance: 0.5313959915757197
+        id: 1816
+      - performance: 0.4083117321389046
+        id: 1715
+      - performance: 0.41477961966888643
+        id: 1848
+      - performance: 0.4543603671518355
+        id: 1783
+    - - performance: 0.4329283006877057
+        id: 1652
+      - performance: 0.40640072949191675
+        id: 1748
+      - performance: 0.4591496352496953
+        id: 732
+      - performance: 0.4588003264535689
+        id: 1742
+      - performance: 0.3889601615945931
+        id: 1825
+      - performance: 0.5249232937073887
+        id: 1862
+      - performance: 0.414871236249024
+        id: 1485
+      - performance: 0.39042809384218835
+        id: 1708
+      - performance: 0.4498410184367832
+        id: 1529
+      - performance: 0.40152304200772215
+        id: 1501
+    - - performance: 0.4067528950946444
+        id: 1603
+      - performance: 0.46578516784113516
+        id: 1857
+      - performance: 0.44315471502607484
+        id: 1747
+      - performance: 0.4717588797865395
+        id: 1609
+      - performance: 0.4447621396822913
+        id: 1513
+      - performance: 0.3301863809579841
+        id: 1800
+      - performance: 0.3465066841856646
+        id: 1565
+      - performance: 0.39711724134717113
+        id: 1626
+      - performance: 0.4002306284062427
+        id: 1647
+      - performance: 0.4263264784010886
+        id: 1763
+    - - performance: 0.43939801486809743
+        id: 1212
+      - performance: 0.38760107005688826
+        id: 1795
+      - performance: 0.404895934758082
+        id: 1734
+      - performance: 0.4066369560356214
+        id: 1500
+      - performance: 0.37015670329917877
+        id: 1778
+      - performance: 0.38854906001313544
+        id: 1712
+      - performance: 0.0
+        id: ''
+      - performance: 0.40115164784245827
+        id: 1705
+      - performance: 0.2405164843508505
+        id: 1464
+      - performance: 0.39349256917773423
+        id: 494
+    - - performance: 0.4202322129565111
+        id: 1591
+      - performance: 0.3818616498849238
+        id: 1514
+      - performance: 0.3907394627280873
+        id: 1711
+      - performance: 0.3782559684049726
+        id: 1752
+      - performance: 0.2972900992416065
+        id: 89
+      - performance: 0.38702956580439457
+        id: 1732
+      - performance: 0.3103336823504075
+        id: 1472
+      - performance: 0.38435034856067696
+        id: 1679
+      - performance: 0.22465357432964816
+        id: 1826
+      - performance: 0.24372275402741395
+        id: 33
+xaxis:
+- 0.2
+- 0.30000000000000004
+- 0.4
+- 0.5
+- 0.6000000000000001
+- 0.7
+- 0.8
+- 0.9
+yaxis:
+- 0.55
+- 0.6000000000000001
+- 0.65
+- 0.7000000000000001
+- 0.75
+- 0.8
+- 0.8500000000000001
+- 0.9000000000000001
+- 0.9500000000000001
+- 1.0
+paramx:
+  task: motion_planner
+  name: mSpeedForward
+paramy:
+  task: traversability
+  name: maximum_slope

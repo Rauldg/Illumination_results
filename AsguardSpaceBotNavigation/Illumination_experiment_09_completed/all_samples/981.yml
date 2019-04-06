@@ -1,0 +1,19 @@
+---
+id: 981
+motion_planner:
+  mSearchUntilFirstSolution: true
+  mReplanDuringEachUpdate: true
+  mReplanMinDistStartGoal: 4.0
+  mSpeedForward: 0.2
+  mSpeedTurn: 0.6
+  mSpeedPointTurn: 0.5
+  mNumIntermediatePoints: 10
+  planning_time_sec: 13.0
+trajectory_follower:
+  noOrientationRotationalVelocity: 0.035
+  pointTurnSpeed: 0.04
+traversability:
+  maximum_slope: 0.9500000000000001
+  min_width: 0.15000000000000002
+  ground_clearance: 0.65
+overpassed: true
