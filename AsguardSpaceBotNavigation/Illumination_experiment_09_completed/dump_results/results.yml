@@ -45434,28 +45434,36 @@
         time_spent: '62.665922114'}
       up_the_crater: {achieved: 'true', configuration_id: '1762', time: 20190325-1121,
         time_spent: '109.84508156'}
-      with_obstacles: {achieved: false, dist_to_goal: '2.9662779257625638', time: 20191101-1805,
+      with_obstacles: {achieved: false, dist_to_goal: '4.740419300439289', time: 20191102-1309,
         time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.442185648639746', time: 20191101-0805,
         time_spent: '62.665206276'}
       up_the_crater: {achieved: 'false', configuration_id: '1762', dist_to_goal: '2.964420151744838',
         time: 20190325-1125, time_spent: '371.0925552'}
+      with_obstacles: {achieved: false, dist_to_goal: '0.7121020111188915', time: 20191102-1313,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.4890204558282616', time: 20191101-0807,
         time_spent: '73.148618346'}
       up_the_crater: {achieved: 'true', configuration_id: '1762', time: 20190325-1137,
         time_spent: '200.922372476'}
+      with_obstacles: {achieved: false, dist_to_goal: '2.5598187007209656', time: 20191102-1317,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4186454072835609', time: 20191101-0809,
         time_spent: '52.182103299'}
       up_the_crater: {achieved: 'false', configuration_id: '1762', dist_to_goal: '3.4334719762337538',
         time: 20190325-1142, time_spent: '764.67547756'}
+      with_obstacles: {achieved: false, dist_to_goal: '4.9599267562066105', time: 20191102-1320,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '0.5143885254991658', time: 20191101-0811,
         time_spent: '75'}
       up_the_crater: {achieved: 'true', configuration_id: '1762', time: 20190325-1159,
         time_spent: '205.805002712'}
+      with_obstacles: {achieved: false, dist_to_goal: '2.766163247429952', time: 20191102-1323,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.035, pointTurnSpeed: 0.08}
   traversability: {ground_clearance: 0.6, maximum_slope: 1.0, min_width: 0.15000000000000002}
 1763:
@@ -45472,26 +45480,36 @@
         time_spent: '52.182745894'}
       up_the_crater: {achieved: 'true', configuration_id: '1763', time: 20190325-1225,
         time_spent: '278.359887986'}
+      with_obstacles: {achieved: false, dist_to_goal: '5.698531899370989', time: 20191102-1327,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: false, dist_to_goal: '0.7755885577853561', time: 20191101-0815,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1763', dist_to_goal: '1.0546803467167554',
         time: 20190325-1242, time_spent: '735.933437811'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.399880987234628', time: 20191102-1330,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.3596220244478584', time: 20191101-0817,
         time_spent: '36.455187756'}
       up_the_crater: {achieved: 'false', configuration_id: '1763', dist_to_goal: '5.105415360984815',
         time: 20190325-1300, time_spent: '312.583850022'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.734862509768468', time: 20191102-1334,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: false, dist_to_goal: '0.9341405755217695', time: 20191101-0819,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1763', dist_to_goal: '0.9442385135726995',
         time: 20190325-1309, time_spent: '437.334520153'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.735183626343096', time: 20191102-1337,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '1.0993661361697544', time: 20191101-0821,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1763', dist_to_goal: '2.3705732830122233',
         time: 20190325-1326, time_spent: '352.502104024'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.865208780900227', time: 20191102-1341,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.01, pointTurnSpeed: 0.07}
   traversability: {ground_clearance: 0.45000000000000007, maximum_slope: 1.0, min_width: 0.05}
 1764:
@@ -45823,26 +45841,36 @@
         time_spent: '36.454691795'}
       up_the_crater: {achieved: 'true', configuration_id: '1777', time: 20190326-0953,
         time_spent: '196.697566403'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.764541371295353', time: 20191102-1344,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.3183571589082974', time: 20191101-0825,
         time_spent: '46.941139276'}
       up_the_crater: {achieved: 'false', configuration_id: '1777', dist_to_goal: '0.7385059720319764',
         time: 20190326-0958, time_spent: '431.746391642'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.766739454469196', time: 20191102-1348,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.13707990003624584', time: 20191101-0827,
         time_spent: '41.696991811'}
       up_the_crater: {achieved: 'false', configuration_id: '1777', dist_to_goal: '4.796171489538102',
         time: 20190326-1007, time_spent: '320.895205414'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.8113294844601', time: 20191102-1351,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4768869958574112', time: 20191101-0829,
         time_spent: '41.696175803'}
       up_the_crater: {achieved: 'false', configuration_id: '1777', dist_to_goal: '0.9521046907951756',
         time: 20190326-1016, time_spent: '557.59459197'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.647032040455741', time: 20191102-1354,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.4969219117168134', time: 20191101-0831,
         time_spent: '41.696943071'}
       up_the_crater: {achieved: 'false', configuration_id: '1777', dist_to_goal: '0.8595544695957286',
         time: 20190326-1030, time_spent: '384.141680425'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.57051512244536', time: 20191102-1358,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.05500000000000001}
   traversability: {ground_clearance: 0.2, maximum_slope: 0.8500000000000001, min_width: 0.0}
 1778:
@@ -45859,26 +45887,36 @@
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1778', dist_to_goal: '5.237793307968249',
         time: 20190326-1101, time_spent: '389.661670214'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.696760720739537', time: 20191102-1402,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: false, dist_to_goal: '1.3654475783122242', time: 20191101-0835,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1778', dist_to_goal: '4.165504266087338',
         time: 20190326-1109, time_spent: '312.870590813'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.283173008288117', time: 20191102-1405,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.18776196478307827', time: 20191101-0837,
         time_spent: '20.727002392'}
       up_the_crater: {achieved: 'false', configuration_id: '1778', dist_to_goal: '2.8467610516001196',
         time: 20190326-1115, time_spent: '570.152969292'}
+      with_obstacles: {achieved: false, dist_to_goal: '3.0439984468155985', time: 20191102-1409,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: false, dist_to_goal: '0.9414803000872137', time: 20191101-0839,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1778', dist_to_goal: '4.463384609180201',
         time: 20190326-1130, time_spent: '387.641398973'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.528217612632943', time: 20191102-1412,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '1.6662051136694471', time: 20191101-0841,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1778', dist_to_goal: '5.230883515035827',
         time: 20190326-1138, time_spent: '312.236488661'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.149900576740478', time: 20191102-1416,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.015, pointTurnSpeed: 0.06}
   traversability: {ground_clearance: 0.4, maximum_slope: 0.75, min_width: 0.1}
 1779:
@@ -45943,26 +45981,36 @@
         time_spent: '31.212228375'}
       up_the_crater: {achieved: 'true', configuration_id: '1781', time: 20190326-1544,
         time_spent: '109.845353729'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.852894973107771', time: 20191102-1419,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.17772794402262435', time: 20191101-0845,
         time_spent: '36.454666367'}
       up_the_crater: {achieved: 'false', configuration_id: '1781', dist_to_goal: '1.187902872498575',
         time: 20190326-1548, time_spent: '952.461768389'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.80950952973591', time: 20191102-1422,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.3384366700852789', time: 20191101-0846,
         time_spent: '36.454818033'}
       up_the_crater: {achieved: 'true', configuration_id: '1781', dist_to_goal: '0.41041702153553966',
         time: 20190326-1605, time_spent: '311.604756928'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.075752224523342', time: 20191102-1426,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.10105225731352616', time: 20191101-0848,
         time_spent: '36.454449578'}
       up_the_crater: {achieved: 'false', configuration_id: '1781', dist_to_goal: '0.6997206431429235',
         time: 20190326-1614, time_spent: '316.746521329'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.718301271590907', time: 20191102-1429,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.12255015709762204', time: 20191101-0850,
         time_spent: '31.211306014'}
       up_the_crater: {achieved: 'false', configuration_id: '1781', dist_to_goal: '2.8169914076552316',
         time: 20190326-1621, time_spent: '436.289953448'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.326152306372574', time: 20191102-1433,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.01, pointTurnSpeed: 0.08}
   traversability: {ground_clearance: 0.5, maximum_slope: 0.55, min_width: 0.0}
 1782:
@@ -46003,26 +46051,36 @@
         time_spent: '25.969507434'}
       up_the_crater: {achieved: 'true', configuration_id: '1783', time: 20190326-1844,
         time_spent: '52.181686853'}
+      with_obstacles: {achieved: false, dist_to_goal: '4.315050568866947', time: 20191102-1436,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: false, dist_to_goal: '0.615687751531736', time: 20191101-0853,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1783', dist_to_goal: '2.73415430348895',
         time: 20190326-1846, time_spent: '897.071057771'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.737170444057448', time: 20191102-1440,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.45825431270001266', time: 20191101-0855,
         time_spent: '31.211474373'}
       up_the_crater: {achieved: 'true', configuration_id: '1783', time: 20190326-1904,
         time_spent: '62.663495652'}
+      with_obstacles: {achieved: false, dist_to_goal: '2.248096082506355', time: 20191102-1443,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.35352159050647014', time: 20191101-0857,
         time_spent: '25.970618535'}
       up_the_crater: {achieved: 'false', configuration_id: '1783', dist_to_goal: '2.7064768766959784',
         time: 20190326-1906, time_spent: '979.632806759'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.207544762744261', time: 20191102-1447,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.3431009662018205', time: 20191101-0858,
         time_spent: '31.212617591'}
       up_the_crater: {achieved: 'false', configuration_id: '1783', dist_to_goal: '2.8699634482876943',
         time: 20190326-1923, time_spent: '303.564457956'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.982674498681693', time: 20191102-1450,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.04, pointTurnSpeed: 0.07}
   traversability: {ground_clearance: 0.45000000000000007, maximum_slope: 1.0, min_width: 0.05}
 1784:
@@ -46063,26 +46121,36 @@
         time_spent: '36.453719152'}
       up_the_crater: {achieved: 'false', configuration_id: '1785', dist_to_goal: '0.9182009374034371',
         time: 20190326-2149, time_spent: '975.962520565'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.178750069110096', time: 20191102-1454,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.3645943738779607', time: 20191101-0901,
         time_spent: '41.697447017'}
       up_the_crater: {achieved: 'false', configuration_id: '1785', dist_to_goal: '0.6431114073453997',
         time: 20190326-2206, time_spent: '370.663922412'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.096254990230019', time: 20191102-1457,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.14115321439471354', time: 20191101-0903,
         time_spent: '36.453769295'}
       up_the_crater: {achieved: 'false', configuration_id: '1785', dist_to_goal: '3.986591011026739',
         time: 20190326-2217, time_spent: '370.778486818'}
+      with_obstacles: {achieved: false, dist_to_goal: '12.547745235447723', time: 20191102-1501,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.26868836861325707', time: 20191101-0905,
         time_spent: '73.149759606'}
       up_the_crater: {achieved: 'true', configuration_id: '1785', time: 20190326-2227,
         time_spent: '180.435483869'}
+      with_obstacles: {achieved: false, dist_to_goal: '13.021592158520583', time: 20191102-1504,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.3011436119928468', time: 20191101-0907,
         time_spent: '36.455334742'}
       up_the_crater: {achieved: 'true', configuration_id: '1785', time: 20190326-2231,
         time_spent: '109.846696454'}
+      with_obstacles: {achieved: false, dist_to_goal: '12.284022638271216', time: 20191102-1507,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.035}
   traversability: {ground_clearance: 0.2, maximum_slope: 0.9500000000000001, min_width: 0.2}
 1786:
@@ -46315,26 +46383,36 @@
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1795', dist_to_goal: '2.60955184277627',
         time: 20190327-1236, time_spent: '539.233728034'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.075822697968144', time: 20191102-1511,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.4936112875077092', time: 20191101-0911,
         time_spent: '41.697572446'}
       up_the_crater: {achieved: 'false', configuration_id: '1795', dist_to_goal: '5.68576054241999',
         time: 20190327-1253, time_spent: '495.949335875'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.87380361574592', time: 20191102-1514,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '0.8134906975202133', time: 20191101-0913,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1795', dist_to_goal: '5.241086734475781',
         time: 20190327-1304, time_spent: '305.566620846'}
+      with_obstacles: {achieved: false, dist_to_goal: '14.776868432016752', time: 20191102-1518,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: false, dist_to_goal: '0.5845699199697606', time: 20191101-0916,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1795', dist_to_goal: '1.7028656926050219',
         time: 20190327-1310, time_spent: '974.286027567'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.194345798681258', time: 20191102-1521,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '0.5409259895150416', time: 20191101-0918,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1795', dist_to_goal: '1.098068955079603',
         time: 20190327-1327, time_spent: '560.384338134'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.692475424548807', time: 20191102-1525,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.06999999999999999, pointTurnSpeed: 0.03}
   traversability: {ground_clearance: 0.1, maximum_slope: 0.6000000000000001, min_width: 0.05}
 1796:
@@ -46449,26 +46527,36 @@
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1800', dist_to_goal: '8.053440387418354',
         time: 20190327-2010, time_spent: '469.905897936'}
+      with_obstacles: {achieved: false, dist_to_goal: '14.183593338622522', time: 20191102-1528,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: false, dist_to_goal: '1.5495821282530933', time: 20191101-0922,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1800', dist_to_goal: '0.785978726789949',
         time: 20190327-2025, time_spent: '304.334935683'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.861602798694869', time: 20191102-1532,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '0.9365607383708427', time: 20191101-0925,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1800', dist_to_goal: '3.546559588995998',
         time: 20190327-2039, time_spent: '603.74288333'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.875597562746275', time: 20191102-1535,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: false, dist_to_goal: '0.8841079408531176', time: 20191101-0927,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1800', dist_to_goal: '9.616021091186987',
         time: 20190327-2054, time_spent: '495.759047405'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.190174204054715', time: 20191102-1538,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '0.6429663701737588', time: 20191101-0929,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1800', dist_to_goal: '2.062901435213431',
         time: 20190327-2104, time_spent: '531.814666989'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.516935453536123', time: 20191102-1542,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.015, pointTurnSpeed: 0.065}
   traversability: {ground_clearance: 0.15000000000000002, maximum_slope: 0.8, min_width: 0.0}
 1801:
@@ -46850,26 +46938,36 @@
         time_spent: '75'}
       up_the_crater: {achieved: 'true', configuration_id: '1816', time: 20190328-1909,
         time_spent: '157.053897713'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.284615436477863', time: 20191102-1545,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.454058599459977', time: 20191101-0934,
         time_spent: '31.212759338'}
       up_the_crater: {achieved: 'true', configuration_id: '1816', time: 20190328-1924,
         time_spent: '109.849795906'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.516197421651054', time: 20191102-1549,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '1.2394016468394664', time: 20191101-0935,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1816', dist_to_goal: '2.428433257708129',
         time: 20190328-1932, time_spent: '804.600251814'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.208925153119221', time: 20191102-1552,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.16793145610532403', time: 20191101-0938,
         time_spent: '25.969747873'}
       up_the_crater: {achieved: 'false', configuration_id: '1816', dist_to_goal: '1.1123244463108886',
         time: 20190328-1946, time_spent: '803.99504708'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.128088003084746', time: 20191102-1556,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '1.4419544697984923', time: 20191101-0939,
         time_spent: '75'}
       up_the_crater: {achieved: 'true', configuration_id: '1816', time: 20190328-2000,
         time_spent: '109.930057623'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.7516163001915945', time: 20191102-1559,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.05500000000000001}
   traversability: {ground_clearance: 0.2, maximum_slope: 0.8500000000000001, min_width: 0.0}
 1817:
@@ -47030,26 +47128,36 @@
         time_spent: '25.969204912'}
       up_the_crater: {achieved: 'false', configuration_id: '1823', dist_to_goal: '3.7876932104415943',
         time: 20190329-0551, time_spent: '539.188836725'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.757827371065212', time: 20191102-1603,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.2682465139584511', time: 20191101-0943,
         time_spent: '36.455076917'}
       up_the_crater: {achieved: 'false', configuration_id: '1823', dist_to_goal: '0.885015806676704',
         time: 20190329-0605, time_spent: '625.497506335'}
+      with_obstacles: {achieved: false, dist_to_goal: '3.965391546715516', time: 20191102-1606,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '0.6639777630191371', time: 20191101-0945,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1823', dist_to_goal: '3.50536817292178',
         time: 20190329-0617, time_spent: '388.133829573'}
+      with_obstacles: {achieved: false, dist_to_goal: '1.0506688148502399', time: 20191102-1610,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4851540968490451', time: 20191101-0947,
         time_spent: '31.213248117'}
       up_the_crater: {achieved: 'false', configuration_id: '1823', dist_to_goal: '4.25444235720307',
         time: 20190329-0625, time_spent: '589.413161275'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.051570307560828', time: 20191102-1613,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.42235529826976176', time: 20191101-0949,
         time_spent: '36.454362696'}
       up_the_crater: {achieved: 'false', configuration_id: '1823', dist_to_goal: '3.5003721169875996',
         time: 20190329-0639, time_spent: '384.552502647'}
+      with_obstacles: {achieved: false, dist_to_goal: '2.1490331080461025', time: 20191102-1616,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.055, pointTurnSpeed: 0.065}
   traversability: {ground_clearance: 0.15000000000000002, maximum_slope: 0.8, min_width: 0.0}
 1824:
@@ -47090,26 +47198,36 @@
         time_spent: '57.423875887'}
       up_the_crater: {achieved: 'false', configuration_id: '1825', dist_to_goal: '0.9747516661956748',
         time: 20190329-0837, time_spent: '808.154425394'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.304462357665495', time: 20191102-1620,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.49297232204484565', time: 20191101-0952,
         time_spent: '36.453169842'}
       up_the_crater: {achieved: 'false', configuration_id: '1825', dist_to_goal: '4.458955132587073',
         time: 20190329-0851, time_spent: '692.80171703'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.820489721203796', time: 20191102-1623,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.18542615422842199', time: 20191101-0954,
         time_spent: '41.698817309'}
       up_the_crater: {achieved: 'false', configuration_id: '1825', dist_to_goal: '4.3600782242415566',
         time: 20190329-0906, time_spent: '805.747997068'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.385831645494115', time: 20191102-1627,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4867091707965306', time: 20191101-0956,
         time_spent: '52.181342882'}
       up_the_crater: {achieved: 'false', configuration_id: '1825', dist_to_goal: '0.9186659216270744',
         time: 20190329-0920, time_spent: '804.36146465'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.42430764936424', time: 20191102-1630,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.13675134601590141', time: 20191101-0958,
         time_spent: '36.454163636'}
       up_the_crater: {achieved: 'false', configuration_id: '1825', dist_to_goal: '5.325041264171202',
         time: 20190329-0935, time_spent: '333.211038481'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.825321088768574', time: 20191102-1634,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.06}
   traversability: {ground_clearance: 0.2, maximum_slope: 0.75, min_width: 0.2}
 1826:
@@ -47126,26 +47244,36 @@
         time_spent: '52.181339478'}
       up_the_crater: {achieved: 'false', configuration_id: '1826', dist_to_goal: '3.438973015944122',
         time: 20190329-1013, time_spent: '381.30709308'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.361644272588222', time: 20191102-1637,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.30489468228405997', time: 20191101-1001,
         time_spent: '31.212984917'}
       up_the_crater: {achieved: 'false', configuration_id: '1826', dist_to_goal: '17.717192450200795',
         time: 20190329-1027, time_spent: '808.574085407'}
+      with_obstacles: {achieved: false, dist_to_goal: '5.978649523171066', time: 20191102-1641,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '1.5928469384119532', time: 20191101-1003,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1826', dist_to_goal: '10.125145436230072',
         time: 20190329-1042, time_spent: '445.445939271'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.328251330045427', time: 20191102-1644,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.08627313748512948', time: 20191101-1005,
         time_spent: '73.149826757'}
       up_the_crater: {achieved: 'false', configuration_id: '1826', dist_to_goal: '5.846701522811604',
         time: 20190329-1056, time_spent: '804.491503383'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.192625941650656', time: 20191102-1648,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: false, dist_to_goal: '1.4270493280726393', time: 20191101-1008,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1826', dist_to_goal: '5.8926011530040086',
         time: 20190329-1111, time_spent: '441.984343483'}
+      with_obstacles: {achieved: false, dist_to_goal: '5.597808523920488', time: 20191102-1651,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.015, pointTurnSpeed: 0.07}
   traversability: {ground_clearance: 0.65, maximum_slope: 0.9500000000000001, min_width: 0.0}
 1827:
@@ -47162,26 +47290,36 @@
         time_spent: '25.970261227'}
       up_the_crater: {achieved: 'false', configuration_id: '1827', dist_to_goal: '1.2406570186751091',
         time: 20190329-1149, time_spent: '375.487331951'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.836309249592654', time: 20191102-1655,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.43642992548827153', time: 20191101-1011,
         time_spent: '25.970289877'}
       up_the_crater: {achieved: 'false', configuration_id: '1827', dist_to_goal: '1.2550265652574406',
         time: 20190329-1159, time_spent: '804.005514532'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.554368406472541', time: 20191102-1658,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.47720104542107705', time: 20191101-1013,
         time_spent: '36.455169909'}
       up_the_crater: {achieved: 'false', configuration_id: '1827', dist_to_goal: '2.535200126129283',
         time: 20190329-1213, time_spent: '808.044043608'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.895795519970989', time: 20191102-1701,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4579426204584287', time: 20191101-1014,
         time_spent: '25.969559097'}
       up_the_crater: {achieved: 'false', configuration_id: '1827', dist_to_goal: '1.944335467223817',
         time: 20190329-1227, time_spent: '807.657835393'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.835048072152173', time: 20191102-1705,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.4112377714745537', time: 20191101-1016,
         time_spent: '36.454499369'}
       up_the_crater: {achieved: 'false', configuration_id: '1827', dist_to_goal: '2.939145987950746',
         time: 20190329-1242, time_spent: '356.156084279'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.049499339366168', time: 20191102-1708,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.065, pointTurnSpeed: 0.08}
   traversability: {ground_clearance: 0.5, maximum_slope: 0.65, min_width: 0.0}
 1828:
@@ -47681,26 +47819,36 @@
         time_spent: '41.69623119'}
       up_the_crater: {achieved: 'true', configuration_id: '1848', time: 20190330-1850,
         time_spent: '115.152590678'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.491364053742995', time: 20191102-1712,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.4043636478928782', time: 20191101-1019,
         time_spent: '41.69650684'}
       up_the_crater: {achieved: 'false', configuration_id: '1848', dist_to_goal: '2.918898583183385',
         time: 20190330-1905, time_spent: '806.336085574'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.137812027564703', time: 20191102-1715,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.14648721553418223', time: 20191101-1021,
         time_spent: '31.093491948'}
       up_the_crater: {achieved: 'false', configuration_id: '1848', dist_to_goal: '3.583002680695542',
         time: 20190330-1919, time_spent: '805.864139033'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.821929450278406', time: 20191102-1719,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.44015374315201733', time: 20191101-1023,
         time_spent: '25.969917612'}
       up_the_crater: {achieved: 'false', configuration_id: '1848', dist_to_goal: '0.7894342181198544',
         time: 20190330-1934, time_spent: '810.730445088'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.404826090467767', time: 20191102-1722,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.43810897849643815', time: 20191101-1024,
         time_spent: '25.968608643'}
       up_the_crater: {achieved: 'false', configuration_id: '1848', dist_to_goal: '3.6233135190213392',
         time: 20190330-1948, time_spent: '805.873136915'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.028874580035342', time: 20191102-1726,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.060000000000000005, pointTurnSpeed: 0.035}
   traversability: {ground_clearance: 0.65, maximum_slope: 0.9500000000000001, min_width: 0.0}
 1849:
@@ -47910,26 +48058,36 @@
         time_spent: '20.728500342'}
       up_the_crater: {achieved: 'false', configuration_id: '1857', dist_to_goal: '1.9023673596951396',
         time: 20190331-0652, time_spent: '320.172847031'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.54396944261873', time: 20191102-1729,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: false, dist_to_goal: '0.6119309350675745', time: 20191101-1027,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1857', dist_to_goal: '3.9238361825767245',
         time: 20190331-0703, time_spent: '374.904347183'}
+      with_obstacles: {achieved: true, dist_to_goal: '0.370096658191744', time: 20191102-1733,
+        time_spent: '83.635941485'}
     '2':
       no_obstacles: {achieved: false, dist_to_goal: '0.802920258078814', time: 20191101-1030,
         time_spent: '75'}
       up_the_crater: {achieved: 'true', configuration_id: '1857', time: 20190331-0711,
         time_spent: '109.846037859'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.549210987650141', time: 20191102-1735,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: false, dist_to_goal: '0.5915148939551681', time: 20191101-1032,
         time_spent: '75'}
       up_the_crater: {achieved: 'false', configuration_id: '1857', dist_to_goal: '1.0332061725744306',
         time: 20190331-0721, time_spent: '710.162054523'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.566231308106442', time: 20191102-1738,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.20028420059739988', time: 20191101-1035,
         time_spent: '15.484910515'}
       up_the_crater: {achieved: 'true', configuration_id: '1857', time: 20190331-0734,
         time_spent: '109.844216252'}
+      with_obstacles: {achieved: false, dist_to_goal: '4.995949391809882', time: 20191102-1742,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.075}
   traversability: {ground_clearance: 0.15000000000000002, maximum_slope: 0.6000000000000001,
     min_width: 0.05}
@@ -47947,26 +48105,36 @@
         time_spent: '25.970041367'}
       up_the_crater: {achieved: 'true', configuration_id: '1858', time: 20190331-0801,
         time_spent: '104.605302034'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.583511598173465', time: 20191102-1745,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.2909524043986878', time: 20191101-1037,
         time_spent: '31.21228083'}
       up_the_crater: {achieved: 'false', configuration_id: '1858', dist_to_goal: '0.5417496519605628',
         time: 20190331-0804, time_spent: '301.883238406'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.884107926438297', time: 20191102-1749,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.41406410689295114', time: 20191101-1039,
         time_spent: '25.969329457'}
       up_the_crater: {achieved: 'true', configuration_id: '1858', time: 20190331-0811,
         time_spent: '78.393317952'}
+      with_obstacles: {achieved: false, dist_to_goal: '11.335554496966951', time: 20191102-1752,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.3373180309353274', time: 20191101-1040,
         time_spent: '31.211183616'}
       up_the_crater: {achieved: 'false', configuration_id: '1858', dist_to_goal: '0.5760726375077186',
         time: 20190331-0813, time_spent: '323.327781917'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.849194833818356', time: 20191102-1756,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.39253011077359323', time: 20191101-1042,
         time_spent: '25.970085525'}
       up_the_crater: {achieved: 'true', configuration_id: '1858', time: 20190331-0826,
         time_spent: '78.392790398'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.477066960140911', time: 20191102-1759,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.065, pointTurnSpeed: 0.065}
   traversability: {ground_clearance: 0.5, maximum_slope: 0.8, min_width: 0.0}
 1859:
@@ -48007,26 +48175,36 @@
         time_spent: '46.939253882'}
       up_the_crater: {achieved: 'true', configuration_id: '1860', time: 20190331-1017,
         time_spent: '109.846886331'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.696534654648895', time: 20191102-1803,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.15598796064658096', time: 20191101-1045,
         time_spent: '52.181828315'}
       up_the_crater: {achieved: 'false', configuration_id: '1860', dist_to_goal: '0.9316147384183898',
         time: 20190331-1025, time_spent: '412.034522147'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.905240349054154', time: 20191102-1806,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.14401060390343426', time: 20191101-1047,
         time_spent: '52.18172467'}
       up_the_crater: {achieved: 'false', configuration_id: '1860', dist_to_goal: '0.764220436489703',
         time: 20190331-1036, time_spent: '714.201714787'}
+      with_obstacles: {achieved: false, dist_to_goal: '8.008178857732922', time: 20191102-1809,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.4143657300319417', time: 20191101-1049,
         time_spent: '52.179060029'}
       up_the_crater: {achieved: 'false', configuration_id: '1860', dist_to_goal: '0.7252451320621564',
         time: 20190331-1049, time_spent: '711.013621173'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.919629899122233', time: 20191102-1813,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.15817867580798733', time: 20191101-1052,
         time_spent: '41.696912428'}
       up_the_crater: {achieved: 'true', configuration_id: '1860', time: 20190331-1101,
         time_spent: '109.842092477'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.25916277326726', time: 20191102-1816,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.05500000000000001}
   traversability: {ground_clearance: 0.2, maximum_slope: 0.8, min_width: 0.05}
 1861:
@@ -48067,26 +48245,36 @@
         time_spent: '25.969987304'}
       up_the_crater: {achieved: 'false', configuration_id: '1862', dist_to_goal: '2.8037575037509286',
         time: 20190331-1307, time_spent: '718.010608374'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.209287385068729', time: 20191102-1820,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.24660360163937134', time: 20191101-1055,
         time_spent: '31.211795393'}
       up_the_crater: {achieved: 'false', configuration_id: '1862', dist_to_goal: '1.0081001536471752',
         time: 20190331-1320, time_spent: '329.575918059'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.543436323326434', time: 20191102-1823,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.04191700290395629', time: 20191101-1056,
         time_spent: '20.728172899'}
       up_the_crater: {achieved: 'true', configuration_id: '1862', time: 20190331-1333,
         time_spent: '175.322523229'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.569640053426905', time: 20191102-1827,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.2687525514030486', time: 20191101-1058,
         time_spent: '36.335327214'}
       up_the_crater: {achieved: 'true', configuration_id: '1862', time: 20190331-1346,
         time_spent: '57.424382832'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.4818148777638775', time: 20191102-1830,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.4316336942776634', time: 20191101-1059,
         time_spent: '20.728024161'}
       up_the_crater: {achieved: 'true', configuration_id: '1862', time: 20190331-1348,
         time_spent: '109.846022518'}
+      with_obstacles: {achieved: false, dist_to_goal: '9.264451487385903', time: 20191102-1834,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.045000000000000005, pointTurnSpeed: 0.07}
   traversability: {ground_clearance: 0.45000000000000007, maximum_slope: 0.8, min_width: 0.05}
 1863:
@@ -48103,26 +48291,36 @@
         time_spent: '20.727844051'}
       up_the_crater: {achieved: 'true', configuration_id: '1863', time: 20190331-1418,
         time_spent: '67.907246212'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.320187492378355', time: 20191102-1837,
+        time_spent: '150'}
     '1':
       no_obstacles: {achieved: true, dist_to_goal: '0.07133916963017582', time: 20191101-1102,
         time_spent: '20.726726914'}
       up_the_crater: {achieved: 'true', configuration_id: '1863', time: 20190331-1420,
         time_spent: '73.149654506'}
+      with_obstacles: {achieved: false, dist_to_goal: '6.714989720064964', time: 20191102-1841,
+        time_spent: '150'}
     '2':
       no_obstacles: {achieved: true, dist_to_goal: '0.4176633771655765', time: 20191101-1103,
         time_spent: '20.726823124'}
       up_the_crater: {achieved: 'true', configuration_id: '1863', time: 20190331-1422,
         time_spent: '57.42273'}
+      with_obstacles: {achieved: false, dist_to_goal: '3.577308074879823', time: 20191102-1844,
+        time_spent: '150'}
     '3':
       no_obstacles: {achieved: true, dist_to_goal: '0.18063896209092967', time: 20191101-1105,
         time_spent: '20.727413248'}
       up_the_crater: {achieved: 'false', configuration_id: '1863', dist_to_goal: '2.8224314060451667',
         time: 20190331-1424, time_spent: '579.049618964'}
+      with_obstacles: {achieved: false, dist_to_goal: '7.299314550517615', time: 20191102-1848,
+        time_spent: '150'}
     '4':
       no_obstacles: {achieved: true, dist_to_goal: '0.2713066062095011', time: 20191101-1106,
         time_spent: '20.728363982'}
       up_the_crater: {achieved: 'true', configuration_id: '1863', time: 20190331-1437,
         time_spent: '78.393113986'}
+      with_obstacles: {achieved: false, dist_to_goal: '10.4047719534139', time: 20191102-1851,
+        time_spent: '150'}
   trajectory_follower: {noOrientationRotationalVelocity: 0.065, pointTurnSpeed: 0.075}
   traversability: {ground_clearance: 0.45000000000000007, maximum_slope: 0.8, min_width: 0.0}
 1864:
